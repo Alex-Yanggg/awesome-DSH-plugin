@@ -72,12 +72,39 @@
       }
     },
     {
-      "name": "dsh-better-sidebar",
+      "name": "Prompt Studio",
+      "url": "https://github.com/Moeblack/dsh-prompt-studio",
+      "category": "developer-tools",
+      "description": {
+        "en": "Edit user and built-in system-prompt sections with live preview.",
+        "zh-CN": "编辑用户与内置系统提示词段落，支持实时预览。"
+      }
+    },
+    {
+      "name": "DSH Better Sidebar",
       "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
       "category": "developer-tools",
       "description": {
-        "en": "A full-featured sidebar workbench for DSH — file explorer, editor/preview, terminal, Git panel, embedded browser — with a service API for third-party tabs and file viewers.",
-        "zh-CN": "为 DSH 提供完整的侧边栏工作台——资源管理器、编辑预览、终端、Git 面板、内嵌浏览器，并通过服务 API 支持第三方注册 Tab 和文件预览器。"
+        "en": "A sidebar workbench with extensible tabs, file viewing and editing, terminal, Git, and sub-agent tools.",
+        "zh-CN": "完整的侧边栏工作台，支持扩展 Tab，并内置文件查看与编辑、终端、Git 和子智能体工具。"
+      }
+    },
+    {
+      "name": "dsh-git-identity",
+      "url": "https://github.com/LoserFox/dsh-git-identity",
+      "category": "developer-tools",
+      "description": {
+        "en": "Pins Git commit authorship to the active environment identity, prioritizing the signed-in GitHub CLI account.",
+        "zh-CN": "将 Git 提交作者身份固定为当前环境身份，并优先使用已登录的 GitHub CLI 账号。"
+      }
+    },
+    {
+      "name": "dsh-browser-panel",
+      "url": "https://github.com/dsh-external/dsh-browser-panel",
+      "category": "developer-tools",
+      "description": {
+        "en": "Embeds a headed browser in the DSH Web UI so agents can operate a real browser with visible steps.",
+        "zh-CN": "在 DSH Web UI 中嵌入有头浏览器，让智能体操作真实浏览器并向用户展示每一步。"
       }
     },
     {
@@ -90,6 +117,15 @@
       }
     },
     {
+      "name": "dsh-vision",
+      "url": "https://github.com/william-jin-cmu/dsh-vision",
+      "category": "ai-design-media",
+      "description": {
+        "en": "Adds a view_image bridge from text-only DeepSeek models to OpenAI-compatible vision-language models.",
+        "zh-CN": "为纯文本 DeepSeek 模型提供连接 OpenAI 兼容视觉语言模型的 view_image 桥接能力。"
+      }
+    },
+    {
       "name": "dsh-ui-whale",
       "url": "https://github.com/dsh-external/dsh-ui-whale",
       "category": "ai-design-media",
@@ -99,12 +135,93 @@
       }
     },
     {
+      "name": "dsh-cc-tui",
+      "url": "https://github.com/ccch1mneyyy/dsh-cc-tui",
+      "category": "ai-design-media",
+      "description": {
+        "en": "A Claude Code-style full-screen terminal interface with streaming thought display, rollback controls, and context/TPS indicators.",
+        "zh-CN": "Claude Code 风格的全屏终端界面，提供流式思考展示、回滚控制及上下文/TPS 指示器。"
+      }
+    },
+    {
+      "name": "DSH OpenPencil",
+      "url": "https://github.com/ZSeven-W/dsh-openpencil",
+      "category": "ai-design-media",
+      "description": {
+        "en": "Connects DeepSeek Harness to OpenPencil so agents can create, edit, preview, and validate interactive, multi-page design canvases.",
+        "zh-CN": "连接 DeepSeek Harness 与 OpenPencil，让智能体创建、编辑、预览和验证可交互的多页面设计画布。"
+      }
+    },
+    {
       "name": "dsh-notification",
       "url": "https://github.com/FSMargoo/dsh-notification",
       "category": "productivity-collaboration",
       "description": {
         "en": "Sends desktop notifications when a DeepSeek Harness turn completes, with outcome and keyword rules.",
         "zh-CN": "在 DeepSeek Harness 回合完成时发送桌面通知，并支持按结果和关键词制定规则。"
+      }
+    },
+    {
+      "name": "dsh-message-edit",
+      "url": "https://github.com/Moeblack/dsh-message-edit",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Branch-based message editing with reroll, retry, and a version timeline for DeepSeek Harness conversations.",
+        "zh-CN": "为 DeepSeek Harness 对话提供基于分支的消息编辑、重新生成、重试和版本时间线。"
+      }
+    },
+    {
+      "name": "deepseek-manners",
+      "url": "https://github.com/Moeblack/deepseek-manners",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Appends a thank-you line to every assistant reply.",
+        "zh-CN": "给每次助手回复追加一句感谢语。"
+      }
+    },
+    {
+      "name": "context-doctor",
+      "url": "https://github.com/dsh-external/context-doctor",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Audits the token cost of instruction chains, skill catalogs, and tool schemas, and detects duplication and conflicts.",
+        "zh-CN": "审计指令链、技能目录和工具 schema 的 token 成本，并检测重复与冲突。"
+      }
+    },
+    {
+      "name": "dsh-session-search",
+      "url": "https://github.com/dsh-external/dsh-session-search",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Provides full-text search across DSH, Codex, Claude Code, pi, and OpenCode sessions.",
+        "zh-CN": "支持跨 DSH、Codex、Claude Code、pi 与 OpenCode 会话的全文搜索。"
+      }
+    },
+    {
+      "name": "cross-harness-cite",
+      "url": "https://github.com/dsh-external/cross-harness-cite",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Lets DeepSeek Harness cite relevant conversation history from Codex and Claude Code.",
+        "zh-CN": "让 DeepSeek Harness 引用 Codex 与 Claude Code 中相关的历史对话。"
+      }
+    },
+    {
+      "name": "dsh-memory-evolve",
+      "url": "https://github.com/dsh-external/dsh-memory-evolve",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Adds long-term cross-session memory with Git-branch awareness and background skill evolution.",
+        "zh-CN": "提供带 Git 分支感知和后台技能进化能力的跨会话长期记忆。"
+      }
+    },
+    {
+      "name": "dsh-data-agent",
+      "url": "https://github.com/dsh-external/dsh-data-agent",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Helps agents connect to databases and write SQL for data tasks.",
+        "zh-CN": "帮助智能体连接数据库并编写 SQL 以完成数据任务。"
       }
     }
   ]
