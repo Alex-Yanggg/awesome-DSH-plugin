@@ -56,6 +56,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-web-review](https://github.com/CanglongCl/dsh-web-review) — 在 DSH Web 中嵌入隔离网页预览，通过元素批注和可视化调整指导源码修改。
 
+- [dsh-balance-meter](https://github.com/Ghost011118/dsh-balance-meter) — 在 DSH Web 输入框下方实时显示 DeepSeek 账户余额与本场会话花费，自动抓取官方价格并支持峰谷计价。
+
 - [plugin-registry](https://github.com/vlln/plugin-registry) — 基于浏览器的 Plugin 管理控制台，并提供官方 DSH Plugin 开发引导。
 
 - [Prompt Studio](https://github.com/Moeblack/dsh-prompt-studio) — 编辑用户与内置系统提示词段落，支持实时预览。
