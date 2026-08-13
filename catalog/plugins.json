@@ -72,6 +72,15 @@
       }
     },
     {
+      "name": "dsh-bash-encoding",
+      "url": "https://github.com/lhh010/dsh-bash-encoding",
+      "category": "developer-tools",
+      "description": {
+        "en": "Automatically detects and decodes Bash output encodings including UTF-16LE, UTF-8, and GBK for Windows and WSL.",
+        "zh-CN": "自动识别并解码 UTF-16LE、UTF-8、GBK 等 Bash 输出编码，修复 Windows 与 WSL 下的乱码。"
+      }
+    },
+    {
       "name": "Prompt Studio",
       "url": "https://github.com/Moeblack/dsh-prompt-studio",
       "category": "developer-tools",
@@ -127,11 +136,20 @@
     },
     {
       "name": "dsh-ui-whale",
-      "url": "https://github.com/dsh-external/dsh-ui-whale",
+      "url": "https://github.com/lhh010/dsh-ui-whale",
       "category": "ai-design-media",
       "description": {
         "en": "A hand-drawn pixel whale companion for the DSH Web UI that reacts to agent activity.",
         "zh-CN": "为 DSH Web UI 提供会随智能体活动作出反应的手绘像素鲸鱼伙伴。"
+      }
+    },
+    {
+      "name": "dsh-minigames",
+      "url": "https://github.com/lhh010/dsh-minigames",
+      "category": "ai-design-media",
+      "description": {
+        "en": "Adds an extensible DSH Web UI panel with 18 offline mini-games for breaks while waiting on agent work.",
+        "zh-CN": "为 DSH Web UI 添加可扩展的 18 款离线小游戏面板，适合等待智能体工作时休息。"
       }
     },
     {
@@ -159,6 +177,33 @@
       "description": {
         "en": "Sends desktop notifications when a DeepSeek Harness turn completes, with outcome and keyword rules.",
         "zh-CN": "在 DeepSeek Harness 回合完成时发送桌面通知，并支持按结果和关键词制定规则。"
+      }
+    },
+    {
+      "name": "dsh-paste-input",
+      "url": "https://github.com/lhh010/dsh-paste-input",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Enhances file input with paste, drag and drop, and file picking; submitted files are copied into the session workspace.",
+        "zh-CN": "增强文件输入，支持粘贴、拖拽和选择文件；发送时自动将文件复制到会话工作区。"
+      }
+    },
+    {
+      "name": "dsh-ui-progress",
+      "url": "https://github.com/lhh010/dsh-ui-progress",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Shows persistent conversation progress, live token generation speed, interruption state, and todo reminders in the Web UI.",
+        "zh-CN": "在 Web UI 中常驻显示会话进度、实时 token 生成速率、中断状态和待办提醒。"
+      }
+    },
+    {
+      "name": "dsh-input-history",
+      "url": "https://github.com/lhh010/dsh-input-history",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Adds terminal-style Ctrl+Up and Ctrl+Down navigation through sent messages while preserving the latest unsent draft.",
+        "zh-CN": "提供终端风格的 Ctrl+Up / Ctrl+Down 已发送消息导航，并保留最新未发送草稿。"
       }
     },
     {

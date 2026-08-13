@@ -45,6 +45,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-at-file](https://github.com/FSMargoo/dsh-at-file) — Adds Codex-style @file mentions to search workspace files and attach their contents to prompts.
 
+- [dsh-bash-encoding](https://github.com/lhh010/dsh-bash-encoding) — Automatically detects and decodes Bash output encodings including UTF-16LE, UTF-8, and GBK for Windows and WSL.
+
 - [dsh-browser-panel](https://github.com/dsh-external/dsh-browser-panel) — Embeds a headed browser in the DSH Web UI so agents can operate a real browser with visible steps.
 
 - [dsh-custom-tool](https://github.com/FSMargoo/dsh-custom-tool) — Create and manage sandboxed JavaScript tools with a Monaco editor and a model-driven lifecycle.
@@ -69,9 +71,15 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-companion](https://github.com/william-jin-cmu/dsh-companion) — A DeepSeek Harness distribution of the Cetus macOS desktop agent: a resident chat companion with global hotkey, screen context, scheduled tasks, and file hand-off.
 
+- [dsh-input-history](https://github.com/lhh010/dsh-input-history) — Adds terminal-style Ctrl+Up and Ctrl+Down navigation through sent messages while preserving the latest unsent draft.
+
 - [dsh-message-edit](https://github.com/Moeblack/dsh-message-edit) — Branch-based message editing with reroll, retry, and a version timeline for DeepSeek Harness conversations.
 
 - [dsh-notification](https://github.com/FSMargoo/dsh-notification) — Sends desktop notifications when a DeepSeek Harness turn completes, with outcome and keyword rules.
+
+- [dsh-paste-input](https://github.com/lhh010/dsh-paste-input) — Enhances file input with paste, drag and drop, and file picking; submitted files are copied into the session workspace.
+
+- [dsh-ui-progress](https://github.com/lhh010/dsh-ui-progress) — Shows persistent conversation progress, live token generation speed, interruption state, and todo reminders in the Web UI.
 
 ### Data, research & knowledge
 
@@ -95,11 +103,13 @@ No entries yet. [Submit the first plugin.](CONTRIBUTING.md)
 
 - [dsh-cc-tui](https://github.com/ccch1mneyyy/dsh-cc-tui) — A Claude Code-style full-screen terminal interface with streaming thought display, rollback controls, and context/TPS indicators.
 
+- [dsh-minigames](https://github.com/lhh010/dsh-minigames) — Adds an extensible DSH Web UI panel with 18 offline mini-games for breaks while waiting on agent work.
+
 - [dsh-qq2006](https://github.com/LaplaceYoung/dsh-qq2006) — A switchable QQ2006 skin for the DeepSeek Harness Web UI with a coral-blue theme and retro assets.
 
 - [dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) — A shared sticker catalog serving the Web UI picker, a /sticker command, and an agent send_sticker tool, with two character variants and workflow-reaction stickers.
 
-- [dsh-ui-whale](https://github.com/dsh-external/dsh-ui-whale) — A hand-drawn pixel whale companion for the DSH Web UI that reacts to agent activity.
+- [dsh-ui-whale](https://github.com/lhh010/dsh-ui-whale) — A hand-drawn pixel whale companion for the DSH Web UI that reacts to agent activity.
 
 - [dsh-vision](https://github.com/william-jin-cmu/dsh-vision) — Adds a view_image bridge from text-only DeepSeek models to OpenAI-compatible vision-language models.
 
