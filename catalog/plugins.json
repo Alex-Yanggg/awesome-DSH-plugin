@@ -430,6 +430,15 @@
         "en": "A switchable QQ2006 skin for the DeepSeek Harness Web UI with a coral-blue theme and retro assets.",
         "zh-CN": "DeepSeek Harness Web UI 的可切换 QQ2006 皮肤，提供珊瑚蓝主题和复古素材。"
       }
+    },
+    {
+      "name": "dsh-grok-tui",
+      "url": "https://github.com/chen-001/dsh-grok-tui",
+      "category": "ai-design-media",
+      "description": {
+        "en": "Use dsh via grok-build's tui.",
+        "zh-CN": "借用grok-build tui使用dsh"
+      }
     }
   ]
 }
