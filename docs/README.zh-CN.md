@@ -78,6 +78,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-paste-input](https://github.com/lhh010/dsh-paste-input) — 增强文件输入，支持粘贴、拖拽和选择文件；发送时自动将文件复制到会话工作区。
 
+- [dsh-track](https://github.com/fakechris/dsh-track) — 嵌入式任务管理引擎，提供决策点、念头捕获墙和 Linear 风格的 issue 存储。
+
 - [dsh-ui-progress](https://github.com/lhh010/dsh-ui-progress) — 在 Web UI 中常驻显示会话进度、实时 token 生成速率、中断状态和待办提醒。
 
 ### 数据、研究与知识
@@ -94,7 +96,7 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 ### 云、DevOps 与可观测性
 
-暂未收录。欢迎[提交第一个 Plugin](../CONTRIBUTING.md)。
+- [dsh-harness-ops](https://github.com/fakechris/dsh-harness-ops) — 运维工具箱，提供 A/B 快照升级、自动恢复、回滚和诊断式自愈命令。
 
 ### AI、设计与媒体
 
