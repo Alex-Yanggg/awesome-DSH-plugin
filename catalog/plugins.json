@@ -1,0 +1,38 @@
+{
+  "$schema": "./schema.json",
+  "categories": [
+    {
+      "id": "developer-tools",
+      "title": { "en": "Developer tools", "zh-CN": "开发工具" }
+    },
+    {
+      "id": "agent-automation",
+      "title": { "en": "Agent orchestration & automation", "zh-CN": "智能体编排与自动化" }
+    },
+    {
+      "id": "productivity-collaboration",
+      "title": { "en": "Productivity & collaboration", "zh-CN": "效率与协作" }
+    },
+    {
+      "id": "data-research-knowledge",
+      "title": { "en": "Data, research & knowledge", "zh-CN": "数据、研究与知识" }
+    },
+    {
+      "id": "cloud-devops-observability",
+      "title": { "en": "Cloud, DevOps & observability", "zh-CN": "云、DevOps 与可观测性" }
+    },
+    {
+      "id": "ai-design-media",
+      "title": { "en": "AI, design & media", "zh-CN": "AI、设计与媒体" }
+    },
+    {
+      "id": "business-finance-commerce",
+      "title": { "en": "Business, finance & commerce", "zh-CN": "商业、金融与电商" }
+    },
+    {
+      "id": "life-devices-physical-world",
+      "title": { "en": "Life, devices & the physical world", "zh-CN": "生活、设备与物理世界" }
+    }
+  ],
+  "plugins": []
+}

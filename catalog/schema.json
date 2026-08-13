@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Awesome DeepSeek Harness Plugin Catalog",
+  "type": "object",
+  "required": ["categories", "plugins"],
+  "properties": {
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "title"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+          "title": { "$ref": "#/$defs/localizedText" }
+        }
+      }
+    },
+    "plugins": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "url", "category", "description"],
+        "properties": {
+          "name": { "type": "string", "minLength": 1 },
+          "url": { "type": "string", "format": "uri" },
+          "category": { "type": "string" },
+          "description": { "$ref": "#/$defs/localizedText" },
+          "status": { "enum": ["active", "beta", "archived"] },
+          "source": { "type": "string", "enum": ["official", "community"] }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "localizedText": {
+      "type": "object",
+      "required": ["en", "zh-CN"],
+      "properties": {
+        "en": { "type": "string", "minLength": 1 },
+        "zh-CN": { "type": "string", "minLength": 1 }
+      }
+    }
+  }
+}
