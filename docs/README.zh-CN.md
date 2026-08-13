@@ -94,7 +94,7 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 ### 数据、研究与知识
 
-- [context-doctor](https://github.com/dsh-external/context-doctor) — 审计指令链、技能目录和工具 schema 的 token 成本，并检测重复与冲突。
+- [context-doctor](https://github.com/Zhenyu98/dsh-context-doctor) — 看清模型每个请求到底背着多少上下文：指令链/技能目录/工具 schema 的 token 成本逐项量化，自动检测重复与冲突，给出可执行裁剪建议（Web 圆环面板 + context_audit 工具，全程只读）。
 
 - [cross-harness-cite](https://github.com/dsh-external/cross-harness-cite) — 让 DeepSeek Harness 引用 Codex 与 Claude Code 中相关的历史对话。
 
