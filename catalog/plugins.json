@@ -430,6 +430,15 @@
         "en": "A switchable QQ2006 skin for the DeepSeek Harness Web UI with a coral-blue theme and retro assets.",
         "zh-CN": "DeepSeek Harness Web UI 的可切换 QQ2006 皮肤，提供珊瑚蓝主题和复古素材。"
       }
+    },
+    {
+      "name": "dsh-turn-index",
+      "url": "https://github.com/Simon314620/dsh-turn-index",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "A turn-index sidebar listing every user turn, with click-to-jump navigation and scroll-spy highlighting.",
+        "zh-CN": "轮次索引侧边栏：列出每一轮用户提问，点击跳转到对应位置，滚动时自动高亮当前轮次。"
+      }
     }
   ]
 }

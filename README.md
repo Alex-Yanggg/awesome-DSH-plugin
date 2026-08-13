@@ -93,6 +93,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-track](https://github.com/fakechris/dsh-track) — An embedded task-management engine with decision points, an idea-capture wall, and Linear-style issue storage.
 
+- [dsh-turn-index](https://github.com/Simon314620/dsh-turn-index) — A turn-index sidebar listing every user turn, with click-to-jump navigation and scroll-spy highlighting.
+
 - [dsh-ui-progress](https://github.com/lhh010/dsh-ui-progress) — Shows persistent conversation progress, live token generation speed, interruption state, and todo reminders in the Web UI.
 
 ### Data, research & knowledge

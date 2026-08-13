@@ -92,6 +92,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-track](https://github.com/fakechris/dsh-track) — 嵌入式任务管理引擎，提供决策点、念头捕获墙和 Linear 风格的 issue 存储。
 
+- [dsh-turn-index](https://github.com/Simon314620/dsh-turn-index) — 轮次索引侧边栏：列出每一轮用户提问，点击跳转到对应位置，滚动时自动高亮当前轮次。
+
 - [dsh-ui-progress](https://github.com/lhh010/dsh-ui-progress) — 在 Web UI 中常驻显示会话进度、实时 token 生成速率、中断状态和待办提醒。
 
 ### 数据、研究与知识
