@@ -44,11 +44,15 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-open-in-vscode](https://github.com/FSMargoo/dsh-open-in-vscode) — 可从 DeepSeek Harness Web 界面直接在 VS Code 中打开工作区目录。
 
+- [Prompt Studio](https://github.com/Moeblack/dsh-prompt-studio) — 编辑用户与内置系统提示词段落，支持实时预览。
+
 ### 智能体编排与自动化
 
 - [mstar-harness](https://github.com/btspoony/mstar-harness) — 面向结构化 Harness 循环工程的技能驱动工作流智能体 Plugin。
 
 ### 效率与协作
+
+- [deepseek-manners](https://github.com/Moeblack/deepseek-manners) — 给每次助手回复追加一句感谢语。
 
 - [dsh-message-edit](https://github.com/Moeblack/dsh-message-edit) — 为 DeepSeek Harness 对话提供基于分支的消息编辑、重新生成、重试和版本时间线。
 
