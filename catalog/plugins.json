@@ -243,6 +243,15 @@
       }
     },
     {
+      "name": "dsh-openbiliclaw",
+      "url": "https://github.com/whiteguo233/dsh-openbiliclaw",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Brings the local OpenBiliClaw content-recommendation agent into DSH with a persistent UI and 22 agent-bridge tools.",
+        "zh-CN": "将本地 OpenBiliClaw 内容推荐智能体接入 DSH，提供常驻界面和 22 个 Agent Bridge 工具。"
+      }
+    },
+    {
       "name": "dsh-task-status",
       "url": "https://github.com/vlln/dsh-task-status",
       "category": "productivity-collaboration",
