@@ -72,6 +72,15 @@
       }
     },
     {
+      "name": "Prompt Studio",
+      "url": "https://github.com/Moeblack/dsh-prompt-studio",
+      "category": "developer-tools",
+      "description": {
+        "en": "Edit user and built-in system-prompt sections with live preview.",
+        "zh-CN": "编辑用户与内置系统提示词段落，支持实时预览。"
+      }
+    },
+    {
       "name": "dsh-vision-toolkit",
       "url": "https://github.com/Anionex/dsh-vision-toolkit",
       "category": "ai-design-media",
@@ -105,6 +114,15 @@
       "description": {
         "en": "Branch-based message editing with reroll, retry, and a version timeline for DeepSeek Harness conversations.",
         "zh-CN": "为 DeepSeek Harness 对话提供基于分支的消息编辑、重新生成、重试和版本时间线。"
+      }
+    },
+    {
+      "name": "deepseek-manners",
+      "url": "https://github.com/Moeblack/deepseek-manners",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Appends a thank-you line to every assistant reply.",
+        "zh-CN": "给每次助手回复追加一句感谢语。"
       }
     }
   ]
