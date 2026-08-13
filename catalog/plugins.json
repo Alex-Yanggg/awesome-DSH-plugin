@@ -162,6 +162,42 @@
       }
     },
     {
+      "name": "dsh-artifact",
+      "url": "https://github.com/william-jin-cmu/dsh-artifact",
+      "category": "developer-tools",
+      "description": {
+        "en": "A send_artifact tool that validates model-produced files and delivers structured descriptors through the standard dsh event stream for any client to render.",
+        "zh-CN": "提供 send_artifact 工具，校验模型产出的文件并通过 dsh 标准事件流交付结构化描述子，任何客户端都可按需呈现。"
+      }
+    },
+    {
+      "name": "dsh-evolve",
+      "url": "https://github.com/william-jin-cmu/dsh-evolve",
+      "category": "agent-automation",
+      "description": {
+        "en": "Lets the agent write, hot-mount, and reversibly remove its own cordis plugins mid-session, growing new tools, prompt rules, and event hooks that persist across restarts.",
+        "zh-CN": "让智能体在会话中现场编写、热挂载并可逆卸载自己的 cordis 插件，新工具、提示词规则和事件钩子重启后自动恢复。"
+      }
+    },
+    {
+      "name": "dsh-companion",
+      "url": "https://github.com/william-jin-cmu/dsh-companion",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "A DeepSeek Harness distribution of the Cetus macOS desktop agent: a resident chat companion with global hotkey, screen context, scheduled tasks, and file hand-off.",
+        "zh-CN": "Cetus macOS 桌面智能体的 DeepSeek Harness 发行版：常驻桌面聊天伙伴，支持全局快捷键、屏幕上下文、定时任务和文件递送。"
+      }
+    },
+    {
+      "name": "dsh-stickers",
+      "url": "https://github.com/william-jin-cmu/dsh-stickers",
+      "category": "ai-design-media",
+      "description": {
+        "en": "A shared sticker catalog serving the Web UI picker, a /sticker command, and an agent send_sticker tool, with two character variants and workflow-reaction stickers.",
+        "zh-CN": "同一份表情包 catalog 同时服务 Web UI 选择器、/sticker 命令和智能体 send_sticker 工具，提供双角色变体与工作流反应表情。"
+      }
+    },
+    {
       "name": "dsh-message-edit",
       "url": "https://github.com/Moeblack/dsh-message-edit",
       "category": "productivity-collaboration",
