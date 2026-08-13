@@ -189,6 +189,15 @@
       }
     },
     {
+      "name": "dsh-genui",
+      "url": "https://github.com/omdsh-dev/dsh-genui",
+      "category": "ai-design-media",
+      "description": {
+        "en": "Renders interactive UI components inline in assistant replies, including charts, forms, quizzes, Mermaid diagrams, 3D scenes, and model action events.",
+        "zh-CN": "在助手回复中内联渲染可交互 UI 组件，支持图表、表单、测验、Mermaid 图、3D 场景和模型动作事件。"
+      }
+    },
+    {
       "name": "dsh-cc-tui",
       "url": "https://github.com/ccch1mneyyy/dsh-cc-tui",
       "category": "ai-design-media",
@@ -267,6 +276,15 @@
       "description": {
         "en": "Share DeepSeek Harness conversations with a single action.",
         "zh-CN": "一键分享 DeepSeek Harness 对话。"
+      }
+    },
+    {
+      "name": "dsh-annotation",
+      "url": "https://github.com/omdsh-dev/dsh-annotation",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Adds Codex-style text annotations: select text, attach a note to the next message, and receive annotation-aware replies.",
+        "zh-CN": "提供 Codex 风格文本批注：选中文字、将批注附加到下一条消息，并获得逐条对应的回复。"
       }
     },
     {
