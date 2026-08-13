@@ -84,6 +84,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-paste-input](https://github.com/lhh010/dsh-paste-input) — 增强文件输入，支持粘贴、拖拽和选择文件；发送时自动将文件复制到会话工作区。
 
+- [dsh-share](https://github.com/hellodigua/dsh-share) — 一键分享 DeepSeek Harness 对话。
+
 - [dsh-task-status](https://github.com/vlln/dsh-task-status) — 在 DSH 对话页展示后台任务进度和实时输出 tail。
 
 - [dsh-track](https://github.com/fakechris/dsh-track) — 嵌入式任务管理引擎，提供决策点、念头捕获墙和 Linear 风格的 issue 存储。
@@ -113,6 +115,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 - [DSH OpenPencil](https://github.com/ZSeven-W/dsh-openpencil) — 连接 DeepSeek Harness 与 OpenPencil，让智能体创建、编辑、预览和验证可交互的多页面设计画布。
 
 - [dsh-cc-tui](https://github.com/ccch1mneyyy/dsh-cc-tui) — Claude Code 风格的全屏终端界面，提供流式思考展示、回滚控制及上下文/TPS 指示器。
+
+- [dsh-emoji](https://github.com/hellodigua/dsh-emoji) — 为 DeepSeek Harness 中的 AI 回复自动添加表情符号。
 
 - [dsh-minigames](https://github.com/lhh010/dsh-minigames) — 为 DSH Web UI 添加可扩展的 18 款离线小游戏面板，适合等待智能体工作时休息。
 

@@ -85,6 +85,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-paste-input](https://github.com/lhh010/dsh-paste-input) — Enhances file input with paste, drag and drop, and file picking; submitted files are copied into the session workspace.
 
+- [dsh-share](https://github.com/hellodigua/dsh-share) — Share DeepSeek Harness conversations with a single action.
+
 - [dsh-task-status](https://github.com/vlln/dsh-task-status) — Displays background-task progress and a live output tail on the DSH conversation page.
 
 - [dsh-track](https://github.com/fakechris/dsh-track) — An embedded task-management engine with decision points, an idea-capture wall, and Linear-style issue storage.
@@ -114,6 +116,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [DSH OpenPencil](https://github.com/ZSeven-W/dsh-openpencil) — Connects DeepSeek Harness to OpenPencil so agents can create, edit, preview, and validate interactive, multi-page design canvases.
 
 - [dsh-cc-tui](https://github.com/ccch1mneyyy/dsh-cc-tui) — A Claude Code-style full-screen terminal interface with streaming thought display, rollback controls, and context/TPS indicators.
+
+- [dsh-emoji](https://github.com/hellodigua/dsh-emoji) — Automatically adds emoji to AI replies in DeepSeek Harness.
 
 - [dsh-minigames](https://github.com/lhh010/dsh-minigames) — Adds an extensible DSH Web UI panel with 18 offline mini-games for breaks while waiting on agent work.
 
