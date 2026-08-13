@@ -261,6 +261,15 @@
       }
     },
     {
+      "name": "dsh-web-review",
+      "url": "https://github.com/CanglongCl/dsh-web-review",
+      "category": "developer-tools",
+      "description": {
+        "en": "Embeds isolated web page previews in DSH Web for element annotations and visual adjustments that guide source edits.",
+        "zh-CN": "在 DSH Web 中嵌入隔离网页预览，通过元素批注和可视化调整指导源码修改。"
+      }
+    },
+    {
       "name": "dsh-qq2006",
       "url": "https://github.com/LaplaceYoung/dsh-qq2006",
       "category": "ai-design-media",

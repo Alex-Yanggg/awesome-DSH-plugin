@@ -53,6 +53,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-open-in-vscode](https://github.com/FSMargoo/dsh-open-in-vscode) — Open DeepSeek Harness workspace directories in VS Code from the web interface.
 
+- [dsh-web-review](https://github.com/CanglongCl/dsh-web-review) — Embeds isolated web page previews in DSH Web for element annotations and visual adjustments that guide source edits.
+
 - [Prompt Studio](https://github.com/Moeblack/dsh-prompt-studio) — Edit user and built-in system-prompt sections with live preview.
 
 ### Agent orchestration & automation
