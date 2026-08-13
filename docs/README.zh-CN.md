@@ -38,6 +38,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 <!-- CATALOG:START -->
 ### 开发工具
 
+- [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) — 完整的侧边栏工作台，支持扩展 Tab，并内置文件查看与编辑、终端、Git 和子智能体工具。
+
 - [dsh-at-file](https://github.com/FSMargoo/dsh-at-file) — 提供 Codex 风格的 @file 引用，可搜索工作区文件并将内容附加到提示词。
 
 - [dsh-custom-tool](https://github.com/FSMargoo/dsh-custom-tool) — 通过 Monaco 编辑器及模型驱动的生命周期创建和管理沙箱化 JavaScript 工具。
@@ -69,6 +71,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 ### AI、设计与媒体
 
 - [DSH OpenPencil](https://github.com/ZSeven-W/dsh-openpencil) — 连接 DeepSeek Harness 与 OpenPencil，让智能体创建、编辑、预览和验证可交互的多页面设计画布。
+
+- [dsh-cc-tui](https://github.com/ccch1mneyyy/dsh-cc-tui) — Claude Code 风格的全屏终端界面，提供流式思考展示、回滚控制及上下文/TPS 指示器。
 
 - [dsh-ui-whale](https://github.com/dsh-external/dsh-ui-whale) — 为 DSH Web UI 提供会随智能体活动作出反应的手绘像素鲸鱼伙伴。
 

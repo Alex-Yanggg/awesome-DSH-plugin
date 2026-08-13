@@ -81,6 +81,15 @@
       }
     },
     {
+      "name": "DSH Better Sidebar",
+      "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
+      "category": "developer-tools",
+      "description": {
+        "en": "A sidebar workbench with extensible tabs, file viewing and editing, terminal, Git, and sub-agent tools.",
+        "zh-CN": "完整的侧边栏工作台，支持扩展 Tab，并内置文件查看与编辑、终端、Git 和子智能体工具。"
+      }
+    },
+    {
       "name": "dsh-vision-toolkit",
       "url": "https://github.com/Anionex/dsh-vision-toolkit",
       "category": "ai-design-media",
@@ -96,6 +105,15 @@
       "description": {
         "en": "A hand-drawn pixel whale companion for the DSH Web UI that reacts to agent activity.",
         "zh-CN": "为 DSH Web UI 提供会随智能体活动作出反应的手绘像素鲸鱼伙伴。"
+      }
+    },
+    {
+      "name": "dsh-cc-tui",
+      "url": "https://github.com/ccch1mneyyy/dsh-cc-tui",
+      "category": "ai-design-media",
+      "description": {
+        "en": "A Claude Code-style full-screen terminal interface with streaming thought display, rollback controls, and context/TPS indicators.",
+        "zh-CN": "Claude Code 风格的全屏终端界面，提供流式思考展示、回滚控制及上下文/TPS 指示器。"
       }
     },
     {
