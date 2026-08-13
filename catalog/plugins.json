@@ -72,6 +72,15 @@
       }
     },
     {
+      "name": "dsh-better-sidebar",
+      "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
+      "category": "developer-tools",
+      "description": {
+        "en": "A full-featured sidebar workbench for DSH — file explorer, editor/preview, terminal, Git panel, embedded browser — with a service API for third-party tabs and file viewers.",
+        "zh-CN": "为 DSH 提供完整的侧边栏工作台——资源管理器、编辑预览、终端、Git 面板、内嵌浏览器，并通过服务 API 支持第三方注册 Tab 和文件预览器。"
+      }
+    },
+    {
       "name": "dsh-vision-toolkit",
       "url": "https://github.com/Anionex/dsh-vision-toolkit",
       "category": "ai-design-media",

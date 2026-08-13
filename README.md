@@ -41,6 +41,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-at-file](https://github.com/FSMargoo/dsh-at-file) — Adds Codex-style @file mentions to search workspace files and attach their contents to prompts.
 
+- [dsh-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) — A full-featured sidebar workbench for DSH — file explorer, editor/preview, terminal, Git panel, embedded browser — with a service API for third-party tabs and file viewers.
+
 - [dsh-custom-tool](https://github.com/FSMargoo/dsh-custom-tool) — Create and manage sandboxed JavaScript tools with a Monaco editor and a model-driven lifecycle.
 
 - [dsh-open-in-vscode](https://github.com/FSMargoo/dsh-open-in-vscode) — Open DeepSeek Harness workspace directories in VS Code from the web interface.

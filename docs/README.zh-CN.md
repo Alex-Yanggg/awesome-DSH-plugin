@@ -40,6 +40,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-at-file](https://github.com/FSMargoo/dsh-at-file) — 提供 Codex 风格的 @file 引用，可搜索工作区文件并将内容附加到提示词。
 
+- [dsh-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) — 为 DSH 提供完整的侧边栏工作台——资源管理器、编辑预览、终端、Git 面板、内嵌浏览器，并通过服务 API 支持第三方注册 Tab 和文件预览器。
+
 - [dsh-custom-tool](https://github.com/FSMargoo/dsh-custom-tool) — 通过 Monaco 编辑器及模型驱动的生命周期创建和管理沙箱化 JavaScript 工具。
 
 - [dsh-open-in-vscode](https://github.com/FSMargoo/dsh-open-in-vscode) — 可从 DeepSeek Harness Web 界面直接在 VS Code 中打开工作区目录。
