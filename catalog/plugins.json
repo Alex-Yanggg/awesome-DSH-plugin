@@ -117,6 +117,15 @@
       }
     },
     {
+      "name": "dsh-harness-ops",
+      "url": "https://github.com/fakechris/dsh-harness-ops",
+      "category": "cloud-devops-observability",
+      "description": {
+        "en": "Operations toolkit with A/B snapshot upgrades, automatic recovery, rollback, and a diagnostic self-healing command.",
+        "zh-CN": "运维工具箱，提供 A/B 快照升级、自动恢复、回滚和诊断式自愈命令。"
+      }
+    },
+    {
       "name": "dsh-vision-toolkit",
       "url": "https://github.com/Anionex/dsh-vision-toolkit",
       "category": "ai-design-media",
@@ -204,6 +213,15 @@
       "description": {
         "en": "Adds terminal-style Ctrl+Up and Ctrl+Down navigation through sent messages while preserving the latest unsent draft.",
         "zh-CN": "提供终端风格的 Ctrl+Up / Ctrl+Down 已发送消息导航，并保留最新未发送草稿。"
+      }
+    },
+    {
+      "name": "dsh-track",
+      "url": "https://github.com/fakechris/dsh-track",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "An embedded task-management engine with decision points, an idea-capture wall, and Linear-style issue storage.",
+        "zh-CN": "嵌入式任务管理引擎，提供决策点、念头捕获墙和 Linear 风格的 issue 存储。"
       }
     },
     {

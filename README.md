@@ -79,6 +79,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-paste-input](https://github.com/lhh010/dsh-paste-input) — Enhances file input with paste, drag and drop, and file picking; submitted files are copied into the session workspace.
 
+- [dsh-track](https://github.com/fakechris/dsh-track) — An embedded task-management engine with decision points, an idea-capture wall, and Linear-style issue storage.
+
 - [dsh-ui-progress](https://github.com/lhh010/dsh-ui-progress) — Shows persistent conversation progress, live token generation speed, interruption state, and todo reminders in the Web UI.
 
 ### Data, research & knowledge
@@ -95,7 +97,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 ### Cloud, DevOps & observability
 
-No entries yet. [Submit the first plugin.](CONTRIBUTING.md)
+- [dsh-harness-ops](https://github.com/fakechris/dsh-harness-ops) — Operations toolkit with A/B snapshot upgrades, automatic recovery, rollback, and a diagnostic self-healing command.
 
 ### AI, design & media
 
