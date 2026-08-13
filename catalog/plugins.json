@@ -259,6 +259,15 @@
         "en": "Helps agents connect to databases and write SQL for data tasks.",
         "zh-CN": "帮助智能体连接数据库并编写 SQL 以完成数据任务。"
       }
+    },
+    {
+      "name": "dsh-qq2006",
+      "url": "https://github.com/LaplaceYoung/dsh-qq2006",
+      "category": "ai-design-media",
+      "description": {
+        "en": "A switchable QQ2006 skin for the DeepSeek Harness Web UI with a coral-blue theme and retro assets.",
+        "zh-CN": "DeepSeek Harness Web UI 的可切换 QQ2006 皮肤，提供珊瑚蓝主题和复古素材。"
+      }
     }
   ]
 }

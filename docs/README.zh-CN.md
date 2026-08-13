@@ -92,6 +92,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-cc-tui](https://github.com/ccch1mneyyy/dsh-cc-tui) — Claude Code 风格的全屏终端界面，提供流式思考展示、回滚控制及上下文/TPS 指示器。
 
+- [dsh-qq2006](https://github.com/LaplaceYoung/dsh-qq2006) — DeepSeek Harness Web UI 的可切换 QQ2006 皮肤，提供珊瑚蓝主题和复古素材。
+
 - [dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) — 同一份表情包 catalog 同时服务 Web UI 选择器、/sticker 命令和智能体 send_sticker 工具，提供双角色变体与工作流反应表情。
 
 - [dsh-ui-whale](https://github.com/dsh-external/dsh-ui-whale) — 为 DSH Web UI 提供会随智能体活动作出反应的手绘像素鲸鱼伙伴。
