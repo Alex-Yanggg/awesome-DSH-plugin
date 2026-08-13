@@ -99,6 +99,15 @@
       }
     },
     {
+      "name": "DSH OpenPencil",
+      "url": "https://github.com/ZSeven-W/dsh-openpencil",
+      "category": "ai-design-media",
+      "description": {
+        "en": "Connects DeepSeek Harness to OpenPencil so agents can create, edit, preview, and validate interactive, multi-page design canvases.",
+        "zh-CN": "连接 DeepSeek Harness 与 OpenPencil，让智能体创建、编辑、预览和验证可交互的多页面设计画布。"
+      }
+    },
+    {
       "name": "dsh-notification",
       "url": "https://github.com/FSMargoo/dsh-notification",
       "category": "productivity-collaboration",
