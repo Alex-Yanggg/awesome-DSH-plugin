@@ -126,6 +126,15 @@
       }
     },
     {
+      "name": "plugin-registry",
+      "url": "https://github.com/vlln/plugin-registry",
+      "category": "developer-tools",
+      "description": {
+        "en": "A browser-based plugin management console with official guidance for creating DSH plugins.",
+        "zh-CN": "基于浏览器的 Plugin 管理控制台，并提供官方 DSH Plugin 开发引导。"
+      }
+    },
+    {
       "name": "dsh-vision-toolkit",
       "url": "https://github.com/Anionex/dsh-vision-toolkit",
       "category": "ai-design-media",
@@ -159,6 +168,15 @@
       "description": {
         "en": "Adds an extensible DSH Web UI panel with 18 offline mini-games for breaks while waiting on agent work.",
         "zh-CN": "为 DSH Web UI 添加可扩展的 18 款离线小游戏面板，适合等待智能体工作时休息。"
+      }
+    },
+    {
+      "name": "whale-girl",
+      "url": "https://github.com/vlln/whale-girl",
+      "category": "ai-design-media",
+      "description": {
+        "en": "A draggable, interactive desktop pet companion for the DSH Web GUI with feeding and play interactions.",
+        "zh-CN": "DSH Web GUI 的可拖拽互动桌面宠物伙伴，支持投喂和玩耍等交互。"
       }
     },
     {
@@ -222,6 +240,33 @@
       "description": {
         "en": "An embedded task-management engine with decision points, an idea-capture wall, and Linear-style issue storage.",
         "zh-CN": "嵌入式任务管理引擎，提供决策点、念头捕获墙和 Linear 风格的 issue 存储。"
+      }
+    },
+    {
+      "name": "dsh-task-status",
+      "url": "https://github.com/vlln/dsh-task-status",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Displays background-task progress and a live output tail on the DSH conversation page.",
+        "zh-CN": "在 DSH 对话页展示后台任务进度和实时输出 tail。"
+      }
+    },
+    {
+      "name": "dsh-navbar",
+      "url": "https://github.com/vlln/dsh-navbar",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Adds a right-edge navigation strip for quickly jumping between user-message nodes in a conversation.",
+        "zh-CN": "添加右侧对话节点导航条，可快速跳转到各个用户消息节点。"
+      }
+    },
+    {
+      "name": "dsh-loop",
+      "url": "https://github.com/vlln/dsh-loop",
+      "category": "agent-automation",
+      "description": {
+        "en": "Adds scheduled loops through a /loop command, a loop tool, and an activity status bar.",
+        "zh-CN": "通过 /loop 命令、loop 工具和活动状态条提供定时循环能力。"
       }
     },
     {
