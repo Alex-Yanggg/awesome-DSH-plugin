@@ -180,6 +180,15 @@
       }
     },
     {
+      "name": "dsh-emoji",
+      "url": "https://github.com/hellodigua/dsh-emoji",
+      "category": "ai-design-media",
+      "description": {
+        "en": "Automatically adds emoji to AI replies in DeepSeek Harness.",
+        "zh-CN": "为 DeepSeek Harness 中的 AI 回复自动添加表情符号。"
+      }
+    },
+    {
       "name": "dsh-cc-tui",
       "url": "https://github.com/ccch1mneyyy/dsh-cc-tui",
       "category": "ai-design-media",
@@ -249,6 +258,15 @@
       "description": {
         "en": "Brings the local OpenBiliClaw content-recommendation agent into DSH with a persistent UI and 22 agent-bridge tools.",
         "zh-CN": "将本地 OpenBiliClaw 内容推荐智能体接入 DSH，提供常驻界面和 22 个 Agent Bridge 工具。"
+      }
+    },
+    {
+      "name": "dsh-share",
+      "url": "https://github.com/hellodigua/dsh-share",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Share DeepSeek Harness conversations with a single action.",
+        "zh-CN": "一键分享 DeepSeek Harness 对话。"
       }
     },
     {
