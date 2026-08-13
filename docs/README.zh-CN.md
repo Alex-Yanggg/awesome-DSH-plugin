@@ -38,15 +38,19 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 <!-- CATALOG:START -->
 ### 开发工具
 
-暂未收录。欢迎[提交第一个 Plugin](../CONTRIBUTING.md)。
+- [dsh-at-file](https://github.com/FSMargoo/dsh-at-file) — 提供 Codex 风格的 @file 引用，可搜索工作区文件并将内容附加到提示词。
+
+- [dsh-custom-tool](https://github.com/FSMargoo/dsh-custom-tool) — 通过 Monaco 编辑器及模型驱动的生命周期创建和管理沙箱化 JavaScript 工具。
+
+- [dsh-open-in-vscode](https://github.com/FSMargoo/dsh-open-in-vscode) — 可从 DeepSeek Harness Web 界面直接在 VS Code 中打开工作区目录。
 
 ### 智能体编排与自动化
 
-暂未收录。欢迎[提交第一个 Plugin](../CONTRIBUTING.md)。
+- [mstar-harness](https://github.com/btspoony/mstar-harness) — 面向结构化 Harness 循环工程的技能驱动工作流智能体 Plugin。
 
 ### 效率与协作
 
-暂未收录。欢迎[提交第一个 Plugin](../CONTRIBUTING.md)。
+- [dsh-notification](https://github.com/FSMargoo/dsh-notification) — 在 DeepSeek Harness 回合完成时发送桌面通知，并支持按结果和关键词制定规则。
 
 ### 数据、研究与知识
 
@@ -58,7 +62,9 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 ### AI、设计与媒体
 
-暂未收录。欢迎[提交第一个 Plugin](../CONTRIBUTING.md)。
+- [dsh-ui-whale](https://github.com/dsh-external/dsh-ui-whale) — 为 DSH Web UI 提供会随智能体活动作出反应的手绘像素鲸鱼伙伴。
+
+- [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) — 提供图像问答、长截图 OCR、UI 还原、视觉定位、像素差异和 Artifacts 能力。
 
 ### 商业、金融与电商
 

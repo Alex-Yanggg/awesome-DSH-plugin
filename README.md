@@ -39,15 +39,19 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 <!-- CATALOG:START -->
 ### Developer tools
 
-No entries yet. [Submit the first plugin.](CONTRIBUTING.md)
+- [dsh-at-file](https://github.com/FSMargoo/dsh-at-file) — Adds Codex-style @file mentions to search workspace files and attach their contents to prompts.
+
+- [dsh-custom-tool](https://github.com/FSMargoo/dsh-custom-tool) — Create and manage sandboxed JavaScript tools with a Monaco editor and a model-driven lifecycle.
+
+- [dsh-open-in-vscode](https://github.com/FSMargoo/dsh-open-in-vscode) — Open DeepSeek Harness workspace directories in VS Code from the web interface.
 
 ### Agent orchestration & automation
 
-No entries yet. [Submit the first plugin.](CONTRIBUTING.md)
+- [mstar-harness](https://github.com/btspoony/mstar-harness) — A skill-driven workflow agent plugin for structured harness-loop engineering.
 
 ### Productivity & collaboration
 
-No entries yet. [Submit the first plugin.](CONTRIBUTING.md)
+- [dsh-notification](https://github.com/FSMargoo/dsh-notification) — Sends desktop notifications when a DeepSeek Harness turn completes, with outcome and keyword rules.
 
 ### Data, research & knowledge
 
@@ -59,7 +63,9 @@ No entries yet. [Submit the first plugin.](CONTRIBUTING.md)
 
 ### AI, design & media
 
-No entries yet. [Submit the first plugin.](CONTRIBUTING.md)
+- [dsh-ui-whale](https://github.com/dsh-external/dsh-ui-whale) — A hand-drawn pixel whale companion for the DSH Web UI that reacts to agent activity.
+
+- [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) — Adds image Q&A, long-screenshot OCR, UI restoration, visual grounding, pixel diffs, and artifacts.
 
 ### Business, finance & commerce
 

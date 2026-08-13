@@ -34,5 +34,69 @@
       "title": { "en": "Life, devices & the physical world", "zh-CN": "生活、设备与物理世界" }
     }
   ],
-  "plugins": []
+  "plugins": [
+    {
+      "name": "mstar-harness",
+      "url": "https://github.com/btspoony/mstar-harness",
+      "category": "agent-automation",
+      "description": {
+        "en": "A skill-driven workflow agent plugin for structured harness-loop engineering.",
+        "zh-CN": "面向结构化 Harness 循环工程的技能驱动工作流智能体 Plugin。"
+      }
+    },
+    {
+      "name": "dsh-custom-tool",
+      "url": "https://github.com/FSMargoo/dsh-custom-tool",
+      "category": "developer-tools",
+      "description": {
+        "en": "Create and manage sandboxed JavaScript tools with a Monaco editor and a model-driven lifecycle.",
+        "zh-CN": "通过 Monaco 编辑器及模型驱动的生命周期创建和管理沙箱化 JavaScript 工具。"
+      }
+    },
+    {
+      "name": "dsh-open-in-vscode",
+      "url": "https://github.com/FSMargoo/dsh-open-in-vscode",
+      "category": "developer-tools",
+      "description": {
+        "en": "Open DeepSeek Harness workspace directories in VS Code from the web interface.",
+        "zh-CN": "可从 DeepSeek Harness Web 界面直接在 VS Code 中打开工作区目录。"
+      }
+    },
+    {
+      "name": "dsh-at-file",
+      "url": "https://github.com/FSMargoo/dsh-at-file",
+      "category": "developer-tools",
+      "description": {
+        "en": "Adds Codex-style @file mentions to search workspace files and attach their contents to prompts.",
+        "zh-CN": "提供 Codex 风格的 @file 引用，可搜索工作区文件并将内容附加到提示词。"
+      }
+    },
+    {
+      "name": "dsh-vision-toolkit",
+      "url": "https://github.com/Anionex/dsh-vision-toolkit",
+      "category": "ai-design-media",
+      "description": {
+        "en": "Adds image Q&A, long-screenshot OCR, UI restoration, visual grounding, pixel diffs, and artifacts.",
+        "zh-CN": "提供图像问答、长截图 OCR、UI 还原、视觉定位、像素差异和 Artifacts 能力。"
+      }
+    },
+    {
+      "name": "dsh-ui-whale",
+      "url": "https://github.com/dsh-external/dsh-ui-whale",
+      "category": "ai-design-media",
+      "description": {
+        "en": "A hand-drawn pixel whale companion for the DSH Web UI that reacts to agent activity.",
+        "zh-CN": "为 DSH Web UI 提供会随智能体活动作出反应的手绘像素鲸鱼伙伴。"
+      }
+    },
+    {
+      "name": "dsh-notification",
+      "url": "https://github.com/FSMargoo/dsh-notification",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Sends desktop notifications when a DeepSeek Harness turn completes, with outcome and keyword rules.",
+        "zh-CN": "在 DeepSeek Harness 回合完成时发送桌面通知，并支持按结果和关键词制定规则。"
+      }
+    }
+  ]
 }
