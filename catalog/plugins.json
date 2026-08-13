@@ -97,6 +97,15 @@
         "en": "Sends desktop notifications when a DeepSeek Harness turn completes, with outcome and keyword rules.",
         "zh-CN": "在 DeepSeek Harness 回合完成时发送桌面通知，并支持按结果和关键词制定规则。"
       }
+    },
+    {
+      "name": "dsh-message-edit",
+      "url": "https://github.com/Moeblack/dsh-message-edit",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Branch-based message editing with reroll, retry, and a version timeline for DeepSeek Harness conversations.",
+        "zh-CN": "为 DeepSeek Harness 对话提供基于分支的消息编辑、重新生成、重试和版本时间线。"
+      }
     }
   ]
 }

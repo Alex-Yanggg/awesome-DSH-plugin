@@ -51,6 +51,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 ### Productivity & collaboration
 
+- [dsh-message-edit](https://github.com/Moeblack/dsh-message-edit) — Branch-based message editing with reroll, retry, and a version timeline for DeepSeek Harness conversations.
+
 - [dsh-notification](https://github.com/FSMargoo/dsh-notification) — Sends desktop notifications when a DeepSeek Harness turn completes, with outcome and keyword rules.
 
 ### Data, research & knowledge
