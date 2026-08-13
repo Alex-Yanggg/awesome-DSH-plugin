@@ -90,12 +90,39 @@
       }
     },
     {
+      "name": "dsh-git-identity",
+      "url": "https://github.com/LoserFox/dsh-git-identity",
+      "category": "developer-tools",
+      "description": {
+        "en": "Pins Git commit authorship to the active environment identity, prioritizing the signed-in GitHub CLI account.",
+        "zh-CN": "将 Git 提交作者身份固定为当前环境身份，并优先使用已登录的 GitHub CLI 账号。"
+      }
+    },
+    {
+      "name": "dsh-browser-panel",
+      "url": "https://github.com/dsh-external/dsh-browser-panel",
+      "category": "developer-tools",
+      "description": {
+        "en": "Embeds a headed browser in the DSH Web UI so agents can operate a real browser with visible steps.",
+        "zh-CN": "在 DSH Web UI 中嵌入有头浏览器，让智能体操作真实浏览器并向用户展示每一步。"
+      }
+    },
+    {
       "name": "dsh-vision-toolkit",
       "url": "https://github.com/Anionex/dsh-vision-toolkit",
       "category": "ai-design-media",
       "description": {
         "en": "Adds image Q&A, long-screenshot OCR, UI restoration, visual grounding, pixel diffs, and artifacts.",
         "zh-CN": "提供图像问答、长截图 OCR、UI 还原、视觉定位、像素差异和 Artifacts 能力。"
+      }
+    },
+    {
+      "name": "dsh-vision",
+      "url": "https://github.com/william-jin-cmu/dsh-vision",
+      "category": "ai-design-media",
+      "description": {
+        "en": "Adds a view_image bridge from text-only DeepSeek models to OpenAI-compatible vision-language models.",
+        "zh-CN": "为纯文本 DeepSeek 模型提供连接 OpenAI 兼容视觉语言模型的 view_image 桥接能力。"
       }
     },
     {
@@ -150,6 +177,51 @@
       "description": {
         "en": "Appends a thank-you line to every assistant reply.",
         "zh-CN": "给每次助手回复追加一句感谢语。"
+      }
+    },
+    {
+      "name": "context-doctor",
+      "url": "https://github.com/dsh-external/context-doctor",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Audits the token cost of instruction chains, skill catalogs, and tool schemas, and detects duplication and conflicts.",
+        "zh-CN": "审计指令链、技能目录和工具 schema 的 token 成本，并检测重复与冲突。"
+      }
+    },
+    {
+      "name": "dsh-session-search",
+      "url": "https://github.com/dsh-external/dsh-session-search",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Provides full-text search across DSH, Codex, Claude Code, pi, and OpenCode sessions.",
+        "zh-CN": "支持跨 DSH、Codex、Claude Code、pi 与 OpenCode 会话的全文搜索。"
+      }
+    },
+    {
+      "name": "cross-harness-cite",
+      "url": "https://github.com/dsh-external/cross-harness-cite",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Lets DeepSeek Harness cite relevant conversation history from Codex and Claude Code.",
+        "zh-CN": "让 DeepSeek Harness 引用 Codex 与 Claude Code 中相关的历史对话。"
+      }
+    },
+    {
+      "name": "dsh-memory-evolve",
+      "url": "https://github.com/dsh-external/dsh-memory-evolve",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Adds long-term cross-session memory with Git-branch awareness and background skill evolution.",
+        "zh-CN": "提供带 Git 分支感知和后台技能进化能力的跨会话长期记忆。"
+      }
+    },
+    {
+      "name": "dsh-data-agent",
+      "url": "https://github.com/dsh-external/dsh-data-agent",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Helps agents connect to databases and write SQL for data tasks.",
+        "zh-CN": "帮助智能体连接数据库并编写 SQL 以完成数据任务。"
       }
     }
   ]
