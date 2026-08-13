@@ -38,6 +38,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 <!-- CATALOG:START -->
 ### 开发工具
 
+- [billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) — 面向 DeepSeek Harness 的模型驱动上下文压缩（ACP），移植自 billion-context-pi——由模型决定何时压缩、压缩什么。
+
 - [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) — 完整的侧边栏工作台，支持扩展 Tab，并内置文件查看与编辑、终端、Git 和子智能体工具。
 
 - [dsh-artifact](https://github.com/william-jin-cmu/dsh-artifact) — 提供 send_artifact 工具，校验模型产出的文件并通过 dsh 标准事件流交付结构化描述子，任何客户端都可按需呈现。
