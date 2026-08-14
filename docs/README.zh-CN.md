@@ -72,6 +72,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-cc-tui](https://github.com/ccch1mneyyy/dsh-cc-tui) — Claude Code 风格的全屏终端界面，提供流式思考展示、回滚控制及上下文/TPS 指示器。
 
+- [dsh-desktop](https://github.com/howlma/dsh-desktop) — Windows 桌面客户端：打开即拉起或复用 Harness 网关，窗口内嵌官方 Web 界面；托盘常驻，可选开机自启。
+
 - [dsh-genui](https://github.com/omdsh-dev/dsh-genui) — 在助手回复中内联渲染可交互 UI 组件，支持图表、表单、测验、Mermaid 图、3D 场景和模型动作事件。
 
 - [dsh-grok-tui](https://github.com/chen-001/dsh-grok-tui) — 借用grok-build tui使用dsh
