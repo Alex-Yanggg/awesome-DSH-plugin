@@ -37,6 +37,9 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 ### Developer tools
 
+- [dsh-github-login](https://github.com/Noob-stupid/dsh-github-login) — A zero-terminal visual GitHub login tool (device flow) that syncs the token into gh CLI config.
+
+
 - [billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) — Model-driven context compression (ACP) for DeepSeek Harness, ported from billion-context-pi — the model decides when and what to compress.
 
 - [deepseek-harness-acp](https://github.com/openma-ai/deepseek-harness-acp) — An ACP profile plugin and standalone server that exposes the full DSH agent to Zed and other ACP clients while sharing DSH credentials and sessions.
@@ -58,6 +61,9 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [plugin-registry](https://github.com/vlln/plugin-registry) — A browser-based plugin management console with official guidance for creating DSH plugins.
 
 ### UI & user experience
+
+- [dsh-plugin-hub](https://github.com/Noob-stupid/dsh-plugin-hub) — A plugin management panel: one-click enable/disable for installed plugins plus a GitHub dsh-plugin marketplace with details and one-click installs.
+
 
 - [deepseek-harness-tui](https://github.com/openma-ai/deepseek-harness-tui) — A Rust terminal client that speaks the DSH SDK JSON-RPC protocol directly and runs standalone or as a profile bundle.
 

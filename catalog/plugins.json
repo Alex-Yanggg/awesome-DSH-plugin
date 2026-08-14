@@ -562,6 +562,28 @@
         "en": "Mnemon-powered local memory system with three-tier storage (runtime hot memory, project Documents, and long-term Memory Spaces), supervised writeback, retrieval tools, and a Web UI.",
         "zh-CN": "Mnemon 驱动的本地记忆系统：三层存储（运行时热记忆、项目档案 Documents、长期记忆体 Memory Spaces），受监督写回、检索工具与 Web UI。"
       }
+    },
+    {
+      "name": "dsh-plugin-hub",
+      "url": "https://github.com/Noob-stupid/dsh-plugin-hub",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "A plugin management panel: one-click enable/disable for installed plugins plus a GitHub dsh-plugin marketplace with details and one-click installs.",
+        "zh-CN": "插件管理面板：已安装插件一键启用/停用，内置 GitHub dsh-plugin 插件市场，支持详情查看与一键安装。"
+      },
+      "status": "active",
+      "source": "community"
+    },
+    {
+      "name": "dsh-github-login",
+      "url": "https://github.com/Noob-stupid/dsh-github-login",
+      "category": "developer-tools",
+      "description": {
+        "en": "A zero-terminal visual GitHub login tool (device flow) that syncs the token into gh CLI config.",
+        "zh-CN": "零终端的 GitHub 可视化登录工具（设备码流程），令牌同步进 gh CLI 配置。"
+      },
+      "status": "active",
+      "source": "community"
     }
   ]
 }

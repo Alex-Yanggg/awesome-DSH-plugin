@@ -52,6 +52,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-git-identity](https://github.com/LoserFox/dsh-git-identity) — 将 Git 提交作者身份固定为当前环境身份，并优先使用已登录的 GitHub CLI 账号。
 
+- [dsh-github-login](https://github.com/Noob-stupid/dsh-github-login) — 零终端的 GitHub 可视化登录工具（设备码流程），令牌同步进 gh CLI 配置。
+
 - [dsh-open-in-vscode](https://github.com/FSMargoo/dsh-open-in-vscode) — 可从 DeepSeek Harness Web 界面直接在 VS Code 中打开工作区目录。
 
 - [dsh-recommend](https://github.com/zp-home/dsh-recommend) — DSH 插件透明排行与推荐：每日自动抓取 dsh-plugin 话题生态、公开评分模型，提供榜单/搜索/推荐工具与设置页排行榜。
@@ -85,6 +87,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 - [dsh-navbar](https://github.com/vlln/dsh-navbar) — 添加右侧对话节点导航条，可快速跳转到各个用户消息节点。
 
 - [dsh-paste-input](https://github.com/lhh010/dsh-paste-input) — 增强文件输入，支持粘贴、拖拽和选择文件；发送时自动将文件复制到会话工作区。
+
+- [dsh-plugin-hub](https://github.com/Noob-stupid/dsh-plugin-hub) — 插件管理面板：已安装插件一键启用/停用，内置 GitHub dsh-plugin 插件市场，支持详情查看与一键安装。
 
 - [dsh-qq2006](https://github.com/LaplaceYoung/dsh-qq2006) — DeepSeek Harness Web UI 的可切换 QQ2006 皮肤，提供珊瑚蓝主题和复古素材。
 
