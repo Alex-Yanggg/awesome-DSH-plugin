@@ -472,6 +472,51 @@
         "en": "Use dsh via grok-build's tui.",
         "zh-CN": "借用grok-build tui使用dsh"
       }
+    },
+    {
+      "name": "deepseek-harness-tui",
+      "url": "https://github.com/openma-ai/deepseek-harness-tui",
+      "category": "developer-tools",
+      "description": {
+        "en": "A Rust terminal client that speaks the DSH SDK JSON-RPC protocol directly and runs standalone or as a profile bundle.",
+        "zh-CN": "Rust 终端客户端，直接使用 DSH SDK JSON-RPC 协议，支持独立运行或作为 profile bundle 加载。"
+      }
+    },
+    {
+      "name": "dsh-turn-index",
+      "url": "https://github.com/Simon314620/dsh-turn-index",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "A turn-index sidebar listing every user turn, with click-to-jump navigation and scroll-spy highlighting.",
+        "zh-CN": "轮次索引侧边栏：列出每一轮用户提问，点击跳转到对应位置，滚动时自动高亮当前轮次。"
+      }
+    },
+    {
+      "name": "dsh-harness-mcp-server",
+      "url": "https://github.com/chushixixin/dsh-harness-mcp-server",
+      "category": "agent-automation",
+      "description": {
+        "en": "Expose DeepSeek Harness agent capabilities as an MCP server, letting any MCP client (e.g. Hermes) drive Harness to execute coding tasks.",
+        "zh-CN": "把 DeepSeek Harness 的 agent 能力暴露为 MCP server，让任意 MCP 客户端（如 Hermes）驱动 Harness 执行编码任务。"
+      }
+    },
+    {
+      "name": "dsh-recommend",
+      "url": "https://github.com/zp-home/dsh-recommend",
+      "category": "developer-tools",
+      "description": {
+        "en": "Transparent rankings and recommendations for the DSH plugin ecosystem: daily auto-fetched topic data, an open scoring model, and rank/search/recommend tools with a settings-page leaderboard.",
+        "zh-CN": "DSH 插件透明排行与推荐：每日自动抓取 dsh-plugin 话题生态、公开评分模型，提供榜单/搜索/推荐工具与设置页排行榜。"
+      }
+    },
+    {
+      "name": "dsh-skin",
+      "url": "https://github.com/KinGao294/dsh-skin",
+      "category": "ai-design-media",
+      "description": {
+        "en": "Codex-style skin switcher + custom wallpaper for the DSH Web UI: curated --dsw-alias-* palettes, translucent main canvas/sidebar (overrideTokens) with opacity and blur controls.",
+        "zh-CN": "Codex 风格换肤 + 自定义背景插件：内置多套 --dsw-alias-* 配色，主画布/侧边栏半透明壁纸（overrideTokens），支持透明度与模糊调节。"
+      }
     }
   ]
 }
