@@ -568,8 +568,8 @@
       "url": "https://github.com/yeruizhi/dsh-lark-meeting-notifier",
       "category": "productivity-collaboration",
       "description": {
-        "en": "Feishu meeting reminder: a right-side floating panel listing today's/tomorrow's Feishu meetings with multi-alarm flashing reminders.",
-        "zh-CN": "飞书会议提醒：右侧悬浮框显示今日/明日飞书会议，多闹钟闪烁提醒。"
+        "en": "Feishu meeting reminder: a dsh-plugin whose only side effect is reminding you, mid-flow with AI, that you \"have to go meet carbon-based lifeforms\".",
+        "zh-CN": "飞书会议提醒：一个只有副作用的 dsh-plugin，在你跟 AI 聊得神魂颠倒时提醒你「不得不去跟碳基生命开会了」。"
       }
     }
   ]
