@@ -562,6 +562,17 @@
         "en": "Mnemon-powered local memory system with three-tier storage (runtime hot memory, project Documents, and long-term Memory Spaces), supervised writeback, retrieval tools, and a Web UI.",
         "zh-CN": "Mnemon 驱动的本地记忆系统：三层存储（运行时热记忆、项目档案 Documents、长期记忆体 Memory Spaces），受监督写回、检索工具与 Web UI。"
       }
+    },
+    {
+      "name": "dsh-settings-plus",
+      "url": "https://github.com/oneinitAI/dsh-settings-plus",
+      "category": "developer-tools",
+      "description": {
+        "en": "Advanced settings manager for DeepSeek Harness: form-level and file-level config editing plus a plugin settings registration SDK — the official settings UI, extended.",
+        "zh-CN": "DeepSeek Harness 高级设置工具：官方设置的 plus 版——表单级与文件级配置管理，外加面向插件的设置注册 SDK。"
+      },
+      "status": "active",
+      "source": "community"
     }
   ]
 }

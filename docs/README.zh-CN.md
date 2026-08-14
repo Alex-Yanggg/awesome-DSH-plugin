@@ -56,6 +56,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-recommend](https://github.com/zp-home/dsh-recommend) — DSH 插件透明排行与推荐：每日自动抓取 dsh-plugin 话题生态、公开评分模型，提供榜单/搜索/推荐工具与设置页排行榜。
 
+- [dsh-settings-plus](https://github.com/oneinitAI/dsh-settings-plus) — DeepSeek Harness 高级设置工具：官方设置的 plus 版——表单级与文件级配置管理，外加面向插件的设置注册 SDK。
+
 - [plugin-registry](https://github.com/vlln/plugin-registry) — 基于浏览器的 Plugin 管理控制台，并提供官方 DSH Plugin 开发引导。
 
 ### 界面与用户体验
