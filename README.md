@@ -59,6 +59,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 ### UI & user experience
 
+- [dsh-desktop](https://github.com/howlma/dsh-desktop) — Windows desktop client that boots or reuses the Harness gateway and embeds the official web UI; tray-resident with optional launch-at-login.
+
 - [deepseek-harness-tui](https://github.com/openma-ai/deepseek-harness-tui) — A Rust terminal client that speaks the DSH SDK JSON-RPC protocol directly and runs standalone or as a profile bundle.
 
 - [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) — A sidebar workbench with extensible tabs, file viewing and editing, terminal, Git, and sub-agent tools.
