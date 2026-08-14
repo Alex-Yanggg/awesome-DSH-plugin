@@ -57,6 +57,12 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [plugin-registry](https://github.com/vlln/plugin-registry) — A browser-based plugin management console with official guidance for creating DSH plugins.
 
+- [dsh-suite](https://github.com/whyihaveyou/dsh-suite) — A living DeepSeek Harness plugin directory (785+ plugins, refreshed hourly) with a daily compatibility CI, a bilingual searchable catalog site, and an in-app plugin store.
+
+- [create-dsh-plugin](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/create-dsh-plugin) — Scaffold a DSH plugin in seconds: tool / events / webui templates, `next`-tag version pinning, and a built-in `--verify` smoke test.
+
+- [plugin-manager](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-manager) — An in-app plugin store for the DSH Web UI: catalog browse, search, one-click install, compat badges, and an installed list.
+
 ### UI & user experience
 
 - [deepseek-harness-tui](https://github.com/openma-ai/deepseek-harness-tui) — A Rust terminal client that speaks the DSH SDK JSON-RPC protocol directly and runs standalone or as a profile bundle.
@@ -119,6 +125,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [mstar-harness](https://github.com/btspoony/mstar-harness) — A skill-driven workflow agent plugin for structured harness-loop engineering.
 
+- [plugin-team-board](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-team-board) — A shared multi-agent task board (create, claim, transition, query) backed by a Cordis service key.
+
 ### Productivity & collaboration
 
 - [deepseek-manners](https://github.com/Moeblack/deepseek-manners) — Appends a thank-you line to every assistant reply.
@@ -128,6 +136,10 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-notification](https://github.com/FSMargoo/dsh-notification) — Sends desktop notifications when a DeepSeek Harness turn completes, with outcome and keyword rules.
 
 - [dsh-share](https://github.com/hellodigua/dsh-share) — Share DeepSeek Harness conversations with a single action.
+
+- [plugin-notify](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-notify) — Sends IM webhook + local notifications on turn completion, errors, or approval requests (Feishu, WeCom, DingTalk, Slack, Discord, custom).
+
+- [plugin-session-export](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-session-export) — Exports the append-only session log as human-readable Markdown or HTML, grouped by trajectory source.
 
 ### Data, research & knowledge
 

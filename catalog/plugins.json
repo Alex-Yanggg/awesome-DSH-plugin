@@ -562,6 +562,72 @@
         "en": "Mnemon-powered local memory system with three-tier storage (runtime hot memory, project Documents, and long-term Memory Spaces), supervised writeback, retrieval tools, and a Web UI.",
         "zh-CN": "Mnemon 驱动的本地记忆系统：三层存储（运行时热记忆、项目档案 Documents、长期记忆体 Memory Spaces），受监督写回、检索工具与 Web UI。"
       }
+    },
+    {
+      "name": "dsh-suite",
+      "url": "https://github.com/whyihaveyou/dsh-suite",
+      "category": "developer-tools",
+      "description": {
+        "en": "A living DeepSeek Harness plugin directory (785+ plugins, refreshed hourly) with a daily compatibility CI, a bilingual searchable catalog site, and an in-app plugin store.",
+        "zh-CN": "DSH 插件活目录（785+ 插件，每小时刷新）+ 每日兼容性 CI + 中英双语可搜索目录站 + 内置插件商店。"
+      },
+      "status": "active",
+      "source": "community"
+    },
+    {
+      "name": "create-dsh-plugin",
+      "url": "https://github.com/whyihaveyou/dsh-suite/tree/main/packages/create-dsh-plugin",
+      "category": "developer-tools",
+      "description": {
+        "en": "Scaffold a DSH plugin in seconds: tool / events / webui templates, next-tag version pinning, and a built-in --verify smoke test.",
+        "zh-CN": "秒建 DSH 插件脚手架（tool/events/webui 模板、锁 next 版本、内置 --verify 冒烟验证）。"
+      },
+      "status": "active",
+      "source": "community"
+    },
+    {
+      "name": "plugin-manager",
+      "url": "https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-manager",
+      "category": "developer-tools",
+      "description": {
+        "en": "An in-app plugin store for the DSH Web UI: catalog browse, search, one-click install, compat badges, and an installed list.",
+        "zh-CN": "DSH Web UI 内置插件应用商店：目录浏览/搜索/一键安装/兼容徽章/已装列表。"
+      },
+      "status": "active",
+      "source": "community"
+    },
+    {
+      "name": "plugin-team-board",
+      "url": "https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-team-board",
+      "category": "agent-automation",
+      "description": {
+        "en": "A shared multi-agent task board (create, claim, transition, query) backed by a Cordis service key.",
+        "zh-CN": "多 agent 共享任务板（创建/认领/流转/查询），状态物化为 Cordis 协作用键。"
+      },
+      "status": "active",
+      "source": "community"
+    },
+    {
+      "name": "plugin-notify",
+      "url": "https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-notify",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Sends IM webhook + local notifications on turn completion, errors, or approval requests (Feishu, WeCom, DingTalk, Slack, Discord, custom).",
+        "zh-CN": "回合完成/出错/需审批时发 IM webhook 与本机通知（飞书/企微/钉钉/Slack/Discord/自定义）。"
+      },
+      "status": "active",
+      "source": "community"
+    },
+    {
+      "name": "plugin-session-export",
+      "url": "https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-session-export",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Exports the append-only session log as human-readable Markdown or HTML, grouped by trajectory source.",
+        "zh-CN": "把 append-only 会话日志导出为人可读的 Markdown/HTML，按轨迹来源分组。"
+      },
+      "status": "active",
+      "source": "community"
     }
   ]
 }
