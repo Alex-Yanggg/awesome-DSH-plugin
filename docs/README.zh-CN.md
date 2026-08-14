@@ -166,7 +166,7 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 ### 生活、设备与物理世界
 
-暂未收录。欢迎[提交第一个 Plugin](../CONTRIBUTING.md)。
+- [dsh-adb](https://github.com/SamXiaBing/dsh-adb) — DSH 的 ADB 设备与台架运维工具：设备发现、结构化 logcat（后台采集）、apk 安装、文件 pull/push、性能快照。
 <!-- CATALOG:END -->
 
 ## 提交 Plugin

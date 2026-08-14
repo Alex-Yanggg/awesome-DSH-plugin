@@ -165,7 +165,7 @@ No entries yet. [Submit the first plugin.](CONTRIBUTING.md)
 
 ### Life, devices & the physical world
 
-No entries yet. [Submit the first plugin.](CONTRIBUTING.md)
+- [dsh-adb](https://github.com/SamXiaBing/dsh-adb) — ADB device & bench operations for DSH: device discovery, structured logcat (background streaming), apk install, file pull/push, and dumpsys performance snapshots.
 
 ## Add a plugin
 
