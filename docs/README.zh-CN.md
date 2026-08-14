@@ -136,6 +136,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [cross-harness-cite](https://github.com/dsh-external/cross-harness-cite) — 让 DeepSeek Harness 引用 Codex 与 Claude Code 中相关的历史对话。
 
+- [dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) — 导入 Claude Code / Codex / ChatGPT / Cursor / Gemini / Reasonix / opencode 的聊天记录，在 DSH 中重建为可继续（resume）的会话。
+
 - [dsh-data-agent](https://github.com/dsh-external/dsh-data-agent) — 帮助智能体连接数据库并编写 SQL 以完成数据任务。
 
 - [dsh-memory-evolve](https://github.com/dsh-external/dsh-memory-evolve) — 提供带 Git 分支感知和后台技能进化能力的跨会话长期记忆。

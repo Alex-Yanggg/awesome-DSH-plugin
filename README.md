@@ -135,6 +135,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [cross-harness-cite](https://github.com/dsh-external/cross-harness-cite) — Lets DeepSeek Harness cite relevant conversation history from Codex and Claude Code.
 
+- [dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) — Imports chat histories from Claude Code, Codex, ChatGPT, Cursor, Gemini, Reasonix, and opencode into resumable DSH sessions.
+
 - [dsh-data-agent](https://github.com/dsh-external/dsh-data-agent) — Helps agents connect to databases and write SQL for data tasks.
 
 - [dsh-memory-evolve](https://github.com/dsh-external/dsh-memory-evolve) — Adds long-term cross-session memory with Git-branch awareness and background skill evolution.

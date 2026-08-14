@@ -436,6 +436,15 @@
       }
     },
     {
+      "name": "dsh-chat-import",
+      "url": "https://github.com/Nwflower/dsh-chat-import",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Imports chat histories from Claude Code, Codex, ChatGPT, Cursor, Gemini, Reasonix, and opencode into resumable DSH sessions.",
+        "zh-CN": "导入 Claude Code / Codex / ChatGPT / Cursor / Gemini / Reasonix / opencode 的聊天记录，在 DSH 中重建为可继续（resume）的会话。"
+      }
+    },
+    {
       "name": "dsh-memory-evolve",
       "url": "https://github.com/dsh-external/dsh-memory-evolve",
       "category": "data-research-knowledge",
