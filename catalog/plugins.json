@@ -533,6 +533,17 @@
         "en": "Codex-style skin switcher + custom wallpaper for the DSH Web UI: curated --dsw-alias-* palettes, translucent main canvas/sidebar (overrideTokens) with opacity and blur controls.",
         "zh-CN": "Codex 风格换肤 + 自定义背景插件：内置多套 --dsw-alias-* 配色，主画布/侧边栏半透明壁纸（overrideTokens），支持透明度与模糊调节。"
       }
+    },
+    {
+      "name": "dsh-sticky-disclosure",
+      "url": "https://github.com/Han-1413141/dsh-sticky-disclosure",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "One-click collapse of every expanded section in the DSH Web UI (Think rows, tool cards) with a live-count pill and a customizable hotkey.",
+        "zh-CN": "一键收起 DSH Web 会话中所有展开的区块（Think 思考行、工具卡片），常驻计数按钮 + 可自定义快捷键。"
+      },
+      "status": "active",
+      "source": "community"
     }
   ]
 }

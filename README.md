@@ -89,6 +89,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) — A shared sticker catalog serving the Web UI picker, a /sticker command, and an agent send_sticker tool, with two character variants and workflow-reaction stickers.
 
+- [dsh-sticky-disclosure](https://github.com/Han-1413141/dsh-sticky-disclosure) — One-click collapse of every expanded section in the DSH Web UI (Think rows, tool cards) with a live-count pill and a customizable hotkey.
+
 - [dsh-task-status](https://github.com/vlln/dsh-task-status) — Displays background-task progress and a live output tail on the DSH conversation page.
 
 - [dsh-track](https://github.com/fakechris/dsh-track) — An embedded task-management engine with decision points, an idea-capture wall, and Linear-style issue storage.
