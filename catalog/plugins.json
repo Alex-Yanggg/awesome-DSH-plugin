@@ -60,6 +60,15 @@
   ],
   "plugins": [
     {
+      "name": "billion-context-dsh",
+      "url": "https://github.com/Tyan66666/billion-context-dsh",
+      "category": "developer-tools",
+      "description": {
+        "en": "Model-driven context compression (ACP) for DeepSeek Harness, ported from billion-context-pi — the model decides when and what to compress.",
+        "zh-CN": "面向 DeepSeek Harness 的模型驱动上下文压缩（ACP），移植自 billion-context-pi——由模型决定何时压缩、压缩什么。"
+      }
+    },
+    {
       "name": "mstar-harness",
       "url": "https://github.com/btspoony/mstar-harness",
       "category": "agent-automation",
