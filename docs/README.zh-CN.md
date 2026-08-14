@@ -136,6 +136,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-memory-evolve](https://github.com/dsh-external/dsh-memory-evolve) — 提供带 Git 分支感知和后台技能进化能力的跨会话长期记忆。
 
+- [dsh-mneme](https://github.com/modusensus/dsh-mneme) — 把记忆主权还给人的跨会话记忆插件：SQLite + 可人工编辑的 Markdown 双写，autoDream 后台巩固（去重/合并/裁决），6 个记忆工具，140 个测试护航。
+
 - [dsh-openbiliclaw](https://github.com/whiteguo233/dsh-openbiliclaw) — 将本地 OpenBiliClaw 内容推荐智能体接入 DSH，提供常驻界面和 22 个 Agent Bridge 工具。
 
 - [dsh-session-search](https://github.com/dsh-external/dsh-session-search) — 支持跨 DSH、Codex、Claude Code、pi 与 OpenCode 会话的全文搜索。
