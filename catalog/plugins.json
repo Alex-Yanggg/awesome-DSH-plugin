@@ -562,6 +562,15 @@
         "en": "Mnemon-powered local memory system with three-tier storage (runtime hot memory, project Documents, and long-term Memory Spaces), supervised writeback, retrieval tools, and a Web UI.",
         "zh-CN": "Mnemon 驱动的本地记忆系统：三层存储（运行时热记忆、项目档案 Documents、长期记忆体 Memory Spaces），受监督写回、检索工具与 Web UI。"
       }
+    },
+    {
+      "name": "dsh-lark-meeting-notifier",
+      "url": "https://github.com/yeruizhi/dsh-lark-meeting-notifier",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Feishu meeting reminder: a right-side floating panel listing today's/tomorrow's Feishu meetings with multi-alarm flashing reminders.",
+        "zh-CN": "飞书会议提醒：右侧悬浮框显示今日/明日飞书会议，多闹钟闪烁提醒。"
+      }
     }
   ]
 }

@@ -127,6 +127,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-notification](https://github.com/FSMargoo/dsh-notification) — Sends desktop notifications when a DeepSeek Harness turn completes, with outcome and keyword rules.
 
+- [dsh-lark-meeting-notifier](https://github.com/yeruizhi/dsh-lark-meeting-notifier) — Feishu meeting reminder: a right-side floating panel listing today's/tomorrow's Feishu meetings with multi-alarm flashing reminders.
+
 - [dsh-share](https://github.com/hellodigua/dsh-share) — Share DeepSeek Harness conversations with a single action.
 
 ### Data, research & knowledge
