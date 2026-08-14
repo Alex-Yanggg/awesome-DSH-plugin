@@ -162,7 +162,7 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 ### 商业、金融与电商
 
-暂未收录。欢迎[提交第一个 Plugin](../CONTRIBUTING.md)。
+- [shopline-ai-toolkit-dsh](https://github.com/lunw/shopline-ai-toolkit-dsh) — 面向 DeepSeek Harness 的 SHOPLINE AI 工具包：接入 SHOPLINE 官方开发者 MCP 服务器（mcp__shopline__* 工具），内置七个 SHOPLINE 平台技能（Admin REST、GraphQL、OAuth、Webhook、Sline），参考 Shopify AI Toolkit 架构。
 
 ### 生活、设备与物理世界
 

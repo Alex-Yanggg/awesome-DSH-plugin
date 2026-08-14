@@ -161,7 +161,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 ### Business, finance & commerce
 
-No entries yet. [Submit the first plugin.](CONTRIBUTING.md)
+- [shopline-ai-toolkit-dsh](https://github.com/lunw/shopline-ai-toolkit-dsh) — SHOPLINE AI Toolkit for DeepSeek Harness: bridges the official SHOPLINE Developer MCP server (mcp__shopline__* tools) and ships seven SHOPLINE agent skills (Admin REST, GraphQL, OAuth, webhooks, Sline), mirroring the Shopify AI Toolkit.
 
 ### Life, devices & the physical world
 
