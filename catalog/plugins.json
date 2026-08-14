@@ -499,6 +499,15 @@
       }
     },
     {
+      "name": "deepseek-harness-acp",
+      "url": "https://github.com/openma-ai/deepseek-harness-acp",
+      "category": "developer-tools",
+      "description": {
+        "en": "An ACP profile plugin and standalone server that exposes the full DSH agent to Zed and other ACP clients while sharing DSH credentials and sessions.",
+        "zh-CN": "ACP profile 插件与独立 server，把完整 DSH agent 接入 Zed 等 ACP 客户端，并共享 DSH 凭据与会话。"
+      }
+    },
+    {
       "name": "dsh-turn-index",
       "url": "https://github.com/Simon314620/dsh-turn-index",
       "category": "ui-user-experience",
