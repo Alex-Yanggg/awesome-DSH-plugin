@@ -34,6 +34,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 > The catalog links to third-party projects. Review a plugin's source, permissions, and data-handling policy before installing it.
 
 ## Plugin catalog
+- [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) - Complete reverse-skill pack (85 SKILL.md) as a DeepSeek Harness Cordis plugin: reverse engineering, authorized pentesting and security-research skill router.
 
 ### Developer tools
 
