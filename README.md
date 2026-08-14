@@ -139,6 +139,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-memory-evolve](https://github.com/dsh-external/dsh-memory-evolve) — Adds long-term cross-session memory with Git-branch awareness and background skill evolution.
 
+- [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) — Mnemon-powered local memory system with three-tier storage (runtime hot memory, project Documents, and long-term Memory Spaces), supervised writeback, retrieval tools, and a Web UI.
+
 - [dsh-openbiliclaw](https://github.com/whiteguo233/dsh-openbiliclaw) — Brings the local OpenBiliClaw content-recommendation agent into DSH with a persistent UI and 22 agent-bridge tools.
 
 - [dsh-session-search](https://github.com/dsh-external/dsh-session-search) — Provides full-text search across DSH, Codex, Claude Code, pi, and OpenCode sessions.
