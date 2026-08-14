@@ -119,6 +119,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [mstar-harness](https://github.com/btspoony/mstar-harness) — A skill-driven workflow agent plugin for structured harness-loop engineering.
 
+- [dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate) — Risk-gated auto-approval: a flash model pre-judges whether a write/command is irreversible — safe operations auto-approve, risky ones fall through to human approval (fail-safe).
+
 ### Productivity & collaboration
 
 - [deepseek-manners](https://github.com/Moeblack/deepseek-manners) — Appends a thank-you line to every assistant reply.
@@ -158,6 +160,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-vision](https://github.com/william-jin-cmu/dsh-vision) — Adds a view_image bridge from text-only DeepSeek models to OpenAI-compatible vision-language models.
 
 - [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) — Adds image Q&A, long-screenshot OCR, UI restoration, visual grounding, pixel diffs, and artifacts.
+
+- [dsh-vision-tools](https://github.com/moon09300731/dsh-vision-tools) — Vision toolkit for DeepSeek Harness: a vision_understand tool bridging text-only DeepSeek models to OpenAI-compatible vision APIs (free GLM-4V-Flash by default), plus paste/drag/button image entry.
 
 ### Business, finance & commerce
 

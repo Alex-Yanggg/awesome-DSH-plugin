@@ -562,6 +562,24 @@
         "en": "Mnemon-powered local memory system with three-tier storage (runtime hot memory, project Documents, and long-term Memory Spaces), supervised writeback, retrieval tools, and a Web UI.",
         "zh-CN": "Mnemon 驱动的本地记忆系统：三层存储（运行时热记忆、项目档案 Documents、长期记忆体 Memory Spaces），受监督写回、检索工具与 Web UI。"
       }
+    },
+    {
+      "name": "dsh-vision-tools",
+      "url": "https://github.com/moon09300731/dsh-vision-tools",
+      "category": "ai-design-media",
+      "description": {
+        "en": "Vision toolkit for DeepSeek Harness: a vision_understand tool bridging text-only DeepSeek models to OpenAI-compatible vision APIs (free GLM-4V-Flash by default), plus paste/drag/button image entry.",
+        "zh-CN": "DeepSeek Harness 视觉能力全家桶：vision_understand 工具将纯文本 DeepSeek 模型桥接到 OpenAI 兼容视觉 API（默认免费 GLM-4V-Flash），并提供粘贴/拖拽/按钮三入口识图。"
+      }
+    },
+    {
+      "name": "dsh-approval-gate",
+      "url": "https://github.com/moon09300731/dsh-approval-gate",
+      "category": "agent-automation",
+      "description": {
+        "en": "Risk-gated auto-approval for DeepSeek Harness: a flash model pre-judges whether a write/command is irreversible — safe operations auto-approve, risky ones fall through to human approval (fail-safe).",
+        "zh-CN": "DSH 风险门控自动审批：Flash 模型预判写入/命令是否不可回补——安全操作自动批准，危险操作转人工审批（fail-safe）。"
+      }
     }
   ]
 }

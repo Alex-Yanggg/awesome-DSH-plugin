@@ -112,6 +112,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 ### 智能体编排与自动化
 
+- [dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate) — DSH 风险门控自动审批：Flash 模型预判写入/命令是否不可回补——安全操作自动批准，危险操作转人工审批（fail-safe）。
+
 - [dsh-evolve](https://github.com/william-jin-cmu/dsh-evolve) — 让智能体在会话中现场编写、热挂载并可逆卸载自己的 cordis 插件，新工具、提示词规则和事件钩子重启后自动恢复。
 
 - [dsh-harness-mcp-server](https://github.com/chushixixin/dsh-harness-mcp-server) — 把 DeepSeek Harness 的 agent 能力暴露为 MCP server，让任意 MCP 客户端（如 Hermes）驱动 Harness 执行编码任务。
@@ -159,6 +161,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 - [dsh-vision](https://github.com/william-jin-cmu/dsh-vision) — 为纯文本 DeepSeek 模型提供连接 OpenAI 兼容视觉语言模型的 view_image 桥接能力。
 
 - [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) — 提供图像问答、长截图 OCR、UI 还原、视觉定位、像素差异和 Artifacts 能力。
+
+- [dsh-vision-tools](https://github.com/moon09300731/dsh-vision-tools) — DeepSeek Harness 视觉能力全家桶：vision_understand 工具将纯文本 DeepSeek 模型桥接到 OpenAI 兼容视觉 API（默认免费 GLM-4V-Flash），并提供粘贴/拖拽/按钮三入口识图。
 
 ### 商业、金融与电商
 
