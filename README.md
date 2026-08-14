@@ -71,6 +71,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-cc-tui](https://github.com/ccch1mneyyy/dsh-cc-tui) — A Claude Code-style full-screen terminal interface with streaming thought display, rollback controls, and context/TPS indicators.
 
+- [dsh-deepseek-quota](https://github.com/yingjunnan/dsh-deepseek-quota) — Shows remaining DeepSeek API balance in a floating bottom-right card on the DSH Web page, with auto-refresh and a manual refresh button.
+
 - [dsh-genui](https://github.com/omdsh-dev/dsh-genui) — Renders interactive UI components inline in assistant replies, including charts, forms, quizzes, Mermaid diagrams, 3D scenes, and model action events.
 
 - [dsh-grok-tui](https://github.com/chen-001/dsh-grok-tui) — Use dsh via grok-build's tui.
