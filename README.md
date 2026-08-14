@@ -129,6 +129,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-share](https://github.com/hellodigua/dsh-share) — Share DeepSeek Harness conversations with a single action.
 
+- [dsh-im-hub](https://github.com/ThreeBody6666/dsh-im-hub) — Multi-platform IM gateway for DeepSeek Harness: Feishu (Lark) WebSocket long connection, WeCom (WeChat Work) encrypted callbacks, and Telegram long polling; per-chat agent sessions, whitelist access, no public endpoint required.
+
 ### Data, research & knowledge
 
 - [context-doctor](https://github.com/Zhenyu98/dsh-context-doctor) — See exactly what every request carries: token cost of the AGENTS.md chain, skill catalog and tool schemas, with duplicate/conflict detection and actionable pruning tips (Web UI gauge + context_audit tool, read-only).
