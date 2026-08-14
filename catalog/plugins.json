@@ -553,6 +553,15 @@
       },
       "status": "active",
       "source": "community"
+    },
+    {
+      "name": "dsh-mnemon",
+      "url": "https://github.com/omdsh-dev/dsh-mnemon",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Mnemon-powered local memory system with three-tier storage (runtime hot memory, project Documents, and long-term Memory Spaces), supervised writeback, retrieval tools, and a Web UI.",
+        "zh-CN": "Mnemon 驱动的本地记忆系统：三层存储（运行时热记忆、项目档案 Documents、长期记忆体 Memory Spaces），受监督写回、检索工具与 Web UI。"
+      }
     }
   ]
 }
