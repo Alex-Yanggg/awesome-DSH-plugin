@@ -109,6 +109,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [whale-girl](https://github.com/vlln/whale-girl) — A draggable, interactive desktop pet companion for the DSH Web GUI with feeding and play interactions.
 
+- [dsh-plugin-wallpaper](https://github.com/Tree-Summer/dsh-plugin-wallpaper) — Set your own background image as the DSH Web UI wallpaper, with per-region visibility controls for the main interface, sidebar, input, and bubbles (data URI / URL / local file path).
 ### Agent orchestration & automation
 
 - [dsh-evolve](https://github.com/william-jin-cmu/dsh-evolve) — Lets the agent write, hot-mount, and reversibly remove its own cordis plugins mid-session, growing new tools, prompt rules, and event hooks that persist across restarts.
