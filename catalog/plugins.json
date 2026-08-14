@@ -562,6 +562,15 @@
         "en": "Mnemon-powered local memory system with three-tier storage (runtime hot memory, project Documents, and long-term Memory Spaces), supervised writeback, retrieval tools, and a Web UI.",
         "zh-CN": "Mnemon 驱动的本地记忆系统：三层存储（运行时热记忆、项目档案 Documents、长期记忆体 Memory Spaces），受监督写回、检索工具与 Web UI。"
       }
+    },
+    {
+      "name": "dsh-preset-flash-director",
+      "url": "https://github.com/zhaoyilun/dsh-preset-flash-director",
+      "category": "agent-automation",
+      "description": {
+        "en": "Token-economical DeepSeek Harness agent preset: a flash-model orchestrator delegates every deep-thinking task (planning, design, root-cause analysis, high-risk decisions) to deepseek-v4-pro expert subagents via policy-enforced expert_consult / expert_review — curated briefs, a hard per-task budget, and no delegation chains.",
+        "zh-CN": "面向 DeepSeek Harness 的省 token 预设：flash 级主控把规划设计、根因分析、高风险决策等深度思考任务通过策略工具（expert_consult / expert_review）委派给 deepseek-v4-pro 专家子代理——简报强制校验、每用户任务硬预算、禁止委派链，从机制上防止弱指挥强、控制 pro 成本。"
+      }
     }
   ]
 }

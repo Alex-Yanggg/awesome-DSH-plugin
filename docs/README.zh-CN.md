@@ -118,6 +118,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-loop](https://github.com/vlln/dsh-loop) — 通过 /loop 命令、loop 工具和活动状态条提供定时循环能力。
 
+- [dsh-preset-flash-director](https://github.com/zhaoyilun/dsh-preset-flash-director) — 面向 DeepSeek Harness 的省 token 预设：flash 级主控把规划设计、根因分析、高风险决策等深度思考任务通过策略工具（expert_consult / expert_review）委派给 deepseek-v4-pro 专家子代理——简报强制校验、每用户任务硬预算、禁止委派链，从机制上防止弱指挥强、控制 pro 成本。
+
 - [mstar-harness](https://github.com/btspoony/mstar-harness) — 面向结构化 Harness 循环工程的技能驱动工作流智能体 Plugin。
 
 ### 效率与协作

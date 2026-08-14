@@ -117,6 +117,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-loop](https://github.com/vlln/dsh-loop) — Adds scheduled loops through a /loop command, a loop tool, and an activity status bar.
 
+- [dsh-preset-flash-director](https://github.com/zhaoyilun/dsh-preset-flash-director) — Token-economical DeepSeek Harness agent preset: a flash-model orchestrator delegates every deep-thinking task (planning, design, root-cause analysis, high-risk decisions) to deepseek-v4-pro expert subagents through policy-enforced expert_consult / expert_review tools — curated briefs, a hard per-task budget, and no delegation chains.
+
 - [mstar-harness](https://github.com/btspoony/mstar-harness) — A skill-driven workflow agent plugin for structured harness-loop engineering.
 
 ### Productivity & collaboration
