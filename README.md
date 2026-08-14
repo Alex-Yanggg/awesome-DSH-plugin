@@ -97,7 +97,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 ### Data, research & knowledge
 
-- [context-doctor](https://github.com/dsh-external/context-doctor) — Audits the token cost of instruction chains, skill catalogs, and tool schemas, and detects duplication and conflicts.
+- [context-doctor](https://github.com/Zhenyu98/dsh-context-doctor) — See exactly what every request carries: token cost of the AGENTS.md chain, skill catalog and tool schemas, with duplicate/conflict detection and actionable pruning tips (Web UI gauge + context_audit tool, read-only).
 
 - [cross-harness-cite](https://github.com/dsh-external/cross-harness-cite) — Lets DeepSeek Harness cite relevant conversation history from Codex and Claude Code.
 
