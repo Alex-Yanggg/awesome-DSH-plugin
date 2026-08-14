@@ -3,35 +3,59 @@
   "categories": [
     {
       "id": "developer-tools",
-      "title": { "en": "Developer tools", "zh-CN": "开发工具" }
+      "title": {
+        "en": "Developer tools",
+        "zh-CN": "开发工具"
+      }
     },
     {
       "id": "agent-automation",
-      "title": { "en": "Agent orchestration & automation", "zh-CN": "智能体编排与自动化" }
+      "title": {
+        "en": "Agent orchestration & automation",
+        "zh-CN": "智能体编排与自动化"
+      }
     },
     {
       "id": "productivity-collaboration",
-      "title": { "en": "Productivity & collaboration", "zh-CN": "效率与协作" }
+      "title": {
+        "en": "Productivity & collaboration",
+        "zh-CN": "效率与协作"
+      }
     },
     {
       "id": "data-research-knowledge",
-      "title": { "en": "Data, research & knowledge", "zh-CN": "数据、研究与知识" }
+      "title": {
+        "en": "Data, research & knowledge",
+        "zh-CN": "数据、研究与知识"
+      }
     },
     {
       "id": "cloud-devops-observability",
-      "title": { "en": "Cloud, DevOps & observability", "zh-CN": "云、DevOps 与可观测性" }
+      "title": {
+        "en": "Cloud, DevOps & observability",
+        "zh-CN": "云、DevOps 与可观测性"
+      }
     },
     {
       "id": "ai-design-media",
-      "title": { "en": "AI, design & media", "zh-CN": "AI、设计与媒体" }
+      "title": {
+        "en": "AI, design & media",
+        "zh-CN": "AI、设计与媒体"
+      }
     },
     {
       "id": "business-finance-commerce",
-      "title": { "en": "Business, finance & commerce", "zh-CN": "商业、金融与电商" }
+      "title": {
+        "en": "Business, finance & commerce",
+        "zh-CN": "商业、金融与电商"
+      }
     },
     {
       "id": "life-devices-physical-world",
-      "title": { "en": "Life, devices & the physical world", "zh-CN": "生活、设备与物理世界" }
+      "title": {
+        "en": "Life, devices & the physical world",
+        "zh-CN": "生活、设备与物理世界"
+      }
     }
   ],
   "plugins": [
@@ -370,11 +394,11 @@
     },
     {
       "name": "context-doctor",
-      "url": "https://github.com/dsh-external/context-doctor",
+      "url": "https://github.com/Zhenyu98/dsh-context-doctor",
       "category": "data-research-knowledge",
       "description": {
-        "en": "Audits the token cost of instruction chains, skill catalogs, and tool schemas, and detects duplication and conflicts.",
-        "zh-CN": "审计指令链、技能目录和工具 schema 的 token 成本，并检测重复与冲突。"
+        "en": "See exactly what every request carries: token cost of the AGENTS.md chain, skill catalog and tool schemas, with duplicate/conflict detection and actionable pruning tips (Web UI gauge + context_audit tool, read-only).",
+        "zh-CN": "看清模型每个请求到底背着多少上下文：指令链/技能目录/工具 schema 的 token 成本逐项量化，自动检测重复与冲突，给出可执行裁剪建议（Web 圆环面板 + context_audit 工具，全程只读）。"
       }
     },
     {
