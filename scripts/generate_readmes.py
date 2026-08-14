@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate the catalog and render its English and Simplified Chinese indexes."""
+"""Validate bilingual catalog metadata and render the Simplified Chinese index."""
 
 from __future__ import annotations
 
@@ -16,10 +16,8 @@ from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG_PATH = ROOT / "catalog" / "plugins.json"
 MARKERS = ("<!-- CATALOG:START -->", "<!-- CATALOG:END -->")
-PAGES = {
-    "en": ROOT / "README.md",
-    "zh-CN": ROOT / "docs" / "README.zh-CN.md",
-}
+LANGUAGES = ("en", "zh-CN")
+PAGES = {"zh-CN": ROOT / "docs" / "README.zh-CN.md"}
 SLUG_PATTERN = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 STATUSES = {"active", "beta", "archived"}
 SOURCES = {"official", "community"}
@@ -52,7 +50,7 @@ def require_localized(value: Any, label: str) -> dict[str, str]:
     if not isinstance(value, dict):
         fail(f"{label} must be an object with en and zh-CN text.")
     result: dict[str, str] = {}
-    for language in PAGES:
+    for language in LANGUAGES:
         text = value.get(language)
         if not isinstance(text, str) or not text.strip():
             fail(f"{label}.{language} must be a non-empty string.")

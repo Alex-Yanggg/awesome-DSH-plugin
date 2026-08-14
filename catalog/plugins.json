@@ -9,6 +9,13 @@
       }
     },
     {
+      "id": "ui-user-experience",
+      "title": {
+        "en": "UI & user experience",
+        "zh-CN": "界面与用户体验"
+      }
+    },
+    {
       "id": "agent-automation",
       "title": {
         "en": "Agent orchestration & automation",
@@ -98,7 +105,7 @@
     {
       "name": "dsh-at-file",
       "url": "https://github.com/FSMargoo/dsh-at-file",
-      "category": "developer-tools",
+      "category": "ui-user-experience",
       "description": {
         "en": "Adds Codex-style @file mentions to search workspace files and attach their contents to prompts.",
         "zh-CN": "提供 Codex 风格的 @file 引用，可搜索工作区文件并将内容附加到提示词。"
@@ -116,7 +123,7 @@
     {
       "name": "Prompt Studio",
       "url": "https://github.com/Moeblack/dsh-prompt-studio",
-      "category": "developer-tools",
+      "category": "ui-user-experience",
       "description": {
         "en": "Edit user and built-in system-prompt sections with live preview.",
         "zh-CN": "编辑用户与内置系统提示词段落，支持实时预览。"
@@ -125,7 +132,7 @@
     {
       "name": "DSH Better Sidebar",
       "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
-      "category": "developer-tools",
+      "category": "ui-user-experience",
       "description": {
         "en": "A sidebar workbench with extensible tabs, file viewing and editing, terminal, Git, and sub-agent tools.",
         "zh-CN": "完整的侧边栏工作台，支持扩展 Tab，并内置文件查看与编辑、终端、Git 和子智能体工具。"
@@ -143,7 +150,7 @@
     {
       "name": "dsh-browser-panel",
       "url": "https://github.com/dsh-external/dsh-browser-panel",
-      "category": "developer-tools",
+      "category": "ui-user-experience",
       "description": {
         "en": "Embeds a headed browser in the DSH Web UI so agents can operate a real browser with visible steps.",
         "zh-CN": "在 DSH Web UI 中嵌入有头浏览器，让智能体操作真实浏览器并向用户展示每一步。"
@@ -188,7 +195,7 @@
     {
       "name": "dsh-ui-whale",
       "url": "https://github.com/lhh010/dsh-ui-whale",
-      "category": "ai-design-media",
+      "category": "ui-user-experience",
       "description": {
         "en": "A hand-drawn pixel whale companion for the DSH Web UI that reacts to agent activity.",
         "zh-CN": "为 DSH Web UI 提供会随智能体活动作出反应的手绘像素鲸鱼伙伴。"
@@ -197,7 +204,7 @@
     {
       "name": "dsh-minigames",
       "url": "https://github.com/lhh010/dsh-minigames",
-      "category": "ai-design-media",
+      "category": "ui-user-experience",
       "description": {
         "en": "Adds an extensible DSH Web UI panel with 18 offline mini-games for breaks while waiting on agent work.",
         "zh-CN": "为 DSH Web UI 添加可扩展的 18 款离线小游戏面板，适合等待智能体工作时休息。"
@@ -206,7 +213,7 @@
     {
       "name": "whale-girl",
       "url": "https://github.com/vlln/whale-girl",
-      "category": "ai-design-media",
+      "category": "ui-user-experience",
       "description": {
         "en": "A draggable, interactive desktop pet companion for the DSH Web GUI with feeding and play interactions.",
         "zh-CN": "DSH Web GUI 的可拖拽互动桌面宠物伙伴，支持投喂和玩耍等交互。"
@@ -224,7 +231,7 @@
     {
       "name": "dsh-genui",
       "url": "https://github.com/omdsh-dev/dsh-genui",
-      "category": "ai-design-media",
+      "category": "ui-user-experience",
       "description": {
         "en": "Renders interactive UI components inline in assistant replies, including charts, forms, quizzes, Mermaid diagrams, 3D scenes, and model action events.",
         "zh-CN": "在助手回复中内联渲染可交互 UI 组件，支持图表、表单、测验、Mermaid 图、3D 场景和模型动作事件。"
@@ -233,7 +240,7 @@
     {
       "name": "dsh-cc-tui",
       "url": "https://github.com/ccch1mneyyy/dsh-cc-tui",
-      "category": "ai-design-media",
+      "category": "ui-user-experience",
       "description": {
         "en": "A Claude Code-style full-screen terminal interface with streaming thought display, rollback controls, and context/TPS indicators.",
         "zh-CN": "Claude Code 风格的全屏终端界面，提供流式思考展示、回滚控制及上下文/TPS 指示器。"
@@ -260,7 +267,7 @@
     {
       "name": "dsh-paste-input",
       "url": "https://github.com/lhh010/dsh-paste-input",
-      "category": "productivity-collaboration",
+      "category": "ui-user-experience",
       "description": {
         "en": "Enhances file input with paste, drag and drop, and file picking; submitted files are copied into the session workspace.",
         "zh-CN": "增强文件输入，支持粘贴、拖拽和选择文件；发送时自动将文件复制到会话工作区。"
@@ -269,7 +276,7 @@
     {
       "name": "dsh-ui-progress",
       "url": "https://github.com/lhh010/dsh-ui-progress",
-      "category": "productivity-collaboration",
+      "category": "ui-user-experience",
       "description": {
         "en": "Shows persistent conversation progress, live token generation speed, interruption state, and todo reminders in the Web UI.",
         "zh-CN": "在 Web UI 中常驻显示会话进度、实时 token 生成速率、中断状态和待办提醒。"
@@ -278,7 +285,7 @@
     {
       "name": "dsh-input-history",
       "url": "https://github.com/lhh010/dsh-input-history",
-      "category": "productivity-collaboration",
+      "category": "ui-user-experience",
       "description": {
         "en": "Adds terminal-style Ctrl+Up and Ctrl+Down navigation through sent messages while preserving the latest unsent draft.",
         "zh-CN": "提供终端风格的 Ctrl+Up / Ctrl+Down 已发送消息导航，并保留最新未发送草稿。"
@@ -287,7 +294,7 @@
     {
       "name": "dsh-track",
       "url": "https://github.com/fakechris/dsh-track",
-      "category": "productivity-collaboration",
+      "category": "ui-user-experience",
       "description": {
         "en": "An embedded task-management engine with decision points, an idea-capture wall, and Linear-style issue storage.",
         "zh-CN": "嵌入式任务管理引擎，提供决策点、念头捕获墙和 Linear 风格的 issue 存储。"
@@ -314,7 +321,7 @@
     {
       "name": "dsh-annotation",
       "url": "https://github.com/omdsh-dev/dsh-annotation",
-      "category": "productivity-collaboration",
+      "category": "ui-user-experience",
       "description": {
         "en": "Adds Codex-style text annotations: select text, attach a note to the next message, and receive annotation-aware replies.",
         "zh-CN": "提供 Codex 风格文本批注：选中文字、将批注附加到下一条消息，并获得逐条对应的回复。"
@@ -323,7 +330,7 @@
     {
       "name": "dsh-task-status",
       "url": "https://github.com/vlln/dsh-task-status",
-      "category": "productivity-collaboration",
+      "category": "ui-user-experience",
       "description": {
         "en": "Displays background-task progress and a live output tail on the DSH conversation page.",
         "zh-CN": "在 DSH 对话页展示后台任务进度和实时输出 tail。"
@@ -332,7 +339,7 @@
     {
       "name": "dsh-navbar",
       "url": "https://github.com/vlln/dsh-navbar",
-      "category": "productivity-collaboration",
+      "category": "ui-user-experience",
       "description": {
         "en": "Adds a right-edge navigation strip for quickly jumping between user-message nodes in a conversation.",
         "zh-CN": "添加右侧对话节点导航条，可快速跳转到各个用户消息节点。"
@@ -377,7 +384,7 @@
     {
       "name": "dsh-stickers",
       "url": "https://github.com/william-jin-cmu/dsh-stickers",
-      "category": "ai-design-media",
+      "category": "ui-user-experience",
       "description": {
         "en": "A shared sticker catalog serving the Web UI picker, a /sticker command, and an agent send_sticker tool, with two character variants and workflow-reaction stickers.",
         "zh-CN": "同一份表情包 catalog 同时服务 Web UI 选择器、/sticker 命令和智能体 send_sticker 工具，提供双角色变体与工作流反应表情。"
@@ -386,7 +393,7 @@
     {
       "name": "dsh-message-edit",
       "url": "https://github.com/Moeblack/dsh-message-edit",
-      "category": "productivity-collaboration",
+      "category": "ui-user-experience",
       "description": {
         "en": "Branch-based message editing with reroll, retry, and a version timeline for DeepSeek Harness conversations.",
         "zh-CN": "为 DeepSeek Harness 对话提供基于分支的消息编辑、重新生成、重试和版本时间线。"
@@ -449,7 +456,7 @@
     {
       "name": "dsh-web-review",
       "url": "https://github.com/CanglongCl/dsh-web-review",
-      "category": "developer-tools",
+      "category": "ui-user-experience",
       "description": {
         "en": "Embeds isolated web page previews in DSH Web for element annotations and visual adjustments that guide source edits.",
         "zh-CN": "在 DSH Web 中嵌入隔离网页预览，通过元素批注和可视化调整指导源码修改。"
@@ -458,7 +465,7 @@
     {
       "name": "dsh-qq2006",
       "url": "https://github.com/LaplaceYoung/dsh-qq2006",
-      "category": "ai-design-media",
+      "category": "ui-user-experience",
       "description": {
         "en": "A switchable QQ2006 skin for the DeepSeek Harness Web UI with a coral-blue theme and retro assets.",
         "zh-CN": "DeepSeek Harness Web UI 的可切换 QQ2006 皮肤，提供珊瑚蓝主题和复古素材。"
@@ -467,7 +474,7 @@
     {
       "name": "dsh-grok-tui",
       "url": "https://github.com/chen-001/dsh-grok-tui",
-      "category": "ai-design-media",
+      "category": "ui-user-experience",
       "description": {
         "en": "Use dsh via grok-build's tui.",
         "zh-CN": "借用grok-build tui使用dsh"
@@ -476,7 +483,7 @@
     {
       "name": "deepseek-harness-tui",
       "url": "https://github.com/openma-ai/deepseek-harness-tui",
-      "category": "developer-tools",
+      "category": "ui-user-experience",
       "description": {
         "en": "A Rust terminal client that speaks the DSH SDK JSON-RPC protocol directly and runs standalone or as a profile bundle.",
         "zh-CN": "Rust 终端客户端，直接使用 DSH SDK JSON-RPC 协议，支持独立运行或作为 profile bundle 加载。"
@@ -485,7 +492,7 @@
     {
       "name": "dsh-turn-index",
       "url": "https://github.com/Simon314620/dsh-turn-index",
-      "category": "productivity-collaboration",
+      "category": "ui-user-experience",
       "description": {
         "en": "A turn-index sidebar listing every user turn, with click-to-jump navigation and scroll-spy highlighting.",
         "zh-CN": "轮次索引侧边栏：列出每一轮用户提问，点击跳转到对应位置，滚动时自动高亮当前轮次。"
@@ -512,7 +519,7 @@
     {
       "name": "dsh-skin",
       "url": "https://github.com/KinGao294/dsh-skin",
-      "category": "ai-design-media",
+      "category": "ui-user-experience",
       "description": {
         "en": "Codex-style skin switcher + custom wallpaper for the DSH Web UI: curated --dsw-alias-* palettes, translucent main canvas/sidebar (overrideTokens) with opacity and blur controls.",
         "zh-CN": "Codex 风格换肤 + 自定义背景插件：内置多套 --dsw-alias-* 配色，主画布/侧边栏半透明壁纸（overrideTokens），支持透明度与模糊调节。"

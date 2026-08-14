@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping build the DeepSeek Harness plugin ecosystem. This catalog is English-first and offers a Simplified Chinese mirror generated from the same source.
+Thanks for helping build the DeepSeek Harness plugin ecosystem. The English catalog is maintained by hand, with a Simplified Chinese mirror generated from reviewed bilingual metadata.
 
 ## Before you submit
 
@@ -15,17 +15,18 @@ Please make sure the project:
 ## Add an entry
 
 1. Fork the repository and create a focused branch.
-2. Edit [`catalog/plugins.json`](catalog/plugins.json). Do not edit the catalog sections in either README by hand.
-3. Use the category that best matches the plugin. If none fit, propose a new bilingual category in the same pull request.
-4. Provide a concise, factual description in **both** `en` and `zh-CN`.
-5. Generate and validate the pages:
+2. Add the English entry to the appropriate category in [`README.md`](README.md). Keep this catalog hand-maintained.
+3. Add matching bilingual metadata to [`catalog/plugins.json`](catalog/plugins.json).
+4. Use the category that best matches the plugin. If none fit, propose a new bilingual category in the same pull request.
+5. Provide a concise, factual description in **both** `en` and `zh-CN`.
+6. Generate and validate the Simplified Chinese mirror:
 
    ```bash
    python scripts/generate_readmes.py
    python scripts/generate_readmes.py --check
    ```
 
-6. Open a pull request using the provided template.
+7. Open a pull request using the provided template.
 
 ### Entry shape
 
