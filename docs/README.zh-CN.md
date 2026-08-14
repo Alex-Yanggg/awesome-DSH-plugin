@@ -154,6 +154,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [DSH OpenPencil](https://github.com/ZSeven-W/dsh-openpencil) — 连接 DeepSeek Harness 与 OpenPencil，让智能体创建、编辑、预览和验证可交互的多页面设计画布。
 
+- [dsh-attachment-vision](https://github.com/endlass/dsh-attachment-vision) — GUI 附件图片自动转写为本地路径，并提供连接任意 OpenAI 兼容视觉模型的 view_image 桥接——为纯文本 DeepSeek 模型提供端到端视觉能力。
+
 - [dsh-emoji](https://github.com/hellodigua/dsh-emoji) — 为 DeepSeek Harness 中的 AI 回复自动添加表情符号。
 
 - [dsh-vision](https://github.com/william-jin-cmu/dsh-vision) — 为纯文本 DeepSeek 模型提供连接 OpenAI 兼容视觉语言模型的 view_image 桥接能力。

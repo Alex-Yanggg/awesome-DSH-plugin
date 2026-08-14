@@ -155,6 +155,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-emoji](https://github.com/hellodigua/dsh-emoji) — Automatically adds emoji to AI replies in DeepSeek Harness.
 
+- [dsh-attachment-vision](https://github.com/endlass/dsh-attachment-vision) — GUI image attachments auto-transcribed to local paths plus a view_image bridge to any OpenAI-compatible VLM — end-to-end vision for text-only DeepSeek models.
+
 - [dsh-vision](https://github.com/william-jin-cmu/dsh-vision) — Adds a view_image bridge from text-only DeepSeek models to OpenAI-compatible vision-language models.
 
 - [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) — Adds image Q&A, long-screenshot OCR, UI restoration, visual grounding, pixel diffs, and artifacts.
