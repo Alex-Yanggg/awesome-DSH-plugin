@@ -54,6 +54,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-open-in-vscode](https://github.com/FSMargoo/dsh-open-in-vscode) — Open DeepSeek Harness workspace directories in VS Code from the web interface.
 
 - [dsh-recommend](https://github.com/zp-home/dsh-recommend) — Transparent rankings and recommendations for the DSH plugin ecosystem: daily auto-fetched topic data, an open scoring model, and rank/search/recommend tools with a settings-page leaderboard.
+- [dsh-monitor](https://github.com/AbnerAI/dsh-monitor) — Persistent background watchers (file inbox or command output delta) that wake the agent on new messages — the harness analog of Claude Code's Monitor tool.
 
 - [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) — A DeepSeek Harness Cordis plugin that routes an 85-skill pack for reverse engineering and authorized security research.
 
