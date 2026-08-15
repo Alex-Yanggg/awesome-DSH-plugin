@@ -772,6 +772,12 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-passwords",
+      "url": "https://github.com/slywalker2006/dsh-passwords",
+      "category": "cloud-devops-observability",
+      "description": {"en": "Login gateway (password door) for the DSH web UI with first-run setup, multi-user accounts, rate limiting, audit log, and automatic HTTPS.", "zh-CN": "DSH 网页界面的登录网关（密码门）：首次配置、多用户账号、防爆破锁定、审计日志与自动 HTTPS。"}
     }
   ]
 }
