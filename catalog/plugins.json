@@ -157,6 +157,17 @@
       }
     },
     {
+      "name": "dsh-mcp-lens",
+      "url": "https://github.com/labmimors/dsh-mcp-lens",
+      "category": "developer-tools",
+      "description": {
+        "en": "A progressive-disclosure MCP gateway for DeepSeek Harness that exposes two model-facing tools, retrieves ranked remote schemas on demand, and calls an explicit server/tool pair.",
+        "zh-CN": "面向 DeepSeek Harness 的渐进式披露 MCP 网关：仅暴露两个面向模型的工具，按需检索排序后的远程 Schema，并调用明确的 server/tool 组合。"
+      },
+      "status": "active",
+      "source": "community"
+    },
+    {
       "name": "dsh-browser-panel",
       "url": "https://github.com/dsh-external/dsh-browser-panel",
       "category": "ui-user-experience",
