@@ -193,6 +193,15 @@
       }
     },
     {
+      "name": "dsh-attachment-vision",
+      "url": "https://github.com/endlass/dsh-attachment-vision",
+      "category": "ai-design-media",
+      "description": {
+        "en": "GUI image attachments auto-transcribed to local paths plus a view_image bridge to any OpenAI-compatible VLM — end-to-end vision for text-only DeepSeek models.",
+        "zh-CN": "GUI 附件图片自动转写为本地路径，并提供连接任意 OpenAI 兼容视觉模型的 view_image 桥接——为纯文本 DeepSeek 模型提供端到端视觉能力。"
+      }
+    },
+    {
       "name": "dsh-vision-toolkit",
       "url": "https://github.com/Anionex/dsh-vision-toolkit",
       "category": "ai-design-media",
