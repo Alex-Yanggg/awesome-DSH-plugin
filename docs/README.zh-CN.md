@@ -151,6 +151,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 ### 云、DevOps 与可观测性
 
+- [dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) — DeepSeek Harness 会话与当日 API 费用、预算与官方余额统计插件：历史看板、峰谷计价与官方价格一键同步。
+
 - [dsh-harness-ops](https://github.com/fakechris/dsh-harness-ops) — 运维工具箱，提供 A/B 快照升级、自动恢复、回滚和诊断式自愈命令。
 
 ### AI、设计与媒体

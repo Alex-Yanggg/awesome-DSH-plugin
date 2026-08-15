@@ -166,6 +166,15 @@
       }
     },
     {
+      "name": "dsh-cost-meter",
+      "url": "https://github.com/Han-1413141/dsh-cost-meter",
+      "category": "cloud-devops-observability",
+      "description": {
+        "en": "Per-session and daily DeepSeek API cost, budget, and official-balance tracking for the DSH Web UI, with a history dashboard, peak/off-peak pricing, and one-click official price sync.",
+        "zh-CN": "DeepSeek Harness 会话与当日 API 费用、预算与官方余额统计插件：历史看板、峰谷计价与官方价格一键同步。"
+      }
+    },
+    {
       "name": "plugin-registry",
       "url": "https://github.com/vlln/plugin-registry",
       "category": "developer-tools",
