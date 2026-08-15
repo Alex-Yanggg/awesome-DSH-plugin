@@ -76,6 +76,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-suite](https://github.com/whyihaveyou/dsh-suite) — DSH 插件活目录，提供兼容性 CI、可搜索目录和内置插件商店。
 
+- [mirage-dsh](https://github.com/strukto-ai/mirage/tree/main/typescript/packages/dsh) — 把 DSH 的文件系统与 bash 提供者换成 mirage 虚拟工作区，文件工具与 shell 命令作用于挂载的资源（RAM、S3、Redis、Slack、Gmail、Notion、Postgres）而非宿主磁盘。
+
 - [plugin-manager](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-manager) — DSH Web UI 内置插件商店，支持浏览、搜索、安装、兼容徽章和已装列表。
 
 - [plugin-registry](https://github.com/vlln/plugin-registry) — 基于浏览器的 Plugin 管理控制台，并提供官方 DSH Plugin 开发引导。
