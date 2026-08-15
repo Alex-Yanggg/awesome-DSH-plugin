@@ -56,6 +56,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-balance-meter](https://github.com/Ghost011118/dsh-balance-meter) — Live DeepSeek account balance and session cost in the DSH Web composer dock, with auto-fetched official pricing and peak/off-peak support.
 - [dsh-spend](https://github.com/nonewind/dsh-spend) — Token usage and estimated spend statistics for the DSH web UI: floating panel with per-model, per-day, and per-session views.
 
+- [dsh-billing](https://github.com/TheTianzz/dsh-billing) — DeepSeek account balance and per-session cost as header pills, slash commands, and an agent tool, with configurable pricing and automatic 12-hour sync of the official price list.
+
 - [plugin-registry](https://github.com/vlln/plugin-registry) — A browser-based plugin management console with official guidance for creating DSH plugins.
 
 ### UI & user experience

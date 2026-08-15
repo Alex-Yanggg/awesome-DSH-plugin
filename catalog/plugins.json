@@ -481,6 +481,15 @@
       }
     },
     {
+      "name": "dsh-billing",
+      "url": "https://github.com/TheTianzz/dsh-billing",
+      "category": "developer-tools",
+      "description": {
+        "en": "DeepSeek account balance and per-session cost as header pills, slash commands, and an agent tool, with configurable pricing and automatic 12-hour sync of the official price list.",
+        "zh-CN": "以会话头部双胶囊、斜杠命令和智能体工具展示 DeepSeek 账户余额与本会话费用，单价可配置并每 12 小时自动同步官方价格。"
+      }
+    },
+    {
       "name": "dsh-qq2006",
       "url": "https://github.com/LaplaceYoung/dsh-qq2006",
       "category": "ui-user-experience",
