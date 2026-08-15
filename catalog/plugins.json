@@ -618,6 +618,15 @@
       }
     },
     {
+      "name": "dsh-engramory",
+      "url": "https://github.com/tinqiao-oss/engramory/tree/master/adapters/dsh",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "File-based curated memory: a line/byte-capped MEMORY.md index plus one markdown file per fact under git, with the cap enforced by ctx.tools.guard() and the same store also read by Claude Code, Codex, Kiro, and OpenClaw.",
+        "zh-CN": "基于文件的策展式记忆：带行数/字节上限的 MEMORY.md 索引加每条事实一个 markdown 文件并由 git 版本化，上限由 ctx.tools.guard() 强制执行，同一份记忆库也被 Claude Code、Codex、Kiro 与 OpenClaw 读取。"
+      }
+    },
+    {
       "name": "dsh-spend",
       "url": "https://github.com/nonewind/dsh-spend",
       "category": "developer-tools",

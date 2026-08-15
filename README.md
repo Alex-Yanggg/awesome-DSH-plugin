@@ -170,6 +170,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-artifact-library](https://github.com/wyq183/dsh-artifact-library) — Local-first artifact & reference library: auto-collects AI outputs, AI-organizes them with summaries and tags, full-text search across sessions, and per-project overview.
 
+- [dsh-engramory](https://github.com/tinqiao-oss/engramory/tree/master/adapters/dsh) — File-based curated memory: a line/byte-capped MEMORY.md index plus one markdown file per fact under git, with the cap enforced by ctx.tools.guard() and the same store also read by Claude Code, Codex, Kiro, and OpenClaw.
+
 - [dsh-memory-evolve](https://github.com/dsh-external/dsh-memory-evolve) — Adds long-term cross-session memory with Git-branch awareness and background skill evolution.
 
 - [dsh-mneme](https://github.com/modusensus/dsh-mneme) — Cross-session memory for DeepSeek Harness: SQLite + human-editable Markdown mirror, autoDream consolidation, six memory tools, and fully-offline semantic search (local embedding / rerank / clustering), 198 tests.
