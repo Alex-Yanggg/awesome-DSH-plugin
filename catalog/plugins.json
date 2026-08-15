@@ -777,7 +777,7 @@
       "name": "dsh-tokenscope",
       "url": "https://github.com/HduSy/dsh-tokenscope",
       "category": "developer-tools",
-      "description": {"en": "Per-day token usage and estimated cost dashboard for the DSH settings panel, with per-model breakdown, cache-hit ratio, and a yearly activity heatmap.", "zh-CN": "DSH 设置面板的按日 Token 用量与估算花费看板，含按模型分布、缓存命中占比与全年活跃热力图。"}
+      "description": {"en": "Per-day, per-week, and per-month token usage and estimated cost dashboard for the DSH settings panel, with per-model breakdown, cache-hit ratio, and a yearly activity heatmap.", "zh-CN": "DSH 设置面板的按日、周、月 Token 用量与估算花费看板，含按模型分布、缓存命中占比与全年活跃热力图。"}
     }
   ]
 }

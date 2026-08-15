@@ -76,7 +76,7 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-suite](https://github.com/whyihaveyou/dsh-suite) — DSH 插件活目录，提供兼容性 CI、可搜索目录和内置插件商店。
 
-- [dsh-tokenscope](https://github.com/HduSy/dsh-tokenscope) — DSH 设置面板的按日 Token 用量与估算花费看板，含按模型分布、缓存命中占比与全年活跃热力图。
+- [dsh-tokenscope](https://github.com/HduSy/dsh-tokenscope) — DSH 设置面板的按日、周、月 Token 用量与估算花费看板，含按模型分布、缓存命中占比与全年活跃热力图。
 
 - [plugin-manager](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-manager) — DSH Web UI 内置插件商店，支持浏览、搜索、安装、兼容徽章和已装列表。
 
