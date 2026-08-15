@@ -138,6 +138,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-data-agent](https://github.com/dsh-external/dsh-data-agent) — 帮助智能体连接数据库并编写 SQL 以完成数据任务。
 
+- [dsh-artifact-library](https://github.com/wyq183/dsh-artifact-library) — DeepSeek Harness 本地优先的产物与资料库：自动采集 AI 产出、AI 整理分类（摘要/标签）、跨会话全文检索、项目级总览。
+
 - [dsh-memory-evolve](https://github.com/dsh-external/dsh-memory-evolve) — 提供带 Git 分支感知和后台技能进化能力的跨会话长期记忆。
 
 - [dsh-mneme](https://github.com/modusensus/dsh-mneme) — 面向 DeepSeek Harness 的跨会话记忆插件：SQLite + 可人工编辑的 Markdown 双写，autoDream 后台巩固，6 个记忆工具，完全离线语义检索（本地向量 / 精排 / 聚类），198 个测试。
