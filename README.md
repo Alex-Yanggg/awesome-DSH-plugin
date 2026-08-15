@@ -183,6 +183,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-harness-ops](https://github.com/fakechris/dsh-harness-ops) — Operations toolkit with A/B snapshot upgrades, automatic recovery, rollback, and a diagnostic self-healing command.
 
+- [dsh-passwords](https://github.com/slywalker2006/dsh-passwords) — Login gateway (password gate) for the DSH web UI: safe remote access with owner/subuser multi-user accounts, brute-force lockout, audit log, and HTTPS.
+
 ### AI, design & media
 
 - [DSH OpenPencil](https://github.com/ZSeven-W/dsh-openpencil) — Connects DeepSeek Harness to OpenPencil so agents can create, edit, preview, and validate interactive, multi-page design canvases.
