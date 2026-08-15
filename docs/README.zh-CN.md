@@ -212,6 +212,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-vision](https://github.com/william-jin-cmu/dsh-vision) — 为纯文本 DeepSeek 模型提供连接 OpenAI 兼容视觉语言模型的 view_image 桥接能力。
 
+- [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) — 粘贴图片即可用：内置免费视觉链（五模型 OVH 匿名兜底，免 Key）加 11 个像素级工具（结构化证据看图问答、定位、检测、裁剪、像素对比、取色、OCR、矢量化、抠图、截图、长图 OCR），无需 Python，一条命令安装。
+
 - [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) — 提供图像问答、长截图 OCR、UI 还原、视觉定位、像素差异和 Artifacts 能力。
 
 - [dsh-vision-tools](https://github.com/moon09300731/dsh-vision-tools) — DeepSeek Harness 视觉工具包：通过 vision_understand 将纯文本 DeepSeek 模型桥接到 OpenAI 兼容视觉 API。

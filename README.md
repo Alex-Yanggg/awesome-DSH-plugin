@@ -196,6 +196,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) — Adds image Q&A, long-screenshot OCR, UI restoration, visual grounding, pixel diffs, and artifacts.
 
 - [dsh-vision-tools](https://github.com/moon09300731/dsh-vision-tools) — A vision toolkit that bridges text-only DeepSeek models to OpenAI-compatible vision APIs.
+- [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) — Paste an image and it just works: built-in free vision chain (five-model anonymous OVH fallback, no key) plus eleven pixel-level tools (image Q&A with structured-evidence JSON, grounding, detection, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots, long-screenshot OCR) — no Python, one-command install.
 
 ### Business, finance & commerce
 
