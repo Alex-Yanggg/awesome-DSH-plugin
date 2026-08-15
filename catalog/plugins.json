@@ -481,6 +481,15 @@
       }
     },
     {
+      "name": "dsh-artifact-library",
+      "url": "https://github.com/wyq183/dsh-artifact-library",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Local-first artifact & reference library for DeepSeek Harness: auto-collects AI outputs, AI-organizes them with summaries and tags, full-text search across sessions, and per-project overview.",
+        "zh-CN": "DeepSeek Harness 本地优先的产物与资料库：自动采集 AI 产出、AI 整理分类（摘要/标签）、跨会话全文检索、项目级总览。"
+      }
+    },
+    {
       "name": "dsh-web-review",
       "url": "https://github.com/CanglongCl/dsh-web-review",
       "category": "ui-user-experience",
