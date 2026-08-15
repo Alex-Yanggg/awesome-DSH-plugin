@@ -61,6 +61,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-billing](https://github.com/TheTianzz/dsh-billing) — DeepSeek account balance and per-session cost as header pills, slash commands, and an agent tool, with configurable pricing and automatic 12-hour sync of the official price list.
 
 - [plugin-registry](https://github.com/vlln/plugin-registry) — A browser-based plugin management console with official guidance for creating DSH plugins.
+- [dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) — Import full-fidelity conversation histories from 13 coding agents (Claude Code / Codex / ChatGPT / Cursor / Gemini / Reasonix / opencode / ZCode / Grok Build / OpenClaw / Pi / Hermes / Kimi) as resumable DeepSeek Harness sessions, with reverse export/sync back to Claude Code.
 
 ### UI & user experience
 
