@@ -772,6 +772,12 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-tokenscope",
+      "url": "https://github.com/HduSy/dsh-tokenscope",
+      "category": "developer-tools",
+      "description": {"en": "Per-day token usage and estimated cost dashboard for the DSH settings panel, with per-model breakdown, cache-hit ratio, and a yearly activity heatmap.", "zh-CN": "DSH 设置面板的按日 Token 用量与估算花费看板，含按模型分布、缓存命中占比与全年活跃热力图。"}
     }
   ]
 }
