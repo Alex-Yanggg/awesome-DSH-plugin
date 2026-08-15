@@ -772,6 +772,12 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "mirage-dsh",
+      "url": "https://github.com/strukto-ai/mirage/tree/main/typescript/packages/dsh",
+      "category": "developer-tools",
+      "description": {"en": "Replaces the DSH filesystem and bash providers with a mirage virtual workspace, so file tools and shell commands run over mounted resources (RAM, S3, Redis, Slack, Gmail, Notion, Postgres) instead of the host disk.", "zh-CN": "把 DSH 的文件系统与 bash 提供者换成 mirage 虚拟工作区，文件工具与 shell 命令作用于挂载的资源（RAM、S3、Redis、Slack、Gmail、Notion、Postgres）而非宿主磁盘。"}
     }
   ]
 }
