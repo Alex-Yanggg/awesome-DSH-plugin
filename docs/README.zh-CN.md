@@ -108,6 +108,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-minigames](https://github.com/lhh010/dsh-minigames) — 为 DSH Web UI 添加可扩展的 18 款离线小游戏面板，适合等待智能体工作时休息。
 
+- [dsh-MusicPlayer](https://github.com/xiekai886/dsh-MusicPlayer) — 可折叠/展开、自由拖动的悬浮音乐播放器，接入网易云音乐，支持歌单导入和按歌名或歌手搜索单曲导入，边对话边听歌。
+
 - [dsh-navbar](https://github.com/vlln/dsh-navbar) — 添加右侧对话节点导航条，可快速跳转到各个用户消息节点。
 
 - [dsh-paste-input](https://github.com/lhh010/dsh-paste-input) — 增强文件输入，支持粘贴、拖拽和选择文件；发送时自动将文件复制到会话工作区。
