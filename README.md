@@ -57,6 +57,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [plugin-registry](https://github.com/vlln/plugin-registry) — A browser-based plugin management console with official guidance for creating DSH plugins.
 
+- [dsh-opencodego-usage](https://github.com/BeiZi6/dsh-opencodego-usage) — OpenCodeGo quota monitor for the DSH Web GUI: a breathing indicator at the input's bottom-right (green/yellow/red by remaining share), a liquid-glass panel with rolling/weekly/monthly usage windows and reset times, auto-refreshing every 30 s; API key read automatically from DSH credentials with a manual override.
+
 ### UI & user experience
 
 - [deepseek-harness-tui](https://github.com/openma-ai/deepseek-harness-tui) — A Rust terminal client that speaks the DSH SDK JSON-RPC protocol directly and runs standalone or as a profile bundle.
@@ -108,6 +110,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [Prompt Studio](https://github.com/Moeblack/dsh-prompt-studio) — Edit user and built-in system-prompt sections with live preview.
 
 - [whale-girl](https://github.com/vlln/whale-girl) — A draggable, interactive desktop pet companion for the DSH Web GUI with feeding and play interactions.
+
+- [dsh-theme-plugin](https://github.com/BeiZi6/dsh-theme-plugin) — Theme studio for the DSH Web GUI: five built-in presets (codex-warm, nord, solarized, graphite, stock) plus fully customizable light/dark palettes (accent, background, foreground, UI and code fonts, translucent sidebar, contrast), hot-swapped instantly via the official theme API and persisted in localStorage.
 
 ### Agent orchestration & automation
 

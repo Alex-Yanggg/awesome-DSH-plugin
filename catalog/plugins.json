@@ -562,6 +562,28 @@
         "en": "Mnemon-powered local memory system with three-tier storage (runtime hot memory, project Documents, and long-term Memory Spaces), supervised writeback, retrieval tools, and a Web UI.",
         "zh-CN": "Mnemon 驱动的本地记忆系统：三层存储（运行时热记忆、项目档案 Documents、长期记忆体 Memory Spaces），受监督写回、检索工具与 Web UI。"
       }
+    },
+    {
+      "name": "dsh-theme-plugin",
+      "url": "https://github.com/BeiZi6/dsh-theme-plugin",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Theme studio for the DSH Web GUI: five built-in presets plus fully customizable light/dark palettes (accent, background, foreground, UI and code fonts, translucent sidebar, contrast), hot-swapped instantly and persisted in localStorage.",
+        "zh-CN": "DSH Web GUI 主题工作室：5 套内置预设 + 完全可自定义的浅/深配色（强调色、背景、前景、UI 与代码字体、半透明侧栏、对比度），即时热切换并持久化到 localStorage。"
+      },
+      "status": "active",
+      "source": "community"
+    },
+    {
+      "name": "dsh-opencodego-usage",
+      "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
+      "category": "developer-tools",
+      "description": {
+        "en": "OpenCodeGo quota monitor for the DSH Web GUI: a breathing indicator at the input's bottom-right (green/yellow/red by remaining share), a liquid-glass panel with rolling/weekly/monthly usage windows and reset times, auto-refreshing every 30 s; API key read automatically from DSH credentials with a manual override.",
+        "zh-CN": "OpenCodeGo 剩余额度监视器：输入框右下角呼吸指示灯（按剩余额度绿/黄/红），液态玻璃面板显示滚动/周/月用量窗口与重置时间，每 30 秒自动刷新，API Key 自动读取 DSH 凭据，也可手动覆盖。"
+      },
+      "status": "active",
+      "source": "community"
     }
   ]
 }

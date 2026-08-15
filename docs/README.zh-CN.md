@@ -54,6 +54,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-open-in-vscode](https://github.com/FSMargoo/dsh-open-in-vscode) — 可从 DeepSeek Harness Web 界面直接在 VS Code 中打开工作区目录。
 
+- [dsh-opencodego-usage](https://github.com/BeiZi6/dsh-opencodego-usage) — OpenCodeGo 剩余额度监视器：输入框右下角呼吸指示灯（按剩余额度绿/黄/红），液态玻璃面板显示滚动/周/月用量窗口与重置时间，每 30 秒自动刷新，API Key 自动读取 DSH 凭据，也可手动覆盖。
+
 - [dsh-recommend](https://github.com/zp-home/dsh-recommend) — DSH 插件透明排行与推荐：每日自动抓取 dsh-plugin 话题生态、公开评分模型，提供榜单/搜索/推荐工具与设置页排行榜。
 
 - [plugin-registry](https://github.com/vlln/plugin-registry) — 基于浏览器的 Plugin 管理控制台，并提供官方 DSH Plugin 开发引导。
@@ -95,6 +97,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 - [dsh-sticky-disclosure](https://github.com/Han-1413141/dsh-sticky-disclosure) — 一键收起 DSH Web 会话中所有展开的区块（Think 思考行、工具卡片），常驻计数按钮 + 可自定义快捷键。
 
 - [dsh-task-status](https://github.com/vlln/dsh-task-status) — 在 DSH 对话页展示后台任务进度和实时输出 tail。
+
+- [dsh-theme-plugin](https://github.com/BeiZi6/dsh-theme-plugin) — DSH Web GUI 主题工作室：5 套内置预设 + 完全可自定义的浅/深配色（强调色、背景、前景、UI 与代码字体、半透明侧栏、对比度），即时热切换并持久化到 localStorage。
 
 - [dsh-track](https://github.com/fakechris/dsh-track) — 嵌入式任务管理引擎，提供决策点、念头捕获墙和 Linear 风格的 issue 存储。
 
