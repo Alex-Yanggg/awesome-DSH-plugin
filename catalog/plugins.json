@@ -616,6 +616,42 @@
         "en": "Cross-session memory for DeepSeek Harness: SQLite + human-editable Markdown mirror, autoDream consolidation, six memory tools, and fully-offline semantic search (local embedding / rerank / clustering), 198 tests.",
         "zh-CN": "面向 DeepSeek Harness 的跨会话记忆插件：SQLite + 可人工编辑的 Markdown 双写，autoDream 后台巩固，6 个记忆工具，完全离线语义检索（本地向量 / 精排 / 聚类），198 个测试。"
       }
+    },
+    {
+      "name": "dsh-spend",
+      "url": "https://github.com/nonewind/dsh-spend",
+      "category": "developer-tools",
+      "description": {
+        "en": "Token usage and estimated spend statistics for the DSH web UI, with per-model, per-day, and per-session views.",
+        "zh-CN": "DSH Web 的用量与预计花费统计，支持按模型、日期和会话查看。"
+      }
+    },
+    {
+      "name": "dsh-plugin-wallpaper",
+      "url": "https://github.com/Tree-Summer/dsh-plugin-wallpaper",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Sets a custom DSH Web UI wallpaper with visibility controls for the main interface, sidebar, input, and bubbles.",
+        "zh-CN": "为 DSH Web UI 设置自定义壁纸，并控制主界面、侧边栏、输入区和气泡的显示。"
+      }
+    },
+    {
+      "name": "dsh-chat-import",
+      "url": "https://github.com/Nwflower/dsh-chat-import",
+      "category": "developer-tools",
+      "description": {
+        "en": "Imports conversation histories from coding agents as resumable DeepSeek Harness sessions, with export and sync support for Claude Code.",
+        "zh-CN": "将编码智能体的对话历史导入为可恢复的 DeepSeek Harness 会话，并支持导出和同步到 Claude Code。"
+      }
+    },
+    {
+      "name": "dhicoc/dsh-reverse-skill",
+      "url": "https://github.com/dhicoc/dsh-reverse-skill",
+      "category": "developer-tools",
+      "description": {
+        "en": "A DeepSeek Harness Cordis plugin that routes an 85-skill pack for reverse engineering and authorized security research.",
+        "zh-CN": "一个为逆向工程和经授权安全研究路由 85 项技能包的 DeepSeek Harness Cordis 插件。"
+      }
     }
   ]
 }
