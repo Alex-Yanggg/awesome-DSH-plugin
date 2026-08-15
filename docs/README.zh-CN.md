@@ -202,6 +202,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-harness-ops](https://github.com/fakechris/dsh-harness-ops) — 运维工具箱，提供 A/B 快照升级、自动恢复、回滚和诊断式自愈命令。
 
+- [dsh-passwords](https://github.com/slywalker2006/dsh-passwords) — DSH 网页界面的登录网关（密码门）：首次配置、多用户账号、防爆破锁定、审计日志与自动 HTTPS。
+
 ### AI、设计与媒体
 
 - [DSH OpenPencil](https://github.com/ZSeven-W/dsh-openpencil) — 连接 DeepSeek Harness 与 OpenPencil，让智能体创建、编辑、预览和验证可交互的多页面设计画布。
