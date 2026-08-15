@@ -95,7 +95,7 @@
     },
     {
       "name": "dsh-agent-team-gui",
-      "url": "https://github.com/toolclub/agent_team_gui",
+      "url": "https://github.com/toolclub/dsh-agent-team-gui",
       "category": "agent-automation",
       "description": {
         "en": "Global persistent agent squads with per-agent model/tool policies: manage them in Settings, select and toggle one per conversation, then collaborate on normal sends in a fixed or model-planned order.",
