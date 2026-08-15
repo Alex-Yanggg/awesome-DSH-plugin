@@ -772,6 +772,12 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-usage-lens",
+      "url": "https://github.com/yokesky/dsh-usage-lens",
+      "category": "ui-user-experience",
+      "description": {"en": "Usage statistics dashboard for the DSH Web UI: overview cards, a 280-day activity heatmap, daily token trend, and model usage donut chart.", "zh-CN": "DSH Web UI 用量统计面板：总览卡片、280 天活跃热力图、按天 Token 趋势与模型用量双环饼图。"}
     }
   ]
 }
