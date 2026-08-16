@@ -400,6 +400,15 @@
       }
     },
     {
+      "name": "dsh-self-evolving",
+      "url": "https://github.com/timwhitez/dsh-self-evolving",
+      "category": "agent-automation",
+      "description": {
+        "en": "Evidence-first, crash-resumable self-evolution engine: bounded Cordis candidate generation, one-shot real-Loader admission, Harbor evaluation, and an auditable journaled lineage.",
+        "zh-CN": "证据优先、可崩溃恢复的自进化引擎：有界 Cordis 候选生成、一次性真实 Loader 准入、Harbor 评估，以及可审计的日志化谱系。"
+      }
+    },
+    {
       "name": "dsh-companion",
       "url": "https://github.com/william-jin-cmu/dsh-companion",
       "category": "productivity-collaboration",
