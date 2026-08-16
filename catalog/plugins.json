@@ -772,6 +772,12 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "cleverer-dsh",
+      "url": "https://github.com/Classicoke/cleverer-dsh",
+      "category": "agent-automation",
+      "description": {"en": "An execution-discipline plugin suite for DeepSeek Harness: intercepts repeated failures, forces reflection, enforces todo discipline, dedups memory, and evolves its own skills.", "zh-CN": "DeepSeek Harness 执行纪律插件套件：拦截重复失败、强制反思、强制任务规划纪律、记忆去重与技能自进化。"}
     }
   ]
 }
