@@ -178,6 +178,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-openbiliclaw](https://github.com/whiteguo233/dsh-openbiliclaw) — Brings the local OpenBiliClaw content-recommendation agent into DSH with a persistent UI and 22 agent-bridge tools.
 
 - [dsh-session-search](https://github.com/dsh-external/dsh-session-search) — Provides full-text search across DSH, Codex, Claude Code, pi, and OpenCode sessions.
+- [dsh-sxs-anti-bot-http](https://github.com/yangyunsong023/dsh-sxs-anti-bot-http) — Anti-bot HTTP fetch tools hardened by SXS's production scraping stack (millions of requests/day): UA-pool rotation, retry with exponential backoff, anti-bot wall detection (captcha / verification challenges) and adaptive rate limiting — tools: `sxs_fetch` / `sxs_fetch_json` / `sxs_rate_status`.
+- [dsh-sxs-news-collector](https://github.com/yangyunsong023/dsh-sxs-news-collector) — Trending-topics collector aggregating Baidu / Toutiao / Douyin / Weibo hot lists in one call (Weibo optional cookie), returning titles with heat values for content creators — tool: `sxs_news_hot`.
 
 ### Cloud, DevOps & observability
 
