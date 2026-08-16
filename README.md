@@ -159,6 +159,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [plugin-session-export](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-session-export) — Exports append-only session logs as Markdown or HTML.
 - [dsh-lark-meeting-notifier](https://github.com/yeruizhi/dsh-lark-meeting-notifier) — A Feishu meeting reminder panel with today/tomorrow views and flashing alarms.
 - [dsh-im-hub](https://github.com/ThreeBody6666/dsh-im-hub) — A multi-platform IM gateway for Feishu, WeCom, and Telegram with per-chat agent sessions.
+- [dsh-bell-notify](https://github.com/Laplace-bit/dsh-bell-notify) — Plays a distinct chime per lifecycle event (startup, tool call, command, approval wait, turn complete, idle), synthesized live with Web Audio — zero audio files — plus a breathing status dot showing agent state.
 
 ### Data, research & knowledge
 

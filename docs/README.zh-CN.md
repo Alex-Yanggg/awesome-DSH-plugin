@@ -162,6 +162,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [deepseek-manners](https://github.com/Moeblack/deepseek-manners) — 给每次助手回复追加一句感谢语。
 
+- [dsh-bell-notify](https://github.com/Laplace-bit/dsh-bell-notify) — 为每个生命周期环节（启动、工具调用、命令、等待审批、回合完成、空闲）播放专属提示音，Web Audio 实时合成（零音频文件），外加一个显示工作状态的呼吸状态点。
+
 - [dsh-companion](https://github.com/william-jin-cmu/dsh-companion) — Cetus macOS 桌面智能体的 DeepSeek Harness 发行版：常驻桌面聊天伙伴，支持全局快捷键、屏幕上下文、定时任务和文件递送。
 
 - [dsh-im-hub](https://github.com/ThreeBody6666/dsh-im-hub) — DeepSeek Harness 多平台 IM 网关，集成飞书、企业微信和 Telegram，并提供每聊天独立智能体会话。

@@ -762,6 +762,12 @@
       "description": {"en": "Multi-platform IM gateway for DeepSeek Harness with Feishu, WeCom, and Telegram integrations and per-chat agent sessions.", "zh-CN": "DeepSeek Harness 多平台 IM 网关，集成飞书、企业微信和 Telegram，并提供每聊天独立智能体会话。"}
     },
     {
+      "name": "dsh-bell-notify",
+      "url": "https://github.com/Laplace-bit/dsh-bell-notify",
+      "category": "productivity-collaboration",
+      "description": {"en": "Plays a distinct chime per lifecycle event (startup, tool call, command, approval wait, turn complete, idle), synthesized live with Web Audio (zero audio files), plus a breathing status dot showing agent state.", "zh-CN": "为每个生命周期环节（启动、工具调用、命令、等待审批、回合完成、空闲）播放专属提示音，Web Audio 实时合成（零音频文件），外加一个显示工作状态的呼吸状态点。"}
+    },
+    {
       "name": "dsh-theme-plugin",
       "url": "https://github.com/BeiZi6/dsh-theme-plugin",
       "category": "ui-user-experience",
