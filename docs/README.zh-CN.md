@@ -94,6 +94,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-cc-tui](https://github.com/ccch1mneyyy/dsh-cc-tui) — Claude Code 风格的全屏终端界面，提供流式思考展示、回滚控制及上下文/TPS 指示器。
 
+- [dsh-context](https://github.com/bowenliang123/dsh-context) — 上下文洞察面板：一眼看清模型上下文窗口的组成与变化——构成对照窗口大小、按请求历史趋势、压缩/注入事件、消息级 token 统计。
+
 - [dsh-deepseek-quota](https://github.com/yingjunnan/dsh-deepseek-quota) — 在 DSH Web 页面右下角悬浮卡片展示 DeepSeek API 剩余额度，支持自动刷新与手动刷新。
 
 - [dsh-desktop](https://github.com/howlma/dsh-desktop) — Windows 桌面客户端：打开即拉起或复用 Harness 网关，窗口内嵌官方 Web 界面；托盘常驻，可选开机自启。
