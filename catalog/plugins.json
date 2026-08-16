@@ -708,6 +708,15 @@
       "description": {"en": "A living DeepSeek Harness plugin directory with compatibility CI, a searchable catalog, and an in-app plugin store.", "zh-CN": "DSH 插件活目录，提供兼容性 CI、可搜索目录和内置插件商店。"}
     },
     {
+      "name": "DSH Plugins",
+      "url": "https://dsh-plugin.top/",
+      "category": "developer-tools",
+      "description": {
+        "en": "A bilingual, star-ranked directory of 600+ DeepSeek Harness plugins with curated project summaries, install commands, localized detail pages, and an incremental GitHub star-growth view.",
+        "zh-CN": "收录 600 多个 DeepSeek Harness 插件的双语目录，提供按星标排序、人工整理的项目简介、安装命令、本地化详情页和增量涨星榜。"
+      }
+    },
+    {
       "name": "create-dsh-plugin",
       "url": "https://github.com/whyihaveyou/dsh-suite/tree/main/packages/create-dsh-plugin",
       "category": "developer-tools",
