@@ -196,6 +196,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-session-search](https://github.com/dsh-external/dsh-session-search) — 支持跨 DSH、Codex、Claude Code、pi 与 OpenCode 会话的全文搜索。
 
+- [TMCRA-Agent-Memory](https://github.com/reshuibuduo/TMCRA-Agent-Memory) — 面向 DSH 与 Codex 的本机图记忆：每轮前召回用户全局与项目证据，分别保存 USER 与 ASSISTANT 记录，并提供保留来源信息的可视化图谱和带证据引用的知识页。 (beta)
+
 ### 云、DevOps 与可观测性
 
 - [dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) — DeepSeek Harness 会话与当日 API 费用、预算与官方余额统计插件：历史看板、峰谷计价与官方价格一键同步。

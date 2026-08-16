@@ -772,6 +772,17 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "TMCRA-Agent-Memory",
+      "url": "https://github.com/reshuibuduo/TMCRA-Agent-Memory",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Owner-local graph memory for DSH and Codex that recalls owner-global and project evidence before each turn, stores USER and ASSISTANT records separately, and exposes a provenance-aware visual atlas and cited knowledge pages.",
+        "zh-CN": "面向 DSH 与 Codex 的本机图记忆：每轮前召回用户全局与项目证据，分别保存 USER 与 ASSISTANT 记录，并提供保留来源信息的可视化图谱和带证据引用的知识页。"
+      },
+      "status": "beta",
+      "source": "community"
     }
   ]
 }
