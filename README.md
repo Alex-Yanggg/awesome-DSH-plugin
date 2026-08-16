@@ -183,6 +183,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-harness-ops](https://github.com/fakechris/dsh-harness-ops) — Operations toolkit with A/B snapshot upgrades, automatic recovery, rollback, and a diagnostic self-healing command.
 
+- [dsh-whale-meter](https://github.com/Shiye-10Pages/dsh-whale-meter) — Usage ledger with 🐟→🐳 tiers by monthly token burn, a locally-estimated percentile and shareable stats card, precise pricing for 46 models across 6 vendors including size-tiered Chinese pricing, and backfill of pre-install sessions.
+
 ### AI, design & media
 
 - [DSH OpenPencil](https://github.com/ZSeven-W/dsh-openpencil) — Connects DeepSeek Harness to OpenPencil so agents can create, edit, preview, and validate interactive, multi-page design canvases.
