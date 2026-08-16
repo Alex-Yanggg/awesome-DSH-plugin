@@ -82,6 +82,7 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 ### 界面与用户体验
 
+- [dsh-canvas-preview](https://github.com/jiuyuechuwuhao/dsh-canvas-preview) — Live-preview AI-generated HTML in a Canvas tab and export PNG/JPG/SVG locally (`npx dsh-canvas-preview`).
 - [deepseek-harness-tui](https://github.com/openma-ai/deepseek-harness-tui) — Rust 终端客户端，直接使用 DSH SDK JSON-RPC 协议，支持独立运行或作为 profile bundle 加载。
 
 - [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) — 完整的侧边栏工作台，支持扩展 Tab，并内置文件查看与编辑、终端、Git 和子智能体工具。

@@ -74,6 +74,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 ### UI & user experience
 
+- [dsh-canvas-preview](https://github.com/jiuyuechuwuhao/dsh-canvas-preview) — Live-preview AI-generated HTML in a Canvas tab and export PNG/JPG/SVG locally (`npx dsh-canvas-preview`).
 - [deepseek-harness-tui](https://github.com/openma-ai/deepseek-harness-tui) — A Rust terminal client that speaks the DSH SDK JSON-RPC protocol directly and runs standalone or as a profile bundle.
 
 - [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) — A sidebar workbench with extensible tabs, file viewing and editing, terminal, Git, and sub-agent tools.
