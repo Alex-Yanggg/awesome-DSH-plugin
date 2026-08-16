@@ -135,6 +135,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-evolve](https://github.com/william-jin-cmu/dsh-evolve) — Lets the agent write, hot-mount, and reversibly remove its own cordis plugins mid-session, growing new tools, prompt rules, and event hooks that persist across restarts.
 
+- [dsh-self-evolving](https://github.com/timwhitez/dsh-self-evolving) — Evidence-first, crash-resumable self-evolution engine: bounded Cordis candidate generation, one-shot real-Loader admission, Harbor evaluation, and an auditable journaled lineage.
+
 - [dsh-harness-mcp-server](https://github.com/chushixixin/dsh-harness-mcp-server) — Expose DeepSeek Harness agent capabilities as an MCP server, letting any MCP client (e.g. Hermes) drive Harness to execute coding tasks.
 
 - [dsh-loop](https://github.com/vlln/dsh-loop) — Adds scheduled loops through a /loop command, a loop tool, and an activity status bar.
