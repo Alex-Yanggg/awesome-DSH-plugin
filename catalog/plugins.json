@@ -67,6 +67,240 @@
   ],
   "plugins": [
     {
+      "name": "dsh-approval-gate",
+      "url": "https://github.com/moon09300731/dsh-approval-gate",
+      "category": "agent-automation",
+      "description": {
+        "en": "Risk-gated auto-approval for DeepSeek Harness: safe operations auto-approve, while risky operations require human approval.",
+        "zh-CN": "DSH 风险门控自动审批：安全操作自动批准，风险操作转人工审批。"
+      }
+    },
+    {
+      "name": "dsh-evolve",
+      "url": "https://github.com/william-jin-cmu/dsh-evolve",
+      "category": "agent-automation",
+      "description": {
+        "en": "Lets the agent write, hot-mount, and reversibly remove its own cordis plugins mid-session, growing new tools, prompt rules, and event hooks that persist across restarts.",
+        "zh-CN": "让智能体在会话中现场编写、热挂载并可逆卸载自己的 cordis 插件，新工具、提示词规则和事件钩子重启后自动恢复。"
+      }
+    },
+    {
+      "name": "dsh-harness-mcp-server",
+      "url": "https://github.com/chushixixin/dsh-harness-mcp-server",
+      "category": "agent-automation",
+      "description": {
+        "en": "Expose DeepSeek Harness agent capabilities as an MCP server, letting any MCP client (e.g. Hermes) drive Harness to execute coding tasks.",
+        "zh-CN": "把 DeepSeek Harness 的 agent 能力暴露为 MCP server，让任意 MCP 客户端（如 Hermes）驱动 Harness 执行编码任务。"
+      }
+    },
+    {
+      "name": "dsh-loop",
+      "url": "https://github.com/vlln/dsh-loop",
+      "category": "agent-automation",
+      "description": {
+        "en": "Adds scheduled loops through a /loop command, a loop tool, and an activity status bar.",
+        "zh-CN": "通过 /loop 命令、loop 工具和活动状态条提供定时循环能力。"
+      }
+    },
+    {
+      "name": "dsh-preset-flash-director",
+      "url": "https://github.com/zhaoyilun/dsh-preset-flash-director",
+      "category": "agent-automation",
+      "description": {
+        "en": "A token-economical DeepSeek Harness agent preset that delegates deep-thinking tasks to expert subagents.",
+        "zh-CN": "一个节省 token 的 DeepSeek Harness 智能体预设，将深度思考任务委派给专家子智能体。"
+      }
+    },
+    {
+      "name": "mstar-harness",
+      "url": "https://github.com/btspoony/mstar-harness",
+      "category": "agent-automation",
+      "description": {
+        "en": "A skill-driven workflow agent plugin for structured harness-loop engineering.",
+        "zh-CN": "面向结构化 Harness 循环工程的技能驱动工作流智能体 Plugin。"
+      }
+    },
+    {
+      "name": "plugin-team-board",
+      "url": "https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-team-board",
+      "category": "agent-automation",
+      "description": {
+        "en": "A shared multi-agent task board backed by a Cordis service key.",
+        "zh-CN": "由 Cordis 服务键支持的共享多智能体任务板。"
+      }
+    },
+    {
+      "name": "DSH OpenPencil",
+      "url": "https://github.com/ZSeven-W/dsh-openpencil",
+      "category": "ai-design-media",
+      "description": {
+        "en": "Connects DeepSeek Harness to OpenPencil so agents can create, edit, preview, and validate interactive, multi-page design canvases.",
+        "zh-CN": "连接 DeepSeek Harness 与 OpenPencil，让智能体创建、编辑、预览和验证可交互的多页面设计画布。"
+      }
+    },
+    {
+      "name": "dsh-attachment-vision",
+      "url": "https://github.com/endlass/dsh-attachment-vision",
+      "category": "ai-design-media",
+      "description": {
+        "en": "GUI image attachments auto-transcribed to local paths plus a view_image bridge to any OpenAI-compatible VLM — end-to-end vision for text-only DeepSeek models.",
+        "zh-CN": "GUI 附件图片自动转写为本地路径，并提供连接任意 OpenAI 兼容视觉模型的 view_image 桥接——为纯文本 DeepSeek 模型提供端到端视觉能力。"
+      }
+    },
+    {
+      "name": "dsh-emoji",
+      "url": "https://github.com/hellodigua/dsh-emoji",
+      "category": "ai-design-media",
+      "description": {
+        "en": "Automatically adds emoji to AI replies in DeepSeek Harness.",
+        "zh-CN": "为 DeepSeek Harness 中的 AI 回复自动添加表情符号。"
+      }
+    },
+    {
+      "name": "dsh-vision",
+      "url": "https://github.com/william-jin-cmu/dsh-vision",
+      "category": "ai-design-media",
+      "description": {
+        "en": "Adds a view_image bridge from text-only DeepSeek models to OpenAI-compatible vision-language models.",
+        "zh-CN": "为纯文本 DeepSeek 模型提供连接 OpenAI 兼容视觉语言模型的 view_image 桥接能力。"
+      }
+    },
+    {
+      "name": "dsh-vision-toolkit",
+      "url": "https://github.com/Anionex/dsh-vision-toolkit",
+      "category": "ai-design-media",
+      "description": {
+        "en": "Adds image Q&A, long-screenshot OCR, UI restoration, visual grounding, pixel diffs, and artifacts.",
+        "zh-CN": "提供图像问答、长截图 OCR、UI 还原、视觉定位、像素差异和 Artifacts 能力。"
+      }
+    },
+    {
+      "name": "dsh-vision-tools",
+      "url": "https://github.com/moon09300731/dsh-vision-tools",
+      "category": "ai-design-media",
+      "description": {
+        "en": "Vision toolkit for DeepSeek Harness with a vision_understand tool bridging text-only DeepSeek models to OpenAI-compatible vision APIs.",
+        "zh-CN": "DeepSeek Harness 视觉工具包：通过 vision_understand 将纯文本 DeepSeek 模型桥接到 OpenAI 兼容视觉 API。"
+      }
+    },
+    {
+      "name": "shopline-ai-toolkit-dsh",
+      "url": "https://github.com/lunw/shopline-ai-toolkit-dsh",
+      "category": "business-finance-commerce",
+      "description": {
+        "en": "SHOPLINE AI Toolkit for DeepSeek Harness, bridging the official SHOPLINE Developer MCP server and seven agent skills.",
+        "zh-CN": "面向 DeepSeek Harness 的 SHOPLINE AI 工具包，接入官方 SHOPLINE Developer MCP 服务并提供七个智能体技能。"
+      }
+    },
+    {
+      "name": "dsh-cost-meter",
+      "url": "https://github.com/Han-1413141/dsh-cost-meter",
+      "category": "cloud-devops-observability",
+      "description": {
+        "en": "Per-session and daily DeepSeek API cost, budget, and official-balance tracking for the DSH Web UI, with a history dashboard, peak/off-peak pricing, and one-click official price sync.",
+        "zh-CN": "DeepSeek Harness 会话与当日 API 费用、预算与官方余额统计插件：历史看板、峰谷计价与官方价格一键同步。"
+      }
+    },
+    {
+      "name": "dsh-harness-ops",
+      "url": "https://github.com/fakechris/dsh-harness-ops",
+      "category": "cloud-devops-observability",
+      "description": {
+        "en": "Operations toolkit with A/B snapshot upgrades, automatic recovery, rollback, and a diagnostic self-healing command.",
+        "zh-CN": "运维工具箱，提供 A/B 快照升级、自动恢复、回滚和诊断式自愈命令。"
+      }
+    },
+    {
+      "name": "dsh-whale-meter",
+      "url": "https://github.com/Shiye-10Pages/dsh-whale-meter",
+      "category": "cloud-devops-observability",
+      "description": {
+        "en": "Usage ledger for DSH: 🐟→🐳 tiers by monthly token burn with a locally-estimated percentile and shareable stats card, precise pricing for 46 models across 6 vendors including size-tiered Chinese pricing, backfill of pre-install sessions, and old-vs-new rates across the 2026-08-17 change.",
+        "zh-CN": "DSH 用量账本：按本月 token 消耗评 🐟→🐳 五档段位，分位本地估算并附可分享战绩卡；6 家厂商 46 个模型精准计价，含国内厂商按输入长度分档；回填安装前的会话；8·17 调价前后各按各价。"
+      }
+    },
+    {
+      "name": "context-doctor",
+      "url": "https://github.com/Zhenyu98/dsh-context-doctor",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "See exactly what every request carries: token cost of the AGENTS.md chain, skill catalog and tool schemas, with duplicate/conflict detection and actionable pruning tips (Web UI gauge + context_audit tool, read-only).",
+        "zh-CN": "看清模型每个请求到底背着多少上下文：指令链/技能目录/工具 schema 的 token 成本逐项量化，自动检测重复与冲突，给出可执行裁剪建议（Web 圆环面板 + context_audit 工具，全程只读）。"
+      }
+    },
+    {
+      "name": "cross-harness-cite",
+      "url": "https://github.com/dsh-external/cross-harness-cite",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Lets DeepSeek Harness cite relevant conversation history from Codex and Claude Code.",
+        "zh-CN": "让 DeepSeek Harness 引用 Codex 与 Claude Code 中相关的历史对话。"
+      }
+    },
+    {
+      "name": "dsh-artifact-library",
+      "url": "https://github.com/wyq183/dsh-artifact-library",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Local-first artifact & reference library for DeepSeek Harness: auto-collects AI outputs, AI-organizes them with summaries and tags, full-text search across sessions, and per-project overview.",
+        "zh-CN": "DeepSeek Harness 本地优先的产物与资料库：自动采集 AI 产出、AI 整理分类（摘要/标签）、跨会话全文检索、项目级总览。"
+      }
+    },
+    {
+      "name": "dsh-data-agent",
+      "url": "https://github.com/dsh-external/dsh-data-agent",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Helps agents connect to databases and write SQL for data tasks.",
+        "zh-CN": "帮助智能体连接数据库并编写 SQL 以完成数据任务。"
+      }
+    },
+    {
+      "name": "dsh-memory-evolve",
+      "url": "https://github.com/dsh-external/dsh-memory-evolve",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Adds long-term cross-session memory with Git-branch awareness and background skill evolution.",
+        "zh-CN": "提供带 Git 分支感知和后台技能进化能力的跨会话长期记忆。"
+      }
+    },
+    {
+      "name": "dsh-mneme",
+      "url": "https://github.com/modusensus/dsh-mneme",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Cross-session memory for DeepSeek Harness: SQLite + human-editable Markdown mirror, autoDream consolidation, six memory tools, and fully-offline semantic search (local embedding / rerank / clustering), 198 tests.",
+        "zh-CN": "面向 DeepSeek Harness 的跨会话记忆插件：SQLite + 可人工编辑的 Markdown 双写，autoDream 后台巩固，6 个记忆工具，完全离线语义检索（本地向量 / 精排 / 聚类），198 个测试。"
+      }
+    },
+    {
+      "name": "dsh-mnemon",
+      "url": "https://github.com/omdsh-dev/dsh-mnemon",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Mnemon-powered local memory system with three-tier storage (runtime hot memory, project Documents, and long-term Memory Spaces), supervised writeback, retrieval tools, and a Web UI.",
+        "zh-CN": "Mnemon 驱动的本地记忆系统：三层存储（运行时热记忆、项目档案 Documents、长期记忆体 Memory Spaces），受监督写回、检索工具与 Web UI。"
+      }
+    },
+    {
+      "name": "dsh-openbiliclaw",
+      "url": "https://github.com/whiteguo233/dsh-openbiliclaw",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Brings the local OpenBiliClaw content-recommendation agent into DSH with a persistent UI and 22 agent-bridge tools.",
+        "zh-CN": "将本地 OpenBiliClaw 内容推荐智能体接入 DSH，提供常驻界面和 22 个 Agent Bridge 工具。"
+      }
+    },
+    {
+      "name": "dsh-session-search",
+      "url": "https://github.com/dsh-external/dsh-session-search",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Provides full-text search across DSH, Codex, Claude Code, pi, and OpenCode sessions.",
+        "zh-CN": "支持跨 DSH、Codex、Claude Code、pi 与 OpenCode 会话的全文搜索。"
+      }
+    },
+    {
       "name": "billion-context-dsh",
       "url": "https://github.com/Tyan66666/billion-context-dsh",
       "category": "developer-tools",
@@ -85,462 +319,12 @@
       }
     },
     {
-      "name": "mstar-harness",
-      "url": "https://github.com/btspoony/mstar-harness",
-      "category": "agent-automation",
-      "description": {
-        "en": "A skill-driven workflow agent plugin for structured harness-loop engineering.",
-        "zh-CN": "面向结构化 Harness 循环工程的技能驱动工作流智能体 Plugin。"
-      }
-    },
-    {
-      "name": "dsh-custom-tool",
-      "url": "https://github.com/FSMargoo/dsh-custom-tool",
+      "name": "create-dsh-plugin",
+      "url": "https://github.com/whyihaveyou/dsh-suite/tree/main/packages/create-dsh-plugin",
       "category": "developer-tools",
       "description": {
-        "en": "Create and manage sandboxed JavaScript tools with a Monaco editor and a model-driven lifecycle.",
-        "zh-CN": "通过 Monaco 编辑器及模型驱动的生命周期创建和管理沙箱化 JavaScript 工具。"
-      }
-    },
-    {
-      "name": "dsh-open-in-vscode",
-      "url": "https://github.com/FSMargoo/dsh-open-in-vscode",
-      "category": "developer-tools",
-      "description": {
-        "en": "Open DeepSeek Harness workspace directories in VS Code from the web interface.",
-        "zh-CN": "可从 DeepSeek Harness Web 界面直接在 VS Code 中打开工作区目录。"
-      }
-    },
-    {
-      "name": "dsh-at-file",
-      "url": "https://github.com/FSMargoo/dsh-at-file",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "Adds Codex-style @file mentions to search workspace files and attach their contents to prompts.",
-        "zh-CN": "提供 Codex 风格的 @file 引用，可搜索工作区文件并将内容附加到提示词。"
-      }
-    },
-    {
-      "name": "dsh-bash-encoding",
-      "url": "https://github.com/lhh010/dsh-bash-encoding",
-      "category": "developer-tools",
-      "description": {
-        "en": "Automatically detects and decodes Bash output encodings including UTF-16LE, UTF-8, and GBK for Windows and WSL.",
-        "zh-CN": "自动识别并解码 UTF-16LE、UTF-8、GBK 等 Bash 输出编码，修复 Windows 与 WSL 下的乱码。"
-      }
-    },
-    {
-      "name": "Prompt Studio",
-      "url": "https://github.com/Moeblack/dsh-prompt-studio",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "Edit user and built-in system-prompt sections with live preview.",
-        "zh-CN": "编辑用户与内置系统提示词段落，支持实时预览。"
-      }
-    },
-    {
-      "name": "DSH Better Sidebar",
-      "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "A sidebar workbench with extensible tabs, file viewing and editing, terminal, Git, and sub-agent tools.",
-        "zh-CN": "完整的侧边栏工作台，支持扩展 Tab，并内置文件查看与编辑、终端、Git 和子智能体工具。"
-      }
-    },
-    {
-      "name": "dsh-git-identity",
-      "url": "https://github.com/LoserFox/dsh-git-identity",
-      "category": "developer-tools",
-      "description": {
-        "en": "Pins Git commit authorship to the active environment identity, prioritizing the signed-in GitHub CLI account.",
-        "zh-CN": "将 Git 提交作者身份固定为当前环境身份，并优先使用已登录的 GitHub CLI 账号。"
-      }
-    },
-    {
-      "name": "dsh-browser-panel",
-      "url": "https://github.com/dsh-external/dsh-browser-panel",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "Embeds a headed browser in the DSH Web UI so agents can operate a real browser with visible steps.",
-        "zh-CN": "在 DSH Web UI 中嵌入有头浏览器，让智能体操作真实浏览器并向用户展示每一步。"
-      }
-    },
-    {
-      "name": "dsh-harness-ops",
-      "url": "https://github.com/fakechris/dsh-harness-ops",
-      "category": "cloud-devops-observability",
-      "description": {
-        "en": "Operations toolkit with A/B snapshot upgrades, automatic recovery, rollback, and a diagnostic self-healing command.",
-        "zh-CN": "运维工具箱，提供 A/B 快照升级、自动恢复、回滚和诊断式自愈命令。"
-      }
-    },
-    {
-      "name": "dsh-cost-meter",
-      "url": "https://github.com/Han-1413141/dsh-cost-meter",
-      "category": "cloud-devops-observability",
-      "description": {
-        "en": "Per-session and daily DeepSeek API cost, budget, and official-balance tracking for the DSH Web UI, with a history dashboard, peak/off-peak pricing, and one-click official price sync.",
-        "zh-CN": "DeepSeek Harness 会话与当日 API 费用、预算与官方余额统计插件：历史看板、峰谷计价与官方价格一键同步。"
-      }
-    },
-    {
-      "name": "plugin-registry",
-      "url": "https://github.com/vlln/plugin-registry",
-      "category": "developer-tools",
-      "description": {
-        "en": "A browser-based plugin management console with official guidance for creating DSH plugins.",
-        "zh-CN": "基于浏览器的 Plugin 管理控制台，并提供官方 DSH Plugin 开发引导。"
-      }
-    },
-    {
-      "name": "dsh-attachment-vision",
-      "url": "https://github.com/endlass/dsh-attachment-vision",
-      "category": "ai-design-media",
-      "description": {
-        "en": "GUI image attachments auto-transcribed to local paths plus a view_image bridge to any OpenAI-compatible VLM — end-to-end vision for text-only DeepSeek models.",
-        "zh-CN": "GUI 附件图片自动转写为本地路径，并提供连接任意 OpenAI 兼容视觉模型的 view_image 桥接——为纯文本 DeepSeek 模型提供端到端视觉能力。"
-      }
-    },
-    {
-      "name": "dsh-vision-toolkit",
-      "url": "https://github.com/Anionex/dsh-vision-toolkit",
-      "category": "ai-design-media",
-      "description": {
-        "en": "Adds image Q&A, long-screenshot OCR, UI restoration, visual grounding, pixel diffs, and artifacts.",
-        "zh-CN": "提供图像问答、长截图 OCR、UI 还原、视觉定位、像素差异和 Artifacts 能力。"
-      }
-    },
-    {
-      "name": "dsh-vision",
-      "url": "https://github.com/william-jin-cmu/dsh-vision",
-      "category": "ai-design-media",
-      "description": {
-        "en": "Adds a view_image bridge from text-only DeepSeek models to OpenAI-compatible vision-language models.",
-        "zh-CN": "为纯文本 DeepSeek 模型提供连接 OpenAI 兼容视觉语言模型的 view_image 桥接能力。"
-      }
-    },
-    {
-      "name": "dsh-ui-whale",
-      "url": "https://github.com/lhh010/dsh-ui-whale",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "A hand-drawn pixel whale companion for the DSH Web UI that reacts to agent activity.",
-        "zh-CN": "为 DSH Web UI 提供会随智能体活动作出反应的手绘像素鲸鱼伙伴。"
-      }
-    },
-    {
-      "name": "dsh-minigames",
-      "url": "https://github.com/lhh010/dsh-minigames",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "Adds an extensible DSH Web UI panel with 18 offline mini-games for breaks while waiting on agent work.",
-        "zh-CN": "为 DSH Web UI 添加可扩展的 18 款离线小游戏面板，适合等待智能体工作时休息。"
-      }
-    },
-    {
-      "name": "whale-girl",
-      "url": "https://github.com/vlln/whale-girl",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "A draggable, interactive desktop pet companion for the DSH Web GUI with feeding and play interactions.",
-        "zh-CN": "DSH Web GUI 的可拖拽互动桌面宠物伙伴，支持投喂和玩耍等交互。"
-      }
-    },
-    {
-      "name": "dsh-emoji",
-      "url": "https://github.com/hellodigua/dsh-emoji",
-      "category": "ai-design-media",
-      "description": {
-        "en": "Automatically adds emoji to AI replies in DeepSeek Harness.",
-        "zh-CN": "为 DeepSeek Harness 中的 AI 回复自动添加表情符号。"
-      }
-    },
-    {
-      "name": "dsh-genui",
-      "url": "https://github.com/omdsh-dev/dsh-genui",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "Renders interactive UI components inline in assistant replies, including charts, forms, quizzes, Mermaid diagrams, 3D scenes, and model action events.",
-        "zh-CN": "在助手回复中内联渲染可交互 UI 组件，支持图表、表单、测验、Mermaid 图、3D 场景和模型动作事件。"
-      }
-    },
-    {
-      "name": "dsh-cc-tui",
-      "url": "https://github.com/ccch1mneyyy/dsh-cc-tui",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "A Claude Code-style full-screen terminal interface with streaming thought display, rollback controls, and context/TPS indicators.",
-        "zh-CN": "Claude Code 风格的全屏终端界面，提供流式思考展示、回滚控制及上下文/TPS 指示器。"
-      }
-    },
-    {
-      "name": "DSH OpenPencil",
-      "url": "https://github.com/ZSeven-W/dsh-openpencil",
-      "category": "ai-design-media",
-      "description": {
-        "en": "Connects DeepSeek Harness to OpenPencil so agents can create, edit, preview, and validate interactive, multi-page design canvases.",
-        "zh-CN": "连接 DeepSeek Harness 与 OpenPencil，让智能体创建、编辑、预览和验证可交互的多页面设计画布。"
-      }
-    },
-    {
-      "name": "dsh-notification",
-      "url": "https://github.com/FSMargoo/dsh-notification",
-      "category": "productivity-collaboration",
-      "description": {
-        "en": "Sends desktop notifications when a DeepSeek Harness turn completes, with outcome and keyword rules.",
-        "zh-CN": "在 DeepSeek Harness 回合完成时发送桌面通知，并支持按结果和关键词制定规则。"
-      }
-    },
-    {
-      "name": "dsh-paste-input",
-      "url": "https://github.com/lhh010/dsh-paste-input",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "Enhances file input with paste, drag and drop, and file picking; submitted files are copied into the session workspace.",
-        "zh-CN": "增强文件输入，支持粘贴、拖拽和选择文件；发送时自动将文件复制到会话工作区。"
-      }
-    },
-    {
-      "name": "dsh-ui-progress",
-      "url": "https://github.com/lhh010/dsh-ui-progress",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "Shows persistent conversation progress, live token generation speed, interruption state, and todo reminders in the Web UI.",
-        "zh-CN": "在 Web UI 中常驻显示会话进度、实时 token 生成速率、中断状态和待办提醒。"
-      }
-    },
-    {
-      "name": "dsh-input-history",
-      "url": "https://github.com/lhh010/dsh-input-history",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "Adds terminal-style Ctrl+Up and Ctrl+Down navigation through sent messages while preserving the latest unsent draft.",
-        "zh-CN": "提供终端风格的 Ctrl+Up / Ctrl+Down 已发送消息导航，并保留最新未发送草稿。"
-      }
-    },
-    {
-      "name": "dsh-track",
-      "url": "https://github.com/fakechris/dsh-track",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "An embedded task-management engine with decision points, an idea-capture wall, and Linear-style issue storage.",
-        "zh-CN": "嵌入式任务管理引擎，提供决策点、念头捕获墙和 Linear 风格的 issue 存储。"
-      }
-    },
-    {
-      "name": "dsh-openbiliclaw",
-      "url": "https://github.com/whiteguo233/dsh-openbiliclaw",
-      "category": "data-research-knowledge",
-      "description": {
-        "en": "Brings the local OpenBiliClaw content-recommendation agent into DSH with a persistent UI and 22 agent-bridge tools.",
-        "zh-CN": "将本地 OpenBiliClaw 内容推荐智能体接入 DSH，提供常驻界面和 22 个 Agent Bridge 工具。"
-      }
-    },
-    {
-      "name": "dsh-share",
-      "url": "https://github.com/hellodigua/dsh-share",
-      "category": "productivity-collaboration",
-      "description": {
-        "en": "Share DeepSeek Harness conversations with a single action.",
-        "zh-CN": "一键分享 DeepSeek Harness 对话。"
-      }
-    },
-    {
-      "name": "dsh-annotation",
-      "url": "https://github.com/omdsh-dev/dsh-annotation",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "Adds Codex-style text annotations: select text, attach a note to the next message, and receive annotation-aware replies.",
-        "zh-CN": "提供 Codex 风格文本批注：选中文字、将批注附加到下一条消息，并获得逐条对应的回复。"
-      }
-    },
-    {
-      "name": "dsh-task-status",
-      "url": "https://github.com/vlln/dsh-task-status",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "Displays background-task progress and a live output tail on the DSH conversation page.",
-        "zh-CN": "在 DSH 对话页展示后台任务进度和实时输出 tail。"
-      }
-    },
-    {
-      "name": "dsh-navbar",
-      "url": "https://github.com/vlln/dsh-navbar",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "Adds a right-edge navigation strip for quickly jumping between user-message nodes in a conversation.",
-        "zh-CN": "添加右侧对话节点导航条，可快速跳转到各个用户消息节点。"
-      }
-    },
-    {
-      "name": "dsh-loop",
-      "url": "https://github.com/vlln/dsh-loop",
-      "category": "agent-automation",
-      "description": {
-        "en": "Adds scheduled loops through a /loop command, a loop tool, and an activity status bar.",
-        "zh-CN": "通过 /loop 命令、loop 工具和活动状态条提供定时循环能力。"
-      }
-    },
-    {
-      "name": "dsh-artifact",
-      "url": "https://github.com/william-jin-cmu/dsh-artifact",
-      "category": "developer-tools",
-      "description": {
-        "en": "A send_artifact tool that validates model-produced files and delivers structured descriptors through the standard dsh event stream for any client to render.",
-        "zh-CN": "提供 send_artifact 工具，校验模型产出的文件并通过 dsh 标准事件流交付结构化描述子，任何客户端都可按需呈现。"
-      }
-    },
-    {
-      "name": "dsh-evolve",
-      "url": "https://github.com/william-jin-cmu/dsh-evolve",
-      "category": "agent-automation",
-      "description": {
-        "en": "Lets the agent write, hot-mount, and reversibly remove its own cordis plugins mid-session, growing new tools, prompt rules, and event hooks that persist across restarts.",
-        "zh-CN": "让智能体在会话中现场编写、热挂载并可逆卸载自己的 cordis 插件，新工具、提示词规则和事件钩子重启后自动恢复。"
-      }
-    },
-    {
-      "name": "dsh-companion",
-      "url": "https://github.com/william-jin-cmu/dsh-companion",
-      "category": "productivity-collaboration",
-      "description": {
-        "en": "A DeepSeek Harness distribution of the Cetus macOS desktop agent: a resident chat companion with global hotkey, screen context, scheduled tasks, and file hand-off.",
-        "zh-CN": "Cetus macOS 桌面智能体的 DeepSeek Harness 发行版：常驻桌面聊天伙伴，支持全局快捷键、屏幕上下文、定时任务和文件递送。"
-      }
-    },
-    {
-      "name": "dsh-stickers",
-      "url": "https://github.com/william-jin-cmu/dsh-stickers",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "A shared sticker catalog serving the Web UI picker, a /sticker command, and an agent send_sticker tool, with two character variants and workflow-reaction stickers.",
-        "zh-CN": "同一份表情包 catalog 同时服务 Web UI 选择器、/sticker 命令和智能体 send_sticker 工具，提供双角色变体与工作流反应表情。"
-      }
-    },
-    {
-      "name": "dsh-message-edit",
-      "url": "https://github.com/Moeblack/dsh-message-edit",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "Branch-based message editing with reroll, retry, and a version timeline for DeepSeek Harness conversations.",
-        "zh-CN": "为 DeepSeek Harness 对话提供基于分支的消息编辑、重新生成、重试和版本时间线。"
-      }
-    },
-    {
-      "name": "deepseek-manners",
-      "url": "https://github.com/Moeblack/deepseek-manners",
-      "category": "productivity-collaboration",
-      "description": {
-        "en": "Appends a thank-you line to every assistant reply.",
-        "zh-CN": "给每次助手回复追加一句感谢语。"
-      }
-    },
-    {
-      "name": "context-doctor",
-      "url": "https://github.com/Zhenyu98/dsh-context-doctor",
-      "category": "data-research-knowledge",
-      "description": {
-        "en": "See exactly what every request carries: token cost of the AGENTS.md chain, skill catalog and tool schemas, with duplicate/conflict detection and actionable pruning tips (Web UI gauge + context_audit tool, read-only).",
-        "zh-CN": "看清模型每个请求到底背着多少上下文：指令链/技能目录/工具 schema 的 token 成本逐项量化，自动检测重复与冲突，给出可执行裁剪建议（Web 圆环面板 + context_audit 工具，全程只读）。"
-      }
-    },
-    {
-      "name": "dsh-session-search",
-      "url": "https://github.com/dsh-external/dsh-session-search",
-      "category": "data-research-knowledge",
-      "description": {
-        "en": "Provides full-text search across DSH, Codex, Claude Code, pi, and OpenCode sessions.",
-        "zh-CN": "支持跨 DSH、Codex、Claude Code、pi 与 OpenCode 会话的全文搜索。"
-      }
-    },
-    {
-      "name": "cross-harness-cite",
-      "url": "https://github.com/dsh-external/cross-harness-cite",
-      "category": "data-research-knowledge",
-      "description": {
-        "en": "Lets DeepSeek Harness cite relevant conversation history from Codex and Claude Code.",
-        "zh-CN": "让 DeepSeek Harness 引用 Codex 与 Claude Code 中相关的历史对话。"
-      }
-    },
-    {
-      "name": "dsh-memory-evolve",
-      "url": "https://github.com/dsh-external/dsh-memory-evolve",
-      "category": "data-research-knowledge",
-      "description": {
-        "en": "Adds long-term cross-session memory with Git-branch awareness and background skill evolution.",
-        "zh-CN": "提供带 Git 分支感知和后台技能进化能力的跨会话长期记忆。"
-      }
-    },
-    {
-      "name": "dsh-data-agent",
-      "url": "https://github.com/dsh-external/dsh-data-agent",
-      "category": "data-research-knowledge",
-      "description": {
-        "en": "Helps agents connect to databases and write SQL for data tasks.",
-        "zh-CN": "帮助智能体连接数据库并编写 SQL 以完成数据任务。"
-      }
-    },
-    {
-      "name": "dsh-artifact-library",
-      "url": "https://github.com/wyq183/dsh-artifact-library",
-      "category": "data-research-knowledge",
-      "description": {
-        "en": "Local-first artifact & reference library for DeepSeek Harness: auto-collects AI outputs, AI-organizes them with summaries and tags, full-text search across sessions, and per-project overview.",
-        "zh-CN": "DeepSeek Harness 本地优先的产物与资料库：自动采集 AI 产出、AI 整理分类（摘要/标签）、跨会话全文检索、项目级总览。"
-      }
-    },
-    {
-      "name": "dsh-web-review",
-      "url": "https://github.com/CanglongCl/dsh-web-review",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "Embeds isolated web page previews in DSH Web for element annotations and visual adjustments that guide source edits.",
-        "zh-CN": "在 DSH Web 中嵌入隔离网页预览，通过元素批注和可视化调整指导源码修改。"
-      }
-    },
-    {
-      "name": "dsh-balance-meter",
-      "url": "https://github.com/Ghost011118/dsh-balance-meter",
-      "category": "developer-tools",
-      "description": {
-        "en": "Live DeepSeek account balance and session cost in the DSH Web composer dock, with auto-fetched official pricing and peak/off-peak support.",
-        "zh-CN": "在 DSH Web 输入框下方实时显示 DeepSeek 账户余额与本场会话花费，自动抓取官方价格并支持峰谷计价。"
-      }
-    },
-    {
-      "name": "dsh-billing",
-      "url": "https://github.com/TheTianzz/dsh-billing",
-      "category": "developer-tools",
-      "description": {
-        "en": "DeepSeek account balance and per-session cost as header pills, slash commands, and an agent tool, with configurable pricing and automatic 12-hour sync of the official price list.",
-        "zh-CN": "以会话头部双胶囊、斜杠命令和智能体工具展示 DeepSeek 账户余额与本会话费用，单价可配置并每 12 小时自动同步官方价格。"
-      }
-    },
-    {
-      "name": "dsh-qq2006",
-      "url": "https://github.com/LaplaceYoung/dsh-qq2006",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "A switchable QQ2006 skin for the DeepSeek Harness Web UI with a coral-blue theme and retro assets.",
-        "zh-CN": "DeepSeek Harness Web UI 的可切换 QQ2006 皮肤，提供珊瑚蓝主题和复古素材。"
-      }
-    },
-    {
-      "name": "dsh-grok-tui",
-      "url": "https://github.com/chen-001/dsh-grok-tui",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "Use dsh via grok-build's tui.",
-        "zh-CN": "借用grok-build tui使用dsh"
-      }
-    },
-    {
-      "name": "deepseek-harness-tui",
-      "url": "https://github.com/openma-ai/deepseek-harness-tui",
-      "category": "ui-user-experience",
-      "description": {
-        "en": "A Rust terminal client that speaks the DSH SDK JSON-RPC protocol directly and runs standalone or as a profile bundle.",
-        "zh-CN": "Rust 终端客户端，直接使用 DSH SDK JSON-RPC 协议，支持独立运行或作为 profile bundle 加载。"
+        "en": "A DSH plugin scaffolder with tool, events, and Web UI templates plus a built-in smoke test.",
+        "zh-CN": "DSH 插件脚手架，提供工具、事件和 Web UI 模板及内置冒烟测试。"
       }
     },
     {
@@ -553,21 +337,102 @@
       }
     },
     {
-      "name": "dsh-turn-index",
-      "url": "https://github.com/Simon314620/dsh-turn-index",
-      "category": "ui-user-experience",
+      "name": "dhicoc/dsh-reverse-skill",
+      "url": "https://github.com/dhicoc/dsh-reverse-skill",
+      "category": "developer-tools",
       "description": {
-        "en": "A turn-index sidebar listing every user turn, with click-to-jump navigation and scroll-spy highlighting.",
-        "zh-CN": "轮次索引侧边栏：列出每一轮用户提问，点击跳转到对应位置，滚动时自动高亮当前轮次。"
+        "en": "A DeepSeek Harness Cordis plugin that routes an 85-skill pack for reverse engineering and authorized security research.",
+        "zh-CN": "一个为逆向工程和经授权安全研究路由 85 项技能包的 DeepSeek Harness Cordis 插件。"
       }
     },
     {
-      "name": "dsh-harness-mcp-server",
-      "url": "https://github.com/chushixixin/dsh-harness-mcp-server",
-      "category": "agent-automation",
+      "name": "dsh-artifact",
+      "url": "https://github.com/william-jin-cmu/dsh-artifact",
+      "category": "developer-tools",
       "description": {
-        "en": "Expose DeepSeek Harness agent capabilities as an MCP server, letting any MCP client (e.g. Hermes) drive Harness to execute coding tasks.",
-        "zh-CN": "把 DeepSeek Harness 的 agent 能力暴露为 MCP server，让任意 MCP 客户端（如 Hermes）驱动 Harness 执行编码任务。"
+        "en": "A send_artifact tool that validates model-produced files and delivers structured descriptors through the standard dsh event stream for any client to render.",
+        "zh-CN": "提供 send_artifact 工具，校验模型产出的文件并通过 dsh 标准事件流交付结构化描述子，任何客户端都可按需呈现。"
+      }
+    },
+    {
+      "name": "dsh-balance-meter",
+      "url": "https://github.com/Ghost011118/dsh-balance-meter",
+      "category": "developer-tools",
+      "description": {
+        "en": "Live DeepSeek account balance and session cost in the DSH Web composer dock, with auto-fetched official pricing and peak/off-peak support.",
+        "zh-CN": "在 DSH Web 输入框下方实时显示 DeepSeek 账户余额与本场会话花费，自动抓取官方价格并支持峰谷计价。"
+      }
+    },
+    {
+      "name": "dsh-bash-encoding",
+      "url": "https://github.com/lhh010/dsh-bash-encoding",
+      "category": "developer-tools",
+      "description": {
+        "en": "Automatically detects and decodes Bash output encodings including UTF-16LE, UTF-8, and GBK for Windows and WSL.",
+        "zh-CN": "自动识别并解码 UTF-16LE、UTF-8、GBK 等 Bash 输出编码，修复 Windows 与 WSL 下的乱码。"
+      }
+    },
+    {
+      "name": "dsh-billing",
+      "url": "https://github.com/TheTianzz/dsh-billing",
+      "category": "developer-tools",
+      "description": {
+        "en": "DeepSeek account balance and per-session cost as header pills, slash commands, and an agent tool, with configurable pricing and automatic 12-hour sync of the official price list.",
+        "zh-CN": "以会话头部双胶囊、斜杠命令和智能体工具展示 DeepSeek 账户余额与本会话费用，单价可配置并每 12 小时自动同步官方价格。"
+      }
+    },
+    {
+      "name": "dsh-chat-import",
+      "url": "https://github.com/Nwflower/dsh-chat-import",
+      "category": "developer-tools",
+      "description": {
+        "en": "Imports conversation histories from coding agents as resumable DeepSeek Harness sessions, with export and sync support for Claude Code.",
+        "zh-CN": "将编码智能体的对话历史导入为可恢复的 DeepSeek Harness 会话，并支持导出和同步到 Claude Code。"
+      }
+    },
+    {
+      "name": "dsh-custom-tool",
+      "url": "https://github.com/FSMargoo/dsh-custom-tool",
+      "category": "developer-tools",
+      "description": {
+        "en": "Create and manage sandboxed JavaScript tools with a Monaco editor and a model-driven lifecycle.",
+        "zh-CN": "通过 Monaco 编辑器及模型驱动的生命周期创建和管理沙箱化 JavaScript 工具。"
+      }
+    },
+    {
+      "name": "dsh-git-identity",
+      "url": "https://github.com/LoserFox/dsh-git-identity",
+      "category": "developer-tools",
+      "description": {
+        "en": "Pins Git commit authorship to the active environment identity, prioritizing the signed-in GitHub CLI account.",
+        "zh-CN": "将 Git 提交作者身份固定为当前环境身份，并优先使用已登录的 GitHub CLI 账号。"
+      }
+    },
+    {
+      "name": "dsh-github-login",
+      "url": "https://github.com/Noob-stupid/dsh-github-login",
+      "category": "developer-tools",
+      "description": {
+        "en": "A visual GitHub device-flow login tool that synchronizes the token to gh CLI configuration.",
+        "zh-CN": "一个将令牌同步到 gh CLI 配置的可视化 GitHub 设备码登录工具。"
+      }
+    },
+    {
+      "name": "dsh-open-in-vscode",
+      "url": "https://github.com/FSMargoo/dsh-open-in-vscode",
+      "category": "developer-tools",
+      "description": {
+        "en": "Open DeepSeek Harness workspace directories in VS Code from the web interface.",
+        "zh-CN": "可从 DeepSeek Harness Web 界面直接在 VS Code 中打开工作区目录。"
+      }
+    },
+    {
+      "name": "dsh-opencodego-usage",
+      "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
+      "category": "developer-tools",
+      "description": {
+        "en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.",
+        "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"
       }
     },
     {
@@ -580,12 +445,309 @@
       }
     },
     {
+      "name": "dsh-settings-plus",
+      "url": "https://github.com/oneinitAI/dsh-settings-plus",
+      "category": "developer-tools",
+      "description": {
+        "en": "Advanced settings manager for DeepSeek Harness with form-level and file-level configuration editing plus a plugin settings SDK.",
+        "zh-CN": "DeepSeek Harness 高级设置管理器，支持表单级和文件级配置编辑及插件设置 SDK。"
+      }
+    },
+    {
+      "name": "dsh-spend",
+      "url": "https://github.com/nonewind/dsh-spend",
+      "category": "developer-tools",
+      "description": {
+        "en": "Token usage and estimated spend statistics for the DSH web UI, with per-model, per-day, and per-session views.",
+        "zh-CN": "DSH Web 的用量与预计花费统计，支持按模型、日期和会话查看。"
+      }
+    },
+    {
+      "name": "dsh-suite",
+      "url": "https://github.com/whyihaveyou/dsh-suite",
+      "category": "developer-tools",
+      "description": {
+        "en": "A living DeepSeek Harness plugin directory with compatibility CI, a searchable catalog, and an in-app plugin store.",
+        "zh-CN": "DSH 插件活目录，提供兼容性 CI、可搜索目录和内置插件商店。"
+      }
+    },
+    {
+      "name": "plugin-manager",
+      "url": "https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-manager",
+      "category": "developer-tools",
+      "description": {
+        "en": "An in-app DSH Web UI plugin store with browsing, search, installation, compatibility badges, and an installed list.",
+        "zh-CN": "DSH Web UI 内置插件商店，支持浏览、搜索、安装、兼容徽章和已装列表。"
+      }
+    },
+    {
+      "name": "plugin-registry",
+      "url": "https://github.com/vlln/plugin-registry",
+      "category": "developer-tools",
+      "description": {
+        "en": "A browser-based plugin management console with official guidance for creating DSH plugins.",
+        "zh-CN": "基于浏览器的 Plugin 管理控制台，并提供官方 DSH Plugin 开发引导。"
+      }
+    },
+    {
+      "name": "dsh-adb",
+      "url": "https://github.com/SamXiaBing/dsh-adb",
+      "category": "life-devices-physical-world",
+      "description": {
+        "en": "ADB device and bench operations for DSH: device discovery, logcat streaming, APK installation, file transfer, and performance snapshots.",
+        "zh-CN": "DSH 的 ADB 设备与台架操作：设备发现、logcat 流、APK 安装、文件传输和性能快照。"
+      }
+    },
+    {
+      "name": "deepseek-manners",
+      "url": "https://github.com/Moeblack/deepseek-manners",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Appends a thank-you line to every assistant reply.",
+        "zh-CN": "给每次助手回复追加一句感谢语。"
+      }
+    },
+    {
+      "name": "dsh-companion",
+      "url": "https://github.com/william-jin-cmu/dsh-companion",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "A DeepSeek Harness distribution of the Cetus macOS desktop agent: a resident chat companion with global hotkey, screen context, scheduled tasks, and file hand-off.",
+        "zh-CN": "Cetus macOS 桌面智能体的 DeepSeek Harness 发行版：常驻桌面聊天伙伴，支持全局快捷键、屏幕上下文、定时任务和文件递送。"
+      }
+    },
+    {
+      "name": "dsh-im-hub",
+      "url": "https://github.com/ThreeBody6666/dsh-im-hub",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Multi-platform IM gateway for DeepSeek Harness with Feishu, WeCom, and Telegram integrations and per-chat agent sessions.",
+        "zh-CN": "DeepSeek Harness 多平台 IM 网关，集成飞书、企业微信和 Telegram，并提供每聊天独立智能体会话。"
+      }
+    },
+    {
+      "name": "dsh-lark-meeting-notifier",
+      "url": "https://github.com/yeruizhi/dsh-lark-meeting-notifier",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "A Feishu meeting reminder panel with today/tomorrow views and multi-alarm flashing reminders.",
+        "zh-CN": "飞书会议提醒面板，提供今天/明天视图和多闹钟闪烁提醒。"
+      }
+    },
+    {
+      "name": "dsh-notification",
+      "url": "https://github.com/FSMargoo/dsh-notification",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Sends desktop notifications when a DeepSeek Harness turn completes, with outcome and keyword rules.",
+        "zh-CN": "在 DeepSeek Harness 回合完成时发送桌面通知，并支持按结果和关键词制定规则。"
+      }
+    },
+    {
+      "name": "dsh-share",
+      "url": "https://github.com/hellodigua/dsh-share",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Share DeepSeek Harness conversations with a single action.",
+        "zh-CN": "一键分享 DeepSeek Harness 对话。"
+      }
+    },
+    {
+      "name": "plugin-notify",
+      "url": "https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-notify",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Sends IM webhook and local notifications on turn completion, errors, or approval requests.",
+        "zh-CN": "在回合完成、出错或需要审批时发送 IM webhook 和本地通知。"
+      }
+    },
+    {
+      "name": "plugin-session-export",
+      "url": "https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-session-export",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Exports append-only session logs as human-readable Markdown or HTML.",
+        "zh-CN": "将只追加会话日志导出为可读的 Markdown 或 HTML。"
+      }
+    },
+    {
+      "name": "deepseek-harness-tui",
+      "url": "https://github.com/openma-ai/deepseek-harness-tui",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "A Rust terminal client that speaks the DSH SDK JSON-RPC protocol directly and runs standalone or as a profile bundle.",
+        "zh-CN": "Rust 终端客户端，直接使用 DSH SDK JSON-RPC 协议，支持独立运行或作为 profile bundle 加载。"
+      }
+    },
+    {
+      "name": "DSH Better Sidebar",
+      "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "A sidebar workbench with extensible tabs, file viewing and editing, terminal, Git, and sub-agent tools.",
+        "zh-CN": "完整的侧边栏工作台，支持扩展 Tab，并内置文件查看与编辑、终端、Git 和子智能体工具。"
+      }
+    },
+    {
+      "name": "dsh-annotation",
+      "url": "https://github.com/omdsh-dev/dsh-annotation",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Adds Codex-style text annotations: select text, attach a note to the next message, and receive annotation-aware replies.",
+        "zh-CN": "提供 Codex 风格文本批注：选中文字、将批注附加到下一条消息，并获得逐条对应的回复。"
+      }
+    },
+    {
+      "name": "dsh-at-file",
+      "url": "https://github.com/FSMargoo/dsh-at-file",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Adds Codex-style @file mentions to search workspace files and attach their contents to prompts.",
+        "zh-CN": "提供 Codex 风格的 @file 引用，可搜索工作区文件并将内容附加到提示词。"
+      }
+    },
+    {
+      "name": "dsh-browser-panel",
+      "url": "https://github.com/dsh-external/dsh-browser-panel",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Embeds a headed browser in the DSH Web UI so agents can operate a real browser with visible steps.",
+        "zh-CN": "在 DSH Web UI 中嵌入有头浏览器，让智能体操作真实浏览器并向用户展示每一步。"
+      }
+    },
+    {
+      "name": "dsh-cc-tui",
+      "url": "https://github.com/ccch1mneyyy/dsh-cc-tui",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "A Claude Code-style full-screen terminal interface with streaming thought display, rollback controls, and context/TPS indicators.",
+        "zh-CN": "Claude Code 风格的全屏终端界面，提供流式思考展示、回滚控制及上下文/TPS 指示器。"
+      }
+    },
+    {
+      "name": "dsh-deepseek-quota",
+      "url": "https://github.com/yingjunnan/dsh-deepseek-quota",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Shows remaining DeepSeek API balance in a floating bottom-right card on the DSH Web page, with auto-refresh and a manual refresh button.",
+        "zh-CN": "在 DSH Web 页面右下角悬浮卡片展示 DeepSeek API 剩余额度，支持自动刷新与手动刷新。"
+      }
+    },
+    {
+      "name": "dsh-desktop",
+      "url": "https://github.com/howlma/dsh-desktop",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Windows desktop client that boots or reuses the Harness gateway and embeds the official web UI, with tray residency and optional launch-at-login.",
+        "zh-CN": "Windows 桌面客户端：打开即拉起或复用 Harness 网关，窗口内嵌官方 Web 界面；托盘常驻，可选开机自启。"
+      }
+    },
+    {
+      "name": "dsh-genui",
+      "url": "https://github.com/omdsh-dev/dsh-genui",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Renders interactive UI components inline in assistant replies, including charts, forms, quizzes, Mermaid diagrams, 3D scenes, and model action events.",
+        "zh-CN": "在助手回复中内联渲染可交互 UI 组件，支持图表、表单、测验、Mermaid 图、3D 场景和模型动作事件。"
+      }
+    },
+    {
+      "name": "dsh-grok-tui",
+      "url": "https://github.com/chen-001/dsh-grok-tui",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Use dsh via grok-build's tui.",
+        "zh-CN": "借用grok-build tui使用dsh"
+      }
+    },
+    {
+      "name": "dsh-input-history",
+      "url": "https://github.com/lhh010/dsh-input-history",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Adds terminal-style Ctrl+Up and Ctrl+Down navigation through sent messages while preserving the latest unsent draft.",
+        "zh-CN": "提供终端风格的 Ctrl+Up / Ctrl+Down 已发送消息导航，并保留最新未发送草稿。"
+      }
+    },
+    {
+      "name": "dsh-message-edit",
+      "url": "https://github.com/Moeblack/dsh-message-edit",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Branch-based message editing with reroll, retry, and a version timeline for DeepSeek Harness conversations.",
+        "zh-CN": "为 DeepSeek Harness 对话提供基于分支的消息编辑、重新生成、重试和版本时间线。"
+      }
+    },
+    {
+      "name": "dsh-minigames",
+      "url": "https://github.com/lhh010/dsh-minigames",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Adds an extensible DSH Web UI panel with 18 offline mini-games for breaks while waiting on agent work.",
+        "zh-CN": "为 DSH Web UI 添加可扩展的 18 款离线小游戏面板，适合等待智能体工作时休息。"
+      }
+    },
+    {
+      "name": "dsh-navbar",
+      "url": "https://github.com/vlln/dsh-navbar",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Adds a right-edge navigation strip for quickly jumping between user-message nodes in a conversation.",
+        "zh-CN": "添加右侧对话节点导航条，可快速跳转到各个用户消息节点。"
+      }
+    },
+    {
+      "name": "dsh-paste-input",
+      "url": "https://github.com/lhh010/dsh-paste-input",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Enhances file input with paste, drag and drop, and file picking; submitted files are copied into the session workspace.",
+        "zh-CN": "增强文件输入，支持粘贴、拖拽和选择文件；发送时自动将文件复制到会话工作区。"
+      }
+    },
+    {
+      "name": "dsh-plugin-hub",
+      "url": "https://github.com/Noob-stupid/dsh-plugin-hub",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "A DSH Web UI plugin manager with one-click controls and a GitHub dsh-plugin marketplace.",
+        "zh-CN": "DSH Web UI 插件管理器，支持一键控制和 GitHub dsh-plugin 市场。"
+      }
+    },
+    {
+      "name": "dsh-plugin-wallpaper",
+      "url": "https://github.com/Tree-Summer/dsh-plugin-wallpaper",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Sets a custom DSH Web UI wallpaper with visibility controls for the main interface, sidebar, input, and bubbles.",
+        "zh-CN": "为 DSH Web UI 设置自定义壁纸，并控制主界面、侧边栏、输入区和气泡的显示。"
+      }
+    },
+    {
+      "name": "dsh-qq2006",
+      "url": "https://github.com/LaplaceYoung/dsh-qq2006",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "A switchable QQ2006 skin for the DeepSeek Harness Web UI with a coral-blue theme and retro assets.",
+        "zh-CN": "DeepSeek Harness Web UI 的可切换 QQ2006 皮肤，提供珊瑚蓝主题和复古素材。"
+      }
+    },
+    {
       "name": "dsh-skin",
       "url": "https://github.com/KinGao294/dsh-skin",
       "category": "ui-user-experience",
       "description": {
         "en": "Codex-style skin switcher + custom wallpaper for the DSH Web UI: curated --dsw-alias-* palettes, translucent main canvas/sidebar (overrideTokens) with opacity and blur controls.",
         "zh-CN": "Codex 风格换肤 + 自定义背景插件：内置多套 --dsw-alias-* 配色，主画布/侧边栏半透明壁纸（overrideTokens），支持透明度与模糊调节。"
+      }
+    },
+    {
+      "name": "dsh-stickers",
+      "url": "https://github.com/william-jin-cmu/dsh-stickers",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "A shared sticker catalog serving the Web UI picker, a /sticker command, and an agent send_sticker tool, with two character variants and workflow-reaction stickers.",
+        "zh-CN": "同一份表情包 catalog 同时服务 Web UI 选择器、/sticker 命令和智能体 send_sticker 工具，提供双角色变体与工作流反应表情。"
       }
     },
     {
@@ -600,178 +762,85 @@
       "source": "community"
     },
     {
-      "name": "dsh-mnemon",
-      "url": "https://github.com/omdsh-dev/dsh-mnemon",
-      "category": "data-research-knowledge",
-      "description": {
-        "en": "Mnemon-powered local memory system with three-tier storage (runtime hot memory, project Documents, and long-term Memory Spaces), supervised writeback, retrieval tools, and a Web UI.",
-        "zh-CN": "Mnemon 驱动的本地记忆系统：三层存储（运行时热记忆、项目档案 Documents、长期记忆体 Memory Spaces），受监督写回、检索工具与 Web UI。"
-      }
-    },
-    {
-      "name": "dsh-mneme",
-      "url": "https://github.com/modusensus/dsh-mneme",
-      "category": "data-research-knowledge",
-      "description": {
-        "en": "Cross-session memory for DeepSeek Harness: SQLite + human-editable Markdown mirror, autoDream consolidation, six memory tools, and fully-offline semantic search (local embedding / rerank / clustering), 198 tests.",
-        "zh-CN": "面向 DeepSeek Harness 的跨会话记忆插件：SQLite + 可人工编辑的 Markdown 双写，autoDream 后台巩固，6 个记忆工具，完全离线语义检索（本地向量 / 精排 / 聚类），198 个测试。"
-      }
-    },
-    {
-      "name": "dsh-spend",
-      "url": "https://github.com/nonewind/dsh-spend",
-      "category": "developer-tools",
-      "description": {
-        "en": "Token usage and estimated spend statistics for the DSH web UI, with per-model, per-day, and per-session views.",
-        "zh-CN": "DSH Web 的用量与预计花费统计，支持按模型、日期和会话查看。"
-      }
-    },
-    {
-      "name": "dsh-plugin-wallpaper",
-      "url": "https://github.com/Tree-Summer/dsh-plugin-wallpaper",
+      "name": "dsh-task-status",
+      "url": "https://github.com/vlln/dsh-task-status",
       "category": "ui-user-experience",
       "description": {
-        "en": "Sets a custom DSH Web UI wallpaper with visibility controls for the main interface, sidebar, input, and bubbles.",
-        "zh-CN": "为 DSH Web UI 设置自定义壁纸，并控制主界面、侧边栏、输入区和气泡的显示。"
+        "en": "Displays background-task progress and a live output tail on the DSH conversation page.",
+        "zh-CN": "在 DSH 对话页展示后台任务进度和实时输出 tail。"
       }
-    },
-    {
-      "name": "dsh-chat-import",
-      "url": "https://github.com/Nwflower/dsh-chat-import",
-      "category": "developer-tools",
-      "description": {
-        "en": "Imports conversation histories from coding agents as resumable DeepSeek Harness sessions, with export and sync support for Claude Code.",
-        "zh-CN": "将编码智能体的对话历史导入为可恢复的 DeepSeek Harness 会话，并支持导出和同步到 Claude Code。"
-      }
-    },
-    {
-      "name": "dhicoc/dsh-reverse-skill",
-      "url": "https://github.com/dhicoc/dsh-reverse-skill",
-      "category": "developer-tools",
-      "description": {
-        "en": "A DeepSeek Harness Cordis plugin that routes an 85-skill pack for reverse engineering and authorized security research.",
-        "zh-CN": "一个为逆向工程和经授权安全研究路由 85 项技能包的 DeepSeek Harness Cordis 插件。"
-      }
-    },
-    {
-      "name": "dsh-desktop",
-      "url": "https://github.com/howlma/dsh-desktop",
-      "category": "ui-user-experience",
-      "description": {"en": "Windows desktop client that boots or reuses the Harness gateway and embeds the official web UI, with tray residency and optional launch-at-login.", "zh-CN": "Windows 桌面客户端：打开即拉起或复用 Harness 网关，窗口内嵌官方 Web 界面；托盘常驻，可选开机自启。"}
-    },
-    {
-      "name": "dsh-deepseek-quota",
-      "url": "https://github.com/yingjunnan/dsh-deepseek-quota",
-      "category": "ui-user-experience",
-      "description": {"en": "Shows remaining DeepSeek API balance in a floating bottom-right card on the DSH Web page, with auto-refresh and a manual refresh button.", "zh-CN": "在 DSH Web 页面右下角悬浮卡片展示 DeepSeek API 剩余额度，支持自动刷新与手动刷新。"}
-    },
-    {
-      "name": "dsh-vision-tools",
-      "url": "https://github.com/moon09300731/dsh-vision-tools",
-      "category": "ai-design-media",
-      "description": {"en": "Vision toolkit for DeepSeek Harness with a vision_understand tool bridging text-only DeepSeek models to OpenAI-compatible vision APIs.", "zh-CN": "DeepSeek Harness 视觉工具包：通过 vision_understand 将纯文本 DeepSeek 模型桥接到 OpenAI 兼容视觉 API。"}
-    },
-    {
-      "name": "dsh-approval-gate",
-      "url": "https://github.com/moon09300731/dsh-approval-gate",
-      "category": "agent-automation",
-      "description": {"en": "Risk-gated auto-approval for DeepSeek Harness: safe operations auto-approve, while risky operations require human approval.", "zh-CN": "DSH 风险门控自动审批：安全操作自动批准，风险操作转人工审批。"}
-    },
-    {
-      "name": "dsh-adb",
-      "url": "https://github.com/SamXiaBing/dsh-adb",
-      "category": "life-devices-physical-world",
-      "description": {"en": "ADB device and bench operations for DSH: device discovery, logcat streaming, APK installation, file transfer, and performance snapshots.", "zh-CN": "DSH 的 ADB 设备与台架操作：设备发现、logcat 流、APK 安装、文件传输和性能快照。"}
-    },
-    {
-      "name": "dsh-preset-flash-director",
-      "url": "https://github.com/zhaoyilun/dsh-preset-flash-director",
-      "category": "agent-automation",
-      "description": {"en": "A token-economical DeepSeek Harness agent preset that delegates deep-thinking tasks to expert subagents.", "zh-CN": "一个节省 token 的 DeepSeek Harness 智能体预设，将深度思考任务委派给专家子智能体。"}
-    },
-    {
-      "name": "dsh-plugin-hub",
-      "url": "https://github.com/Noob-stupid/dsh-plugin-hub",
-      "category": "ui-user-experience",
-      "description": {"en": "A DSH Web UI plugin manager with one-click controls and a GitHub dsh-plugin marketplace.", "zh-CN": "DSH Web UI 插件管理器，支持一键控制和 GitHub dsh-plugin 市场。"}
-    },
-    {
-      "name": "dsh-github-login",
-      "url": "https://github.com/Noob-stupid/dsh-github-login",
-      "category": "developer-tools",
-      "description": {"en": "A visual GitHub device-flow login tool that synchronizes the token to gh CLI configuration.", "zh-CN": "一个将令牌同步到 gh CLI 配置的可视化 GitHub 设备码登录工具。"}
-    },
-    {
-      "name": "dsh-suite",
-      "url": "https://github.com/whyihaveyou/dsh-suite",
-      "category": "developer-tools",
-      "description": {"en": "A living DeepSeek Harness plugin directory with compatibility CI, a searchable catalog, and an in-app plugin store.", "zh-CN": "DSH 插件活目录，提供兼容性 CI、可搜索目录和内置插件商店。"}
-    },
-    {
-      "name": "create-dsh-plugin",
-      "url": "https://github.com/whyihaveyou/dsh-suite/tree/main/packages/create-dsh-plugin",
-      "category": "developer-tools",
-      "description": {"en": "A DSH plugin scaffolder with tool, events, and Web UI templates plus a built-in smoke test.", "zh-CN": "DSH 插件脚手架，提供工具、事件和 Web UI 模板及内置冒烟测试。"}
-    },
-    {
-      "name": "plugin-manager",
-      "url": "https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-manager",
-      "category": "developer-tools",
-      "description": {"en": "An in-app DSH Web UI plugin store with browsing, search, installation, compatibility badges, and an installed list.", "zh-CN": "DSH Web UI 内置插件商店，支持浏览、搜索、安装、兼容徽章和已装列表。"}
-    },
-    {
-      "name": "plugin-team-board",
-      "url": "https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-team-board",
-      "category": "agent-automation",
-      "description": {"en": "A shared multi-agent task board backed by a Cordis service key.", "zh-CN": "由 Cordis 服务键支持的共享多智能体任务板。"}
-    },
-    {
-      "name": "plugin-notify",
-      "url": "https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-notify",
-      "category": "productivity-collaboration",
-      "description": {"en": "Sends IM webhook and local notifications on turn completion, errors, or approval requests.", "zh-CN": "在回合完成、出错或需要审批时发送 IM webhook 和本地通知。"}
-    },
-    {
-      "name": "plugin-session-export",
-      "url": "https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-session-export",
-      "category": "productivity-collaboration",
-      "description": {"en": "Exports append-only session logs as human-readable Markdown or HTML.", "zh-CN": "将只追加会话日志导出为可读的 Markdown 或 HTML。"}
-    },
-    {
-      "name": "dsh-settings-plus",
-      "url": "https://github.com/oneinitAI/dsh-settings-plus",
-      "category": "developer-tools",
-      "description": {"en": "Advanced settings manager for DeepSeek Harness with form-level and file-level configuration editing plus a plugin settings SDK.", "zh-CN": "DeepSeek Harness 高级设置管理器，支持表单级和文件级配置编辑及插件设置 SDK。"}
-    },
-    {
-      "name": "dsh-lark-meeting-notifier",
-      "url": "https://github.com/yeruizhi/dsh-lark-meeting-notifier",
-      "category": "productivity-collaboration",
-      "description": {"en": "A Feishu meeting reminder panel with today/tomorrow views and multi-alarm flashing reminders.", "zh-CN": "飞书会议提醒面板，提供今天/明天视图和多闹钟闪烁提醒。"}
-    },
-    {
-      "name": "shopline-ai-toolkit-dsh",
-      "url": "https://github.com/lunw/shopline-ai-toolkit-dsh",
-      "category": "business-finance-commerce",
-      "description": {"en": "SHOPLINE AI Toolkit for DeepSeek Harness, bridging the official SHOPLINE Developer MCP server and seven agent skills.", "zh-CN": "面向 DeepSeek Harness 的 SHOPLINE AI 工具包，接入官方 SHOPLINE Developer MCP 服务并提供七个智能体技能。"}
-    },
-    {
-      "name": "dsh-im-hub",
-      "url": "https://github.com/ThreeBody6666/dsh-im-hub",
-      "category": "productivity-collaboration",
-      "description": {"en": "Multi-platform IM gateway for DeepSeek Harness with Feishu, WeCom, and Telegram integrations and per-chat agent sessions.", "zh-CN": "DeepSeek Harness 多平台 IM 网关，集成飞书、企业微信和 Telegram，并提供每聊天独立智能体会话。"}
     },
     {
       "name": "dsh-theme-plugin",
       "url": "https://github.com/BeiZi6/dsh-theme-plugin",
       "category": "ui-user-experience",
-      "description": {"en": "A DSH Web GUI theme studio with built-in presets, customizable palettes, and instant theme switching.", "zh-CN": "DSH Web GUI 主题工作室，提供内置预设、可自定义配色和即时主题切换。"}
+      "description": {
+        "en": "A DSH Web GUI theme studio with built-in presets, customizable palettes, and instant theme switching.",
+        "zh-CN": "DSH Web GUI 主题工作室，提供内置预设、可自定义配色和即时主题切换。"
+      }
     },
     {
-      "name": "dsh-opencodego-usage",
-      "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
-      "category": "developer-tools",
-      "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+      "name": "dsh-track",
+      "url": "https://github.com/fakechris/dsh-track",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "An embedded task-management engine with decision points, an idea-capture wall, and Linear-style issue storage.",
+        "zh-CN": "嵌入式任务管理引擎，提供决策点、念头捕获墙和 Linear 风格的 issue 存储。"
+      }
+    },
+    {
+      "name": "dsh-turn-index",
+      "url": "https://github.com/Simon314620/dsh-turn-index",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "A turn-index sidebar listing every user turn, with click-to-jump navigation and scroll-spy highlighting.",
+        "zh-CN": "轮次索引侧边栏：列出每一轮用户提问，点击跳转到对应位置，滚动时自动高亮当前轮次。"
+      }
+    },
+    {
+      "name": "dsh-ui-progress",
+      "url": "https://github.com/lhh010/dsh-ui-progress",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Shows persistent conversation progress, live token generation speed, interruption state, and todo reminders in the Web UI.",
+        "zh-CN": "在 Web UI 中常驻显示会话进度、实时 token 生成速率、中断状态和待办提醒。"
+      }
+    },
+    {
+      "name": "dsh-ui-whale",
+      "url": "https://github.com/lhh010/dsh-ui-whale",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "A hand-drawn pixel whale companion for the DSH Web UI that reacts to agent activity.",
+        "zh-CN": "为 DSH Web UI 提供会随智能体活动作出反应的手绘像素鲸鱼伙伴。"
+      }
+    },
+    {
+      "name": "dsh-web-review",
+      "url": "https://github.com/CanglongCl/dsh-web-review",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Embeds isolated web page previews in DSH Web for element annotations and visual adjustments that guide source edits.",
+        "zh-CN": "在 DSH Web 中嵌入隔离网页预览，通过元素批注和可视化调整指导源码修改。"
+      }
+    },
+    {
+      "name": "Prompt Studio",
+      "url": "https://github.com/Moeblack/dsh-prompt-studio",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Edit user and built-in system-prompt sections with live preview.",
+        "zh-CN": "编辑用户与内置系统提示词段落，支持实时预览。"
+      }
+    },
+    {
+      "name": "whale-girl",
+      "url": "https://github.com/vlln/whale-girl",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "A draggable, interactive desktop pet companion for the DSH Web GUI with feeding and play interactions.",
+        "zh-CN": "DSH Web GUI 的可拖拽互动桌面宠物伙伴，支持投喂和玩耍等交互。"
+      }
     }
   ]
 }
