@@ -172,6 +172,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-memory-evolve](https://github.com/dsh-external/dsh-memory-evolve) — Adds long-term cross-session memory with Git-branch awareness and background skill evolution.
 
+- [dsh-memory-porter](https://github.com/Shiye-10Pages/dsh-memory-porter) — Brings existing Claude and ChatGPT history into DSH, with verbatim evidence checked against the source by code before anything is stored.
+
 - [dsh-mneme](https://github.com/modusensus/dsh-mneme) — Cross-session memory for DeepSeek Harness: SQLite + human-editable Markdown mirror, autoDream consolidation, six memory tools, and fully-offline semantic search (local embedding / rerank / clustering), 198 tests.
 - [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) — Mnemon-powered local memory system with three-tier storage (runtime hot memory, project Documents, and long-term Memory Spaces), supervised writeback, retrieval tools, and a Web UI.
 

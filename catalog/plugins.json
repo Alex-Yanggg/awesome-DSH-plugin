@@ -85,6 +85,15 @@
       }
     },
     {
+      "name": "dsh-memory-porter",
+      "url": "https://github.com/Shiye-10Pages/dsh-memory-porter",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Brings existing Claude and ChatGPT history into DSH, with verbatim evidence checked against the source by code before anything is stored.",
+        "zh-CN": "把已有的 Claude 与 ChatGPT 历史搬进 DSH，入库前每条记忆的逐字证据都由代码回原文核对。"
+      }
+    },
+    {
       "name": "mstar-harness",
       "url": "https://github.com/btspoony/mstar-harness",
       "category": "agent-automation",
