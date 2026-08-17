@@ -71,6 +71,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [plugin-manager](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-manager) — An in-app DSH Web UI plugin store with browsing, search, installation, compatibility badges, and an installed list.
 - [dsh-settings-plus](https://github.com/oneinitAI/dsh-settings-plus) — Advanced form- and file-level settings management with a plugin settings registration SDK.
 - [dsh-opencodego-usage](https://github.com/BeiZi6/dsh-opencodego-usage) — An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.
+- [dsh-verify](https://github.com/263311487-ux/dsh-verify) — Independent browser acceptance testing for agent deliverables: JSON spec drives real headless Chromium, asserts computed styles and pixel diffs, returns HTML report + exit code (npm CLI / GitHub Action / MCP).
 
 ### UI & user experience
 
