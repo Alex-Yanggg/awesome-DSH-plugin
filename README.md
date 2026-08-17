@@ -182,6 +182,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 ### Cloud, DevOps & observability
 
 - [dsh-harness-ops](https://github.com/fakechris/dsh-harness-ops) — Operations toolkit with A/B snapshot upgrades, automatic recovery, rollback, and a diagnostic self-healing command.
+- [TokenLedger](https://github.com/zh667/TokenLedger) — Shows local DSH token usage by relay site, project, and model, with account balances and subscription quota windows.
 
 ### AI, design & media
 

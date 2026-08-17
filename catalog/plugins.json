@@ -184,6 +184,15 @@
       }
     },
     {
+      "name": "TokenLedger",
+      "url": "https://github.com/zh667/TokenLedger",
+      "category": "cloud-devops-observability",
+      "description": {
+        "en": "Shows local DSH token usage by relay site, project, and model, with account balances and subscription quota windows.",
+        "zh-CN": "按中转站点、项目和模型统计本地 DSH Token 用量，并显示账户余额与订阅额度周期。"
+      }
+    },
+    {
       "name": "plugin-registry",
       "url": "https://github.com/vlln/plugin-registry",
       "category": "developer-tools",
