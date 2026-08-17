@@ -202,6 +202,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-harness-ops](https://github.com/fakechris/dsh-harness-ops) — 运维工具箱，提供 A/B 快照升级、自动恢复、回滚和诊断式自愈命令。
 
+- [TokenLedger](https://github.com/zh667/TokenLedger) — 按中转站点、项目和模型统计本地 DSH Token 用量，并显示账户余额与订阅额度周期。
+
 ### AI、设计与媒体
 
 - [DSH OpenPencil](https://github.com/ZSeven-W/dsh-openpencil) — 连接 DeepSeek Harness 与 OpenPencil，让智能体创建、编辑、预览和验证可交互的多页面设计画布。
