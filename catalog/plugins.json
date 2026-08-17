@@ -98,8 +98,8 @@
       "url": "https://github.com/toolclub/dsh-agent-team-gui",
       "category": "agent-automation",
       "description": {
-        "en": "Global persistent agent squads with per-agent model/tool policies: manage them in Settings, select and toggle one per conversation, then collaborate on normal sends in a fixed or model-planned order.",
-        "zh-CN": "全局持久 Agent 小队：每个成员独立配置模型与工具策略；在 Settings 中管理、按对话选择并开关协作，普通发送按固定顺序或由模型规划执行。"
+        "en": "Persistent multi-model teams managed in the Web UI, with lead-Agent DAG planning, bounded role-scoped execution, optional review/repair, durable run history, and provider-reported Token usage.",
+        "zh-CN": "在 Web UI 中管理持久化多模型 Agent 小队，支持主 Agent 规划 DAG、有界的角色任务执行、可选审核与修复、持久运行历史以及 Provider 上报的 Token 用量。"
       }
     },
     {
