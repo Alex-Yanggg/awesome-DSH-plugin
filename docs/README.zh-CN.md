@@ -218,6 +218,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 ### 商业、金融与电商
 
+- [dsh-trading](https://github.com/maddogfinance/dsh-trading) — 只读交易研究工作台插件：类型化行情数据接缝（可自带数据源）、多周期指标快照、带溯源与价格校验标注的交互式 K 线卡、以及在 pre-execute 层拦截下单类调用的 risk-guard。
+
 - [shopline-ai-toolkit-dsh](https://github.com/lunw/shopline-ai-toolkit-dsh) — 面向 DeepSeek Harness 的 SHOPLINE AI 工具包，接入官方 SHOPLINE Developer MCP 服务并提供七个智能体技能。
 
 ### 生活、设备与物理世界
