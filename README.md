@@ -43,7 +43,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [deepseek-harness-acp](https://github.com/openma-ai/deepseek-harness-acp) — An ACP profile plugin and standalone server that exposes the full DSH agent to Zed and other ACP clients while sharing DSH credentials and sessions.
 
-- [DSH-CODEX-SUBSCRIPTION-POOL](https://github.com/Eve-146T/DSH-CODEX-SUBSCRIPTION-POOL) — Pool multiple ChatGPT/Codex subscriptions together. Image Generation and Websearch support.
+- [DSH-CODEX-SUBSCRIPTION-POOL](https://github.com/Eve-146T/DSH-CODEX-SUBSCRIPTION-POOL) — Use your ChatGPT/Codex subscriptions in DSH, with image generation and web search support.
 
 - [dsh-artifact](https://github.com/william-jin-cmu/dsh-artifact) — A send_artifact tool that validates model-produced files and delivers structured descriptors through the standard dsh event stream for any client to render.
 

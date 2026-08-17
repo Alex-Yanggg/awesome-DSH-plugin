@@ -778,8 +778,8 @@
       "url": "https://github.com/Eve-146T/DSH-CODEX-SUBSCRIPTION-POOL",
       "category": "developer-tools",
       "description": {
-        "en": "Pool multiple ChatGPT/Codex subscriptions together. Image Generation and Websearch support.",
-        "zh-CN": "集中管理多个 ChatGPT/Codex 订阅，并支持图像生成和 Web 搜索。"
+        "en": "Use your ChatGPT/Codex subscriptions in DSH, with image generation and web search support.",
+        "zh-CN": "在 DSH 中使用你的 ChatGPT/Codex 订阅，并支持图像生成和 Web 搜索。"
       }
     }
   ]
