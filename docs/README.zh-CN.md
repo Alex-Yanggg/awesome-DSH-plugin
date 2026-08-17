@@ -58,6 +58,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) — 将编码智能体的对话历史导入为可恢复的 DeepSeek Harness 会话，并支持导出和同步到 Claude Code。
 
+- [DSH-CODEX-SUBSCRIPTION-POOL](https://github.com/Eve-146T/DSH-CODEX-SUBSCRIPTION-POOL) — 集中管理多个 ChatGPT/Codex 订阅，并支持图像生成和 Web 搜索。
+
 - [dsh-custom-tool](https://github.com/FSMargoo/dsh-custom-tool) — 通过 Monaco 编辑器及模型驱动的生命周期创建和管理沙箱化 JavaScript 工具。
 
 - [dsh-git-identity](https://github.com/LoserFox/dsh-git-identity) — 将 Git 提交作者身份固定为当前环境身份，并优先使用已登录的 GitHub CLI 账号。
