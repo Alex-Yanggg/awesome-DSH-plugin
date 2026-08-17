@@ -94,6 +94,15 @@
       }
     },
     {
+      "name": "dsh-agent-team-gui",
+      "url": "https://github.com/toolclub/dsh-agent-team-gui",
+      "category": "agent-automation",
+      "description": {
+        "en": "Persistent multi-model teams managed in the Web UI, with lead-Agent DAG planning, bounded role-scoped execution, optional review/repair, durable run history, and provider-reported Token usage.",
+        "zh-CN": "在 Web UI 中管理持久化多模型 Agent 小队，支持主 Agent 规划 DAG、有界的角色任务执行、可选审核与修复、持久运行历史以及 Provider 上报的 Token 用量。"
+      }
+    },
+    {
       "name": "dsh-custom-tool",
       "url": "https://github.com/FSMargoo/dsh-custom-tool",
       "category": "developer-tools",

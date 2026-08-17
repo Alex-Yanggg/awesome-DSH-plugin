@@ -141,6 +141,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [mstar-harness](https://github.com/btspoony/mstar-harness) — A skill-driven workflow agent plugin for structured harness-loop engineering.
 
+- [dsh-agent-team-gui](https://github.com/toolclub/dsh-agent-team-gui) — Persistent multi-model teams managed in the Web UI, with lead-Agent DAG planning, bounded role-scoped execution, optional review/repair, durable run history, and provider-reported Token usage.
+
 - [dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate) — Risk-gated approval automation that routes irreversible operations to human approval.
 - [dsh-preset-flash-director](https://github.com/zhaoyilun/dsh-preset-flash-director) — A token-economical DSH agent preset that delegates deep reasoning to expert subagents.
 - [plugin-team-board](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-team-board) — A shared multi-agent task board backed by a Cordis service key.

@@ -144,6 +144,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 ### 智能体编排与自动化
 
+- [dsh-agent-team-gui](https://github.com/toolclub/dsh-agent-team-gui) — 在 Web UI 中管理持久化多模型 Agent 小队，支持主 Agent 规划 DAG、有界的角色任务执行、可选审核与修复、持久运行历史以及 Provider 上报的 Token 用量。
+
 - [dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate) — DSH 风险门控自动审批：安全操作自动批准，风险操作转人工审批。
 
 - [dsh-evolve](https://github.com/william-jin-cmu/dsh-evolve) — 让智能体在会话中现场编写、热挂载并可逆卸载自己的 cordis 插件，新工具、提示词规则和事件钩子重启后自动恢复。
