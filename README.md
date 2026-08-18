@@ -143,6 +143,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate) — Risk-gated approval automation that routes irreversible operations to human approval.
 - [dsh-preset-flash-director](https://github.com/zhaoyilun/dsh-preset-flash-director) — A token-economical DSH agent preset that delegates deep reasoning to expert subagents.
+- [odai-dsh-plugin](https://github.com/orziz/odai/tree/main/dsh/plugin) — A profile-wide DSH governance and routing bundle with scoped local semantic memory and configurable compaction calls, compatible with DSH 0.1.0-rc.6 and 0.1.0-rc.7.
 - [plugin-team-board](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-team-board) — A shared multi-agent task board backed by a Cordis service key.
 
 ### Productivity & collaboration
