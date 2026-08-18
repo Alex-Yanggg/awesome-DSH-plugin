@@ -188,7 +188,7 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-memory-evolve](https://github.com/dsh-external/dsh-memory-evolve) — 提供带 Git 分支感知和后台技能进化能力的跨会话长期记忆。
 
-- [dsh-mneme](https://github.com/modusensus/dsh-mneme) — 面向 DeepSeek Harness 的跨会话记忆插件：SQLite + 可人工编辑的 Markdown 双写，autoDream 后台巩固，6 个记忆工具，完全离线语义检索（本地向量 / 精排 / 聚类），198 个测试。
+- [dsh-mneme](https://github.com/modusensus/dsh-mneme) — DeepSeek Harness 跨会话结构化记忆引擎：SQLite 存储 + 可人工编辑的 Markdown 镜像、autoDream 自我巩固、实体-属性-时间轴、离线语义搜索（本地向量/精排/聚类）、系统级睡眠模式、autoSummarize 自定义模型、7 个模型工具——473 测试全绿。
 
 - [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) — Mnemon 驱动的本地记忆系统：三层存储（运行时热记忆、项目档案 Documents、长期记忆体 Memory Spaces），受监督写回、检索工具与 Web UI。
 
