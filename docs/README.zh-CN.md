@@ -156,6 +156,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [mstar-harness](https://github.com/btspoony/mstar-harness) — 面向结构化 Harness 循环工程的技能驱动工作流智能体 Plugin。
 
+- [odai-dsh-plugin](https://github.com/orziz/odai/tree/main/dsh/plugin) — 面向整个 DSH profile 的治理与路由 bundle，提供本地作用域语义记忆与可配置的压缩调用；兼容 DSH 0.1.0-rc.6 与 0.1.0-rc.7。
+
 - [plugin-team-board](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-team-board) — 由 Cordis 服务键支持的共享多智能体任务板。
 
 ### 效率与协作
