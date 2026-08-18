@@ -772,6 +772,12 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "InfiniteDSH",
+      "url": "https://github.com/vdnight89/InfiniteDSH",
+      "category": "ai-design-media",
+      "description": {"en": "诸天万界DSH: one DSH session is one book — a cover-card picker opens 19 realms, a prose-only preset locks the model to fiction, keyword worldbook lore grounds each turn, and /export-story typesets the session into a Markdown novel.", "zh-CN": "诸天万界DSH：一个会话就是一本书。封面开书十九界，文学预设只写正文，规则书按关键词注入，/export-story 誊成 Markdown 小说。"}
     }
   ]
 }

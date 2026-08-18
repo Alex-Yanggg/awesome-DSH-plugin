@@ -216,6 +216,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-vision-tools](https://github.com/moon09300731/dsh-vision-tools) — DeepSeek Harness 视觉工具包：通过 vision_understand 将纯文本 DeepSeek 模型桥接到 OpenAI 兼容视觉 API。
 
+- [InfiniteDSH](https://github.com/vdnight89/InfiniteDSH) — 诸天万界DSH：一个会话就是一本书。封面开书十九界，文学预设只写正文，规则书按关键词注入，/export-story 誊成 Markdown 小说。
+
 ### 商业、金融与电商
 
 - [shopline-ai-toolkit-dsh](https://github.com/lunw/shopline-ai-toolkit-dsh) — 面向 DeepSeek Harness 的 SHOPLINE AI 工具包，接入官方 SHOPLINE Developer MCP 服务并提供七个智能体技能。
