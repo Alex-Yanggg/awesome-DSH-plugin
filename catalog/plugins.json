@@ -613,8 +613,8 @@
       "url": "https://github.com/modusensus/dsh-mneme",
       "category": "data-research-knowledge",
       "description": {
-        "en": "Cross-session memory for DeepSeek Harness: SQLite + human-editable Markdown mirror, autoDream consolidation, six memory tools, and fully-offline semantic search (local embedding / rerank / clustering), 198 tests.",
-        "zh-CN": "面向 DeepSeek Harness 的跨会话记忆插件：SQLite + 可人工编辑的 Markdown 双写，autoDream 后台巩固，6 个记忆工具，完全离线语义检索（本地向量 / 精排 / 聚类），198 个测试。"
+        "en": "Cross-session memory engine for DeepSeek Harness: SQLite + human-editable Markdown mirror, autoDream consolidation, offline semantic search, entity-attribute-timeline, Sleep Mode, custom-model autoSummarize — 473 tests.",
+        "zh-CN": "DeepSeek Harness 跨会话结构化记忆引擎：SQLite 存储 + 可人工编辑的 Markdown 镜像、autoDream 自我巩固、实体-属性-时间轴、离线语义搜索（本地向量/精排/聚类）、系统级睡眠模式、autoSummarize 自定义模型、7 个模型工具——473 测试全绿。"
       }
     },
     {
