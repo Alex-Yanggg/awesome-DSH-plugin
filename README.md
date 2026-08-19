@@ -55,6 +55,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-recommend](https://github.com/zp-home/dsh-recommend) — Transparent rankings and recommendations for the DSH plugin ecosystem: daily auto-fetched topic data, an open scoring model, and rank/search/recommend tools with a settings-page leaderboard.
 
+- [dsh-sentinel](https://github.com/Eligahyu/dsh-sentinel) — Static security scanner for DeepSeek Harness plugins: zero-dependency read-only audit (code execution, credential access, exfiltration, obfuscation, install scripts, bundle manifest compliance) with a 0-100 risk score; works as a DSH tool plugin and a standalone CLI.
+
 - [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) — A DeepSeek Harness Cordis plugin that routes an 85-skill pack for reverse engineering and authorized security research.
 
 - [dsh-balance-meter](https://github.com/Ghost011118/dsh-balance-meter) — Live DeepSeek account balance and session cost in the DSH Web composer dock, with auto-fetched official pricing and peak/off-peak support.
