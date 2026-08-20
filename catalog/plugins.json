@@ -581,11 +581,11 @@
     },
     {
       "name": "dsh-sentinel",
-      "url": "https://github.com/Eligahyu/dsh-sentinel",
+      "url": "https://github.com/Eligahyu/dsh-sentinel-scanner",
       "category": "developer-tools",
       "description": {
-        "en": "Static security scanner for DeepSeek Harness plugins: zero-dependency read-only audit (code execution, credential access, exfiltration, obfuscation, install scripts, bundle manifest compliance) with a 0-100 risk score; works as a DSH tool plugin and a standalone CLI.",
-        "zh-CN": "DeepSeek Harness 插件安全扫描器：零依赖只读静态审计（代码执行、凭据访问、外传、混淆、安装脚本、bundle 清单合规），输出 0-100 风险分；既是 DSH 工具插件，也是独立 CLI。"
+        "en": "Static security scanner for DeepSeek Harness plugins: read-only audit (code execution, credential access, exfiltration, obfuscation, install scripts, bundle manifest compliance) with a 0-100 risk score; works as a DSH tool plugin and a standalone CLI.",
+        "zh-CN": "DeepSeek Harness 插件安全扫描器：只读静态审计（代码执行、凭据访问、外传、混淆、安装脚本、bundle 清单合规），输出 0-100 风险分；既是 DSH 工具插件，也是独立 CLI。"
       }
     },
     {

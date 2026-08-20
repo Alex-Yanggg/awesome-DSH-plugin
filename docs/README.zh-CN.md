@@ -70,7 +70,7 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-recommend](https://github.com/zp-home/dsh-recommend) — DSH 插件透明排行与推荐：每日自动抓取 dsh-plugin 话题生态、公开评分模型，提供榜单/搜索/推荐工具与设置页排行榜。
 
-- [dsh-sentinel](https://github.com/Eligahyu/dsh-sentinel) — DeepSeek Harness 插件安全扫描器：零依赖只读静态审计（代码执行、凭据访问、外传、混淆、安装脚本、bundle 清单合规），输出 0-100 风险分；既是 DSH 工具插件，也是独立 CLI。
+- [dsh-sentinel](https://github.com/Eligahyu/dsh-sentinel-scanner) — DeepSeek Harness 插件安全扫描器：只读静态审计（代码执行、凭据访问、外传、混淆、安装脚本、bundle 清单合规），输出 0-100 风险分；既是 DSH 工具插件，也是独立 CLI。
 
 - [dsh-settings-plus](https://github.com/oneinitAI/dsh-settings-plus) — DeepSeek Harness 高级设置管理器，支持表单级和文件级配置编辑及插件设置 SDK。
 
