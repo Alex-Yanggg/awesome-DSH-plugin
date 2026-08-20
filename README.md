@@ -67,6 +67,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-github-login](https://github.com/Noob-stupid/dsh-github-login) — A visual GitHub device-flow login tool that syncs its token into gh CLI config.
 - [dsh-suite](https://github.com/whyihaveyou/dsh-suite) — A living DeepSeek Harness plugin directory with a compatibility CI, searchable catalog, and in-app plugin store.
+- [DSH Plugin Store](https://github.com/sandbaseai/dsh-plugin-store) — Native DSH Settings marketplace with Community and Installed views, catalog search and tag filters, plus provenance-gated local Profile installation for runtime-verified npm plugins.
 - [create-dsh-plugin](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/create-dsh-plugin) — A DSH plugin scaffolder with templates and a built-in smoke test.
 - [plugin-manager](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-manager) — An in-app DSH Web UI plugin store with browsing, search, installation, compatibility badges, and an installed list.
 - [dsh-settings-plus](https://github.com/oneinitAI/dsh-settings-plus) — Advanced form- and file-level settings management with a plugin settings registration SDK.

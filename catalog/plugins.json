@@ -708,6 +708,14 @@
       "description": {"en": "A living DeepSeek Harness plugin directory with compatibility CI, a searchable catalog, and an in-app plugin store.", "zh-CN": "DSH 插件活目录，提供兼容性 CI、可搜索目录和内置插件商店。"}
     },
     {
+      "name": "DSH Plugin Store",
+      "url": "https://github.com/sandbaseai/dsh-plugin-store",
+      "category": "developer-tools",
+      "description": {"en": "Native DSH Settings marketplace with Community and Installed views, catalog search and tag filters, plus provenance-gated local Profile installation for runtime-verified npm plugins.", "zh-CN": "DSH Settings 原生插件市场，提供社区与已安装视图、目录搜索和标签筛选，并仅为运行时已验证的 npm 插件执行来源准入受控的本地 Profile 安装。"},
+      "status": "beta",
+      "source": "community"
+    },
+    {
       "name": "create-dsh-plugin",
       "url": "https://github.com/whyihaveyou/dsh-suite/tree/main/packages/create-dsh-plugin",
       "category": "developer-tools",

@@ -48,6 +48,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) — 一个为逆向工程和经授权安全研究路由 85 项技能包的 DeepSeek Harness Cordis 插件。
 
+- [DSH Plugin Store](https://github.com/sandbaseai/dsh-plugin-store) — DSH Settings 原生插件市场，提供社区与已安装视图、目录搜索和标签筛选，并仅为运行时已验证的 npm 插件执行来源准入受控的本地 Profile 安装。 (beta)
+
 - [dsh-artifact](https://github.com/william-jin-cmu/dsh-artifact) — 提供 send_artifact 工具，校验模型产出的文件并通过 dsh 标准事件流交付结构化描述子，任何客户端都可按需呈现。
 
 - [dsh-balance-meter](https://github.com/Ghost011118/dsh-balance-meter) — 在 DSH Web 输入框下方实时显示 DeepSeek 账户余额与本场会话花费，自动抓取官方价格并支持峰谷计价。
