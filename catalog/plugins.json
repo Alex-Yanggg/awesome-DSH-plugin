@@ -772,6 +772,12 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-wrapped",
+      "url": "https://github.com/rand0wn/dsh-wrapped",
+      "category": "developer-tools",
+      "description": {"en": "Generates a shareable dark SVG summary card from a session's own stats: tool vs. thinking time, decode speed, and a tool/thinking-ratio verdict, via a /wrapped command.", "zh-CN": "通过 /wrapped 命令，用会话自身的统计数据生成可分享的深色 SVG 摘要卡片：工具耗时与思考耗时对比、解码速度，以及基于两者比例得出的一句话结论。"}
     }
   ]
 }
