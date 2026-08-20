@@ -52,6 +52,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-git-identity](https://github.com/LoserFox/dsh-git-identity) — Pins Git commit authorship to the active environment identity, prioritizing the signed-in GitHub CLI account.
 
 - [dsh-open-in-vscode](https://github.com/FSMargoo/dsh-open-in-vscode) — Open DeepSeek Harness workspace directories in VS Code from the web interface.
+- [dsh-remote](https://github.com/flymysql/dsh-remote) — Remote-work assistant for DeepSeek Harness: connect SSH (password or key), pick a remote workspace, operate on it with rw_* tools (rw_list_dir / rw_read_file / rw_exec / rw_search), mirror it to a local directory over SFTP, and verify host keys (TOFU).
 
 - [dsh-recommend](https://github.com/zp-home/dsh-recommend) — Transparent rankings and recommendations for the DSH plugin ecosystem: daily auto-fetched topic data, an open scoring model, and rank/search/recommend tools with a settings-page leaderboard.
 
