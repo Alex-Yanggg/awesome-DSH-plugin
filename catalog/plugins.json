@@ -166,6 +166,15 @@
       }
     },
     {
+      "name": "dsh-easyrewrite",
+      "url": "https://github.com/Renzic-Stone/DSH-EasyRewrite",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Inline edit and recall for user message bubbles in the DSH Web UI, with lazy commit, seamless in-place replacement, a version pager, draft auto-backup, and trilingual i18n.",
+        "zh-CN": "在 DSH Web 界面中提供用户消息气泡的内联编辑与撤回，支持惰性提交、无痕替换、版本翻页器、草稿自动备份与三语 i18n。"
+      }
+    },
+    {
       "name": "dsh-harness-ops",
       "url": "https://github.com/fakechris/dsh-harness-ops",
       "category": "cloud-devops-observability",
