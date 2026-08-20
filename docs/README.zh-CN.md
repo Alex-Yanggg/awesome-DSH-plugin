@@ -76,6 +76,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-suite](https://github.com/whyihaveyou/dsh-suite) — DSH 插件活目录，提供兼容性 CI、可搜索目录和内置插件商店。
 
+- [dsh-trace-compare](https://github.com/lamost423/dsh-trace-compare) — 执行轨迹可视化：主干、失败支路、折返点与子代理支路落在同一根墙钟时间轴上，支持双日志同轴对比与会话内实时迷宫页签。
+
 - [plugin-manager](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-manager) — DSH Web UI 内置插件商店，支持浏览、搜索、安装、兼容徽章和已装列表。
 
 - [plugin-registry](https://github.com/vlln/plugin-registry) — 基于浏览器的 Plugin 管理控制台，并提供官方 DSH Plugin 开发引导。
