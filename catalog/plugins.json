@@ -772,6 +772,15 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "tabbit-browser",
+      "url": "https://github.com/Tabbit-Browser/dsh-tabbit",
+      "category": "agent-automation",
+      "description": {
+        "en": "Gives the DeepSeek Harness agent control of a real Tabbit Browser through tabbit-cli for web automation, information extraction, QA, and benchmarks, with a bundled skill and a region-aware installer tool.",
+        "zh-CN": "通过 tabbit-cli 让 DeepSeek Harness 智能体驱动真实的 Tabbit 浏览器，用于网页自动化、信息抽取、QA 与基准测试，内置技能并提供按地区分发的安装器工具。"
+      }
     }
   ]
 }

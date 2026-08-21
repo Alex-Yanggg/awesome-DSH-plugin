@@ -142,6 +142,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [mstar-harness](https://github.com/btspoony/mstar-harness) — A skill-driven workflow agent plugin for structured harness-loop engineering.
 
 - [dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate) — Risk-gated approval automation that routes irreversible operations to human approval.
+- [tabbit-browser](https://github.com/Tabbit-Browser/dsh-tabbit) — Gives the DeepSeek Harness agent control of a real Tabbit Browser through `tabbit-cli` for web automation, information extraction, QA, and benchmarks, with a bundled skill and a region-aware installer tool.
 - [dsh-preset-flash-director](https://github.com/zhaoyilun/dsh-preset-flash-director) — A token-economical DSH agent preset that delegates deep reasoning to expert subagents.
 - [plugin-team-board](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-team-board) — A shared multi-agent task board backed by a Cordis service key.
 
