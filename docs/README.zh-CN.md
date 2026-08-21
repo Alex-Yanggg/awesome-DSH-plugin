@@ -158,6 +158,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [plugin-team-board](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-team-board) — 由 Cordis 服务键支持的共享多智能体任务板。
 
+- [tabbit-browser](https://github.com/Tabbit-Browser/dsh-plugin) — 通过 tabbit-cli 让 DeepSeek Harness 智能体驱动真实的 Tabbit 浏览器，用于网页自动化、信息抽取、QA 与基准测试，内置技能并提供按地区分发的安装器工具。
+
 ### 效率与协作
 
 - [deepseek-manners](https://github.com/Moeblack/deepseek-manners) — 给每次助手回复追加一句感谢语。
