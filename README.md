@@ -51,7 +51,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-git-identity](https://github.com/LoserFox/dsh-git-identity) — Pins Git commit authorship to the active environment identity, prioritizing the signed-in GitHub CLI account.
 
-- [dsh-movein](https://github.com/sjh9714/dsh-movein) — Migrates a whole Claude Code or Codex CLI setup into DeepSeek Harness in one command, covering skills, slash commands, MCP servers, hooks, subagents and permission rules, with a dry-run estimate first.
+- [dsh-movein](https://github.com/sjh9714/dsh-movein) - Moves Claude Code, Codex CLI or OpenCode setup into DeepSeek Harness, converting supported skills, commands, agents, MCP servers, hooks and permission rules after a dry run.
 
 - [dsh-open-in-vscode](https://github.com/FSMargoo/dsh-open-in-vscode) — Open DeepSeek Harness workspace directories in VS Code from the web interface.
 

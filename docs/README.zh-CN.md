@@ -64,7 +64,7 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-github-login](https://github.com/Noob-stupid/dsh-github-login) — 一个将令牌同步到 gh CLI 配置的可视化 GitHub 设备码登录工具。
 
-- [dsh-movein](https://github.com/sjh9714/dsh-movein) — 一条命令把整套 Claude Code 或 Codex CLI 配置迁入 DeepSeek Harness，涵盖技能、斜杠命令、MCP 服务器、hooks、子代理与权限规则，默认先出预演清单。
+- [dsh-movein](https://github.com/sjh9714/dsh-movein) — 把 Claude Code、Codex CLI 或 OpenCode 配置迁入 DeepSeek Harness，预演后转换受支持的技能、命令、代理、MCP 服务器、hooks 与权限规则。
 
 - [dsh-open-in-vscode](https://github.com/FSMargoo/dsh-open-in-vscode) — 可从 DeepSeek Harness Web 界面直接在 VS Code 中打开工作区目录。
 
