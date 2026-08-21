@@ -103,6 +103,15 @@
       }
     },
     {
+      "name": "dsh-movein",
+      "url": "https://github.com/sjh9714/dsh-movein",
+      "category": "developer-tools",
+      "description": {
+        "en": "Moves Claude Code, Codex CLI or OpenCode setup into DeepSeek Harness, converting supported skills, commands, agents, MCP servers, hooks and permission rules after a dry run.",
+        "zh-CN": "把 Claude Code、Codex CLI 或 OpenCode 配置迁入 DeepSeek Harness，预演后转换受支持的技能、命令、代理、MCP 服务器、hooks 与权限规则。"
+      }
+    },
+    {
       "name": "dsh-open-in-vscode",
       "url": "https://github.com/FSMargoo/dsh-open-in-vscode",
       "category": "developer-tools",
