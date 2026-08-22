@@ -427,6 +427,15 @@
       }
     },
     {
+      "name": "dsh-plugin-no-workspace",
+      "url": "https://github.com/SpookySandwich/dsh-plugin-no-workspace",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Adds standalone workspace-free conversations and lossless detaching while keeping DSH's native workspace UI.",
+        "zh-CN": "添加独立的无工作区会话和无损解绑，同时保留 DSH 原生工作区界面。"
+      }
+    },
+    {
       "name": "deepseek-manners",
       "url": "https://github.com/Moeblack/deepseek-manners",
       "category": "productivity-collaboration",

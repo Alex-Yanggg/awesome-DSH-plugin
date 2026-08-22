@@ -114,6 +114,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-plugin-hub](https://github.com/Noob-stupid/dsh-plugin-hub) — DSH Web UI 插件管理器，支持一键控制和 GitHub dsh-plugin 市场。
 
+- [dsh-plugin-no-workspace](https://github.com/SpookySandwich/dsh-plugin-no-workspace) — 添加独立的无工作区会话和无损解绑，同时保留 DSH 原生工作区界面。
+
 - [dsh-plugin-wallpaper](https://github.com/Tree-Summer/dsh-plugin-wallpaper) — 为 DSH Web UI 设置自定义壁纸，并控制主界面、侧边栏、输入区和气泡的显示。
 
 - [dsh-qq2006](https://github.com/LaplaceYoung/dsh-qq2006) — DeepSeek Harness Web UI 的可切换 QQ2006 皮肤，提供珊瑚蓝主题和复古素材。

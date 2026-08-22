@@ -100,6 +100,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-paste-input](https://github.com/lhh010/dsh-paste-input) — Enhances file input with paste, drag and drop, and file picking; submitted files are copied into the session workspace.
 
+- [dsh-plugin-no-workspace](https://github.com/SpookySandwich/dsh-plugin-no-workspace) — Adds standalone workspace-free conversations and lossless detaching while keeping DSH's native workspace UI.
+
 - [dsh-qq2006](https://github.com/LaplaceYoung/dsh-qq2006) — A switchable QQ2006 skin for the DeepSeek Harness Web UI with a coral-blue theme and retro assets.
 
 - [dsh-skin](https://github.com/KinGao294/dsh-skin) — Codex-style skin switcher + custom wallpaper for the DSH Web UI: curated --dsw-alias-* palettes, translucent main canvas/sidebar (overrideTokens) with opacity and blur controls.
