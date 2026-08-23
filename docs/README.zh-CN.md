@@ -106,6 +106,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-message-edit](https://github.com/Moeblack/dsh-message-edit) — 为 DeepSeek Harness 对话提供基于分支的消息编辑、重新生成、重试和版本时间线。
 
+- [dsh-milestone](https://github.com/SnowCrescenter-tech/dsh-milestone) — DSH Web UI 右侧的圆点时间轴：每条提问一个圆点，悬停查看内容与元信息（时间、轮次、耗时、TTFT、token），点击即跳转；附带全会话消息列表、站内与跨会话搜索、书签深链接（#msg=）和键盘导航。
+
 - [dsh-minigames](https://github.com/lhh010/dsh-minigames) — 为 DSH Web UI 添加可扩展的 18 款离线小游戏面板，适合等待智能体工作时休息。
 
 - [dsh-navbar](https://github.com/vlln/dsh-navbar) — 添加右侧对话节点导航条，可快速跳转到各个用户消息节点。
