@@ -82,8 +82,6 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 ### 界面与用户体验
 
-- [deepseek-harness-tui](https://github.com/openma-ai/deepseek-harness-tui) — Rust 终端客户端，直接使用 DSH SDK JSON-RPC 协议，支持独立运行或作为 profile bundle 加载。
-
 - [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) — 完整的侧边栏工作台，支持扩展 Tab，并内置文件查看与编辑、终端、Git 和子智能体工具。
 
 - [dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) — 提供 Codex 风格文本批注：选中文字、将批注附加到下一条消息，并获得逐条对应的回复。
@@ -137,6 +135,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 - [dsh-ui-whale](https://github.com/lhh010/dsh-ui-whale) — 为 DSH Web UI 提供会随智能体活动作出反应的手绘像素鲸鱼伙伴。
 
 - [dsh-web-review](https://github.com/CanglongCl/dsh-web-review) — 在 DSH Web 中嵌入隔离网页预览，通过元素批注和可视化调整指导源码修改。
+
+- [Martty](https://github.com/openma-ai/Martty) — 面向 DeepSeek Harness 的 Rust/ratatui Agent TUI，支持流式工具调用、子代理、持久会话和可扩展的 Cordis 客户端界面。
 
 - [Prompt Studio](https://github.com/Moeblack/dsh-prompt-studio) — 编辑用户与内置系统提示词段落，支持实时预览。
 
