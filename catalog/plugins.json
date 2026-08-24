@@ -772,6 +772,15 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-swarm-panel#dsh-swarm-plugin",
+      "url": "https://github.com/stephenlzc/dsh-swarm-panel/tree/main/dsh-swarm-plugin",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Conversation Flow observability for DeepSeek Harness swarms, with topology, routed-message inspection, HITL pauses, Live follow, and child-session navigation.",
+        "zh-CN": "DeepSeek Harness swarm 的 Conversation Flow 可观测性，支持查看拓扑、检查路由消息、HITL 暂停、Live 跟随和子会话导航。"
+      }
     }
   ]
 }
