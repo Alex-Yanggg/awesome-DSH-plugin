@@ -162,6 +162,10 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 ### Data, research & knowledge
 
+- [MemSearch](https://github.com/zilliztech/memsearch/tree/main/plugins/dsh) — Shared Markdown memory for DSH and other coding agents, with automatic capture, pre-step context injection, searchable recall, and a review panel.
+
+- [dsh-milvus](https://github.com/zilliztech/dsh-milvus) — Read-only DSH Web plugin for inspecting and searching Milvus or Zilliz Cloud collections from chat, including scalar, BM25, dense, and hybrid queries.
+
 - [context-doctor](https://github.com/Zhenyu98/dsh-context-doctor) — See exactly what every request carries: token cost of the AGENTS.md chain, skill catalog and tool schemas, with duplicate/conflict detection and actionable pruning tips (Web UI gauge + context_audit tool, read-only).
 
 - [cross-harness-cite](https://github.com/dsh-external/cross-harness-cite) — Lets DeepSeek Harness cite relevant conversation history from Codex and Claude Code.
