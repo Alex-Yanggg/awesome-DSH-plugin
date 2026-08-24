@@ -130,6 +130,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-deepseek-quota](https://github.com/yingjunnan/dsh-deepseek-quota) — Displays remaining DeepSeek API balance in an auto-refreshing DSH Web floating card.
 - [dsh-plugin-hub](https://github.com/Noob-stupid/dsh-plugin-hub) — A plugin manager and GitHub dsh-plugin marketplace for the DSH Web UI.
 - [dsh-theme-plugin](https://github.com/BeiZi6/dsh-theme-plugin) — A DSH Web GUI theme studio with presets, custom palettes, and instant theme switching.
+- [dsh-swarm-panel#dsh-swarm-plugin](https://github.com/stephenlzc/dsh-swarm-panel/tree/main/dsh-swarm-plugin) — Conversation Flow observability for DeepSeek Harness swarms, with topology, routed-message inspection, HITL pauses, Live follow, and child-session navigation.
 
 ### Agent orchestration & automation
 

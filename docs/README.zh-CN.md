@@ -124,6 +124,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-sticky-disclosure](https://github.com/Han-1413141/dsh-sticky-disclosure) — 一键收起 DSH Web 会话中所有展开的区块（Think 思考行、工具卡片），常驻计数按钮 + 可自定义快捷键。
 
+- [dsh-swarm-panel#dsh-swarm-plugin](https://github.com/stephenlzc/dsh-swarm-panel/tree/main/dsh-swarm-plugin) — DeepSeek Harness swarm 的 Conversation Flow 可观测性，支持查看拓扑、检查路由消息、HITL 暂停、Live 跟随和子会话导航。
+
 - [dsh-task-status](https://github.com/vlln/dsh-task-status) — 在 DSH 对话页展示后台任务进度和实时输出 tail。
 
 - [dsh-theme-plugin](https://github.com/BeiZi6/dsh-theme-plugin) — DSH Web GUI 主题工作室，提供内置预设、可自定义配色和即时主题切换。
