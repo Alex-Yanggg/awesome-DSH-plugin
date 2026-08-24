@@ -772,6 +772,15 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
-    }
-  ]
+    },
+      {
+            "name": "dsh-web-search-ddg",
+            "url": "https://github.com/tatselkrik/dsh-web-search-ddg",
+            "category": "developer-tools",
+            "description": {
+                  "en": "Keyless DuckDuckGo web search provider for the built-in web_search tool: zero API keys or tokens per search, strict-mode parsing with redirect unwrapping, dedupe, entity-safe text, configurable GET/POST and request timeouts.",
+                  "zh-CN": "为内置 web_search 工具提供免密钥的 DuckDuckGo 搜索：每次搜索零 API key、零 token；严格模式解析，支持重定向解包、URL 去重与实体安全文本，可配置 GET/POST 与请求超时。"
+            }
+      }
+]
 }

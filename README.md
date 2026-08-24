@@ -72,6 +72,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-settings-plus](https://github.com/oneinitAI/dsh-settings-plus) — Advanced form- and file-level settings management with a plugin settings registration SDK.
 - [dsh-opencodego-usage](https://github.com/BeiZi6/dsh-opencodego-usage) — An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.
 
+- [dsh-web-search-ddg](https://github.com/tatselkrik/dsh-web-search-ddg) — Keyless DuckDuckGo web search provider for the built-in web_search tool: zero API keys or tokens per search, strict-mode parsing with redirect unwrapping and dedupe, configurable GET/POST and request timeouts.
+
 ### UI & user experience
 
 - [deepseek-harness-tui](https://github.com/openma-ai/deepseek-harness-tui) — A Rust terminal client that speaks the DSH SDK JSON-RPC protocol directly and runs standalone or as a profile bundle.
