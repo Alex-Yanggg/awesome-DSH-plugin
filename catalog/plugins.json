@@ -772,6 +772,12 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-vditor",
+      "url": "https://github.com/zhy201810576/dsh-vditor",
+      "category": "ui-user-experience",
+      "description": {"en": "Replaces the DSH Web chat composer with a Vditor IR Markdown editor, adding attachment path capsules, slash/@ menus, and full Markdown rendering for user messages.", "zh-CN": "用 Vditor IR Markdown 编辑器接管 DSH Web 聊天输入框，提供附件路径胶囊、斜杠/@ 菜单与用户消息的完整 Markdown 渲染。"}
     }
   ]
 }
