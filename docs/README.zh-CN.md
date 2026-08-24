@@ -188,6 +188,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-memory-evolve](https://github.com/dsh-external/dsh-memory-evolve) — 提供带 Git 分支感知和后台技能进化能力的跨会话长期记忆。
 
+- [dsh-milvus](https://github.com/zilliztech/dsh-milvus) — 只读 DSH Web 插件，可在对话中检查和搜索 Milvus 或 Zilliz Cloud Collection，支持标量、BM25、稠密向量与混合查询。
+
 - [dsh-mneme](https://github.com/modusensus/dsh-mneme) — 面向 DeepSeek Harness 的跨会话记忆插件：SQLite + 可人工编辑的 Markdown 双写，autoDream 后台巩固，6 个记忆工具，完全离线语义检索（本地向量 / 精排 / 聚类），198 个测试。
 
 - [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) — Mnemon 驱动的本地记忆系统：三层存储（运行时热记忆、项目档案 Documents、长期记忆体 Memory Spaces），受监督写回、检索工具与 Web UI。
@@ -195,6 +197,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 - [dsh-openbiliclaw](https://github.com/whiteguo233/dsh-openbiliclaw) — 将本地 OpenBiliClaw 内容推荐智能体接入 DSH，提供常驻界面和 22 个 Agent Bridge 工具。
 
 - [dsh-session-search](https://github.com/dsh-external/dsh-session-search) — 支持跨 DSH、Codex、Claude Code、pi 与 OpenCode 会话的全文搜索。
+
+- [MemSearch](https://github.com/zilliztech/memsearch/tree/main/plugins/dsh) — 供 DSH 与其他编程 Agent 共享的 Markdown 记忆，支持自动捕获、步骤前上下文注入、搜索召回与审阅面板。
 
 ### 云、DevOps 与可观测性
 
