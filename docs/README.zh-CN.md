@@ -136,6 +136,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-ui-whale](https://github.com/lhh010/dsh-ui-whale) — 为 DSH Web UI 提供会随智能体活动作出反应的手绘像素鲸鱼伙伴。
 
+- [dsh-vditor](https://github.com/zhy201810576/dsh-vditor) — 用 Vditor IR Markdown 编辑器接管 DSH Web 聊天输入框，提供附件路径胶囊、斜杠/@ 菜单与用户消息的完整 Markdown 渲染。
+
 - [dsh-web-review](https://github.com/CanglongCl/dsh-web-review) — 在 DSH Web 中嵌入隔离网页预览，通过元素批注和可视化调整指导源码修改。
 
 - [Prompt Studio](https://github.com/Moeblack/dsh-prompt-studio) — 编辑用户与内置系统提示词段落，支持实时预览。
