@@ -128,6 +128,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-theme-plugin](https://github.com/BeiZi6/dsh-theme-plugin) — DSH Web GUI 主题工作室，提供内置预设、可自定义配色和即时主题切换。
 
+- [dsh-tmux-cc](https://github.com/adrianleb/dsh-tmux-cc) — 为 DSH Web 提供持久的 tmux 控制模式驾驶舱，在停靠栏中镜像原生窗格。
+
 - [dsh-track](https://github.com/fakechris/dsh-track) — 嵌入式任务管理引擎，提供决策点、念头捕获墙和 Linear 风格的 issue 存储。
 
 - [dsh-turn-index](https://github.com/Simon314620/dsh-turn-index) — 轮次索引侧边栏：列出每一轮用户提问，点击跳转到对应位置，滚动时自动高亮当前轮次。
