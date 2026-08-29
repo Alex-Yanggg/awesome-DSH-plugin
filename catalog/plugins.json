@@ -772,6 +772,12 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
-    }
-  ]
+    },
+    {
+      "name": "dsh-product-subagent-console",
+      "url": "https://github.com/Jokasa7/dsh-product-subagent-console",
+      "category": "agent-automation",
+      "description": {"en": "A conversation-level multi-agent workbench for editable task plans, real child-session trees, plan-to-runtime comparison, and evidence-backed recovery previews.", "zh-CN": "DSH 对话级多 Agent 工作台，支持可编辑任务方案、真实子会话树、计划与实际运行对照，以及基于证据的恢复预览。"},
+      "status": "beta"
+    }  ]
 }

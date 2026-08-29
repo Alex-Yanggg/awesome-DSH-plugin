@@ -154,6 +154,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-preset-flash-director](https://github.com/zhaoyilun/dsh-preset-flash-director) — 一个节省 token 的 DeepSeek Harness 智能体预设，将深度思考任务委派给专家子智能体。
 
+- [dsh-product-subagent-console](https://github.com/Jokasa7/dsh-product-subagent-console) — DSH 对话级多 Agent 工作台，支持可编辑任务方案、真实子会话树、计划与实际运行对照，以及基于证据的恢复预览。 (beta)
+
 - [mstar-harness](https://github.com/btspoony/mstar-harness) — 面向结构化 Harness 循环工程的技能驱动工作流智能体 Plugin。
 
 - [plugin-team-board](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-team-board) — 由 Cordis 服务键支持的共享多智能体任务板。
