@@ -144,7 +144,7 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 ### 智能体编排与自动化
 
-- [dsh-agent-dispatch](https://github.com/kiligzzz/dsh-agent-dispatch) — DeepSeek Harness 用户自定义 agent + 自动路由 + 小队编排插件。提供八个模型工具（agent_dispatch / agent_followup / agent_list / agent_squad / agent_squad_continue / agent_squad_upsert / agent_import_skill / agent_upsert），小队支持 checkpoint 停等（某步骤产出后 agent_squad 返回 paused:true，用户确认后 agent_squad_continue 续跑，适配「每阶段产出停等确认」流程），原生右 tab「Agent 调度」主面板（总览 / Agent / 小队 / 历史），悬浮活动球，`/` 触发器 Agent 候选菜单。不含内置 agent——可通过面板自建、从 skill 导入，或用 agent_upsert 工具免重启增改。订阅 subagent/end 事件补全真实结局，决策日志 2000 行自动轮转。
+- [dsh-agent-dispatch](https://github.com/kiligzzz/dsh-agent-dispatch) — DeepSeek Harness 用户自定义 agent + 自动路由 + 小队编排插件。提供八个模型工具（agent_dispatch / agent_followup / agent_list / agent_squad / agent_squad_continue / agent_squad_upsert / agent_import_skill / agent_upsert），小队支持 checkpoint 停等（某步骤产出后 agent_squad 返回 paused:true，用户确认后 agent_squad_continue 续跑，适配「每阶段产出停等确认」流程），原生右 tab「Agent 调度」主面板（总览 / Agent / 小队 / 历史），悬浮活动球，`/` 触发器 Agent 候选菜单。不含内置 agent——可通过面板自建、从 skill 导入，或用 agent_upsert 工具免重启增改。订阅 subagent/end 事件补全真实结局，决策日志 2000 行自动轮转。v1.3.4：dsh 0.1.2+ 兼容（exports.inject + dsh-client-store/locale）——0.1.2+ 必需，否则 web boot 报 Failed to load plugins。
 
 - [dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate) — DSH 风险门控自动审批：安全操作自动批准，风险操作转人工审批。
 
