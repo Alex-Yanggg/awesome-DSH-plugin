@@ -133,6 +133,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 ### Agent orchestration & automation
 
+- [dsh-agent-dispatch](https://github.com/kiligzzz/dsh-agent-dispatch) — User-defined agents with automatic routing, model failover, and squad orchestration: eight model tools, checkpoint pausing in squads, a native right-tab panel, and a floating action ball.
+
 - [dsh-evolve](https://github.com/william-jin-cmu/dsh-evolve) — Lets the agent write, hot-mount, and reversibly remove its own cordis plugins mid-session, growing new tools, prompt rules, and event hooks that persist across restarts.
 
 - [dsh-harness-mcp-server](https://github.com/chushixixin/dsh-harness-mcp-server) — Expose DeepSeek Harness agent capabilities as an MCP server, letting any MCP client (e.g. Hermes) drive Harness to execute coding tasks.
