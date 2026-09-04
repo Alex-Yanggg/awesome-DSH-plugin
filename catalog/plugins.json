@@ -772,6 +772,12 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-malware-audit",
+      "url": "https://github.com/rand0wn/dsh-malware-audit",
+      "category": "developer-tools",
+      "description": {"en": "Real AST-based scan of installed plugins for malicious-intent patterns (dynamic eval, cross-plugin writes, exfiltration-shaped network calls), with an optional periodic schedule and auto-quarantine on critical findings.", "zh-CN": "对已安装插件进行真实的基于 AST 的恶意意图模式扫描（动态 eval、跨插件写入、外泄形态的网络调用），可选定期扫描计划，并可在发现严重问题时自动隔离。"}
     }
   ]
 }

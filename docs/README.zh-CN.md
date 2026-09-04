@@ -64,6 +64,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-github-login](https://github.com/Noob-stupid/dsh-github-login) — 一个将令牌同步到 gh CLI 配置的可视化 GitHub 设备码登录工具。
 
+- [dsh-malware-audit](https://github.com/rand0wn/dsh-malware-audit) — 对已安装插件进行真实的基于 AST 的恶意意图模式扫描（动态 eval、跨插件写入、外泄形态的网络调用），可选定期扫描计划，并可在发现严重问题时自动隔离。
+
 - [dsh-open-in-vscode](https://github.com/FSMargoo/dsh-open-in-vscode) — 可从 DeepSeek Harness Web 界面直接在 VS Code 中打开工作区目录。
 
 - [dsh-opencodego-usage](https://github.com/BeiZi6/dsh-opencodego-usage) — DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。
