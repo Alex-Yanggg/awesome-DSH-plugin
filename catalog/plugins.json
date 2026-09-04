@@ -774,12 +774,12 @@
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
     },
     {
-      "name": "TMCRA-Agent-Memory",
-      "url": "https://github.com/reshuibuduo/TMCRA-Agent-Memory",
+      "name": "TMCRA for DeepSeek Harness",
+      "url": "https://github.com/reshuibuduo/tmcra-plugin-deepseek-harness",
       "category": "data-research-knowledge",
       "description": {
-        "en": "Owner-local graph memory for DSH and Codex that recalls owner-global and project evidence before each turn, stores USER and ASSISTANT records separately, and exposes a provenance-aware visual atlas and cited knowledge pages.",
-        "zh-CN": "面向 DSH 与 Codex 的本机图记忆：每轮前召回用户全局与项目证据，分别保存 USER 与 ASSISTANT 记录，并提供保留来源信息的可视化图谱和带证据引用的知识页。"
+        "en": "Cross-app project memory that recalls account-global and project evidence before each turn, writes user and assistant records separately, keeps failed writeback in a durable local outbox, and supports local Writer and organizer models.",
+        "zh-CN": "面向 DeepSeek Harness 的跨应用项目记忆：每轮前召回账户全局与项目证据，分别写入用户和助手记录，以本地持久发件箱保存失败写回，并支持配置本地 Writer 与整理模型。"
       },
       "status": "beta",
       "source": "community"
