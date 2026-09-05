@@ -74,6 +74,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 ### UI & user experience
 
+- [dsh-session-manager](https://github.com/SunshineR04/dsh-session-manager) — Manage archived sessions from a Settings page: restore or permanently delete them, plus a red delete item in the session context menu, /sessions slash commands and three agent tools. Open sessions delete immediately; the leftover in-memory copy is hidden via an archive-set tombstone until the next restart.
 - [deepseek-harness-tui](https://github.com/openma-ai/deepseek-harness-tui) — A Rust terminal client that speaks the DSH SDK JSON-RPC protocol directly and runs standalone or as a profile bundle.
 
 - [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) — A sidebar workbench with extensible tabs, file viewing and editing, terminal, Git, and sub-agent tools.
