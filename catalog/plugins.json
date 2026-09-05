@@ -778,8 +778,8 @@
       "url": "https://github.com/reshuibuduo/tmcra-plugin-deepseek-harness",
       "category": "data-research-knowledge",
       "description": {
-        "en": "Cross-app project memory that recalls account-global and project evidence before each turn, writes user and assistant records separately, keeps failed writeback in a durable local outbox, and supports local Writer and organizer models.",
-        "zh-CN": "面向 DeepSeek Harness 的跨应用项目记忆：每轮前召回账户全局与项目证据，分别写入用户和助手记录，以本地持久发件箱保存失败写回，并支持配置本地 Writer 与整理模型。"
+        "en": "Cross-app project memory with a visual knowledge workspace, confirmed corrections, session controls, role-separated writeback, local Writer and organizer settings, and an account-free Windows local installation preview.",
+        "zh-CN": "面向 DeepSeek Harness 的跨应用项目记忆，支持可视化知识工作台、确认后纠错、会话控制、角色分离写回、本地 Writer 与整理模型设置，以及免账号 Windows 本地安装预览。"
       },
       "status": "beta",
       "source": "community"

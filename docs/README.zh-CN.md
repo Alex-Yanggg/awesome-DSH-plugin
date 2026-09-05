@@ -196,7 +196,7 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-session-search](https://github.com/dsh-external/dsh-session-search) — 支持跨 DSH、Codex、Claude Code、pi 与 OpenCode 会话的全文搜索。
 
-- [TMCRA for DeepSeek Harness](https://github.com/reshuibuduo/tmcra-plugin-deepseek-harness) — 面向 DeepSeek Harness 的跨应用项目记忆：每轮前召回账户全局与项目证据，分别写入用户和助手记录，以本地持久发件箱保存失败写回，并支持配置本地 Writer 与整理模型。 (beta)
+- [TMCRA for DeepSeek Harness](https://github.com/reshuibuduo/tmcra-plugin-deepseek-harness) — 面向 DeepSeek Harness 的跨应用项目记忆，支持可视化知识工作台、确认后纠错、会话控制、角色分离写回、本地 Writer 与整理模型设置，以及免账号 Windows 本地安装预览。 (beta)
 
 ### 云、DevOps 与可观测性
 
