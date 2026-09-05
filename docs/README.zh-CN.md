@@ -118,6 +118,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-qq2006](https://github.com/LaplaceYoung/dsh-qq2006) — DeepSeek Harness Web UI 的可切换 QQ2006 皮肤，提供珊瑚蓝主题和复古素材。
 
+- [dsh-settings-ui](https://github.com/weibaohui/dsh-settings-ui) — 自定义 DSH 原生设置窗口：全屏/预置/自定义宽高、背景透明度与主题/纯色/图片背景，悬浮球即开即调，存本机浏览器。
+
 - [dsh-skin](https://github.com/KinGao294/dsh-skin) — Codex 风格换肤 + 自定义背景插件：内置多套 --dsw-alias-* 配色，主画布/侧边栏半透明壁纸（overrideTokens），支持透明度与模糊调节。
 
 - [dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) — 同一份表情包 catalog 同时服务 Web UI 选择器、/sticker 命令和智能体 send_sticker 工具，提供双角色变体与工作流反应表情。
