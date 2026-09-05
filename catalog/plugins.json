@@ -772,6 +772,17 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "TMCRA for DeepSeek Harness",
+      "url": "https://github.com/reshuibuduo/tmcra-plugin-deepseek-harness",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Cross-app project memory with a visual knowledge workspace, confirmed corrections, session controls, role-separated writeback, local Writer and organizer settings, and an account-free Windows local installation preview.",
+        "zh-CN": "面向 DeepSeek Harness 的跨应用项目记忆，支持可视化知识工作台、确认后纠错、会话控制、角色分离写回、本地 Writer 与整理模型设置，以及免账号 Windows 本地安装预览。"
+      },
+      "status": "beta",
+      "source": "community"
     }
   ]
 }
