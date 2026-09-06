@@ -145,6 +145,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-preset-flash-director](https://github.com/zhaoyilun/dsh-preset-flash-director) — A token-economical DSH agent preset that delegates deep reasoning to expert subagents.
 - [plugin-team-board](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-team-board) — A shared multi-agent task board backed by a Cordis service key.
 
+- [context-razor](https://github.com/weibaohui/context-razor) — Context trimmer: lists the current session's context entries with role, preview and ≈token estimate (cl100k), highlights over-threshold items, and removes selected entries exactly without LLM summarization.
+
 ### Productivity & collaboration
 
 - [deepseek-manners](https://github.com/Moeblack/deepseek-manners) — Appends a thank-you line to every assistant reply.

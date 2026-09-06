@@ -144,6 +144,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 ### 智能体编排与自动化
 
+- [context-razor](https://github.com/weibaohui/context-razor) — 上下文剃刀：把当前会话上下文逐条列出（角色/预览/≈token 估算），超阈值标红，勾选后不经 LLM 精确裁剪，删了什么一目了然。
+
 - [dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate) — DSH 风险门控自动审批：安全操作自动批准，风险操作转人工审批。
 
 - [dsh-evolve](https://github.com/william-jin-cmu/dsh-evolve) — 让智能体在会话中现场编写、热挂载并可逆卸载自己的 cordis 插件，新工具、提示词规则和事件钩子重启后自动恢复。
