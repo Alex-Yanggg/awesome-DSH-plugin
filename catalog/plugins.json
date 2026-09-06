@@ -838,8 +838,8 @@
       "url": "https://github.com/SunshineR04/dsh-session-manager",
       "category": "ui-user-experience",
       "description": {
-        "en": "Manage archived sessions from a Settings page: restore or permanently delete them, plus a red delete item in the session context menu, /sessions slash commands and three agent tools. Open sessions delete immediately; the leftover in-memory copy is hidden via an archive-set tombstone until the next restart.",
-        "zh-CN": "在设置页管理已归档会话：恢复或彻底删除，另附会话菜单红色删除项、/sessions 斜杠命令与三个 agent 工具。已打开的会话也能立即删除，残留的内存副本以归档集墓碑隐藏、重启后自动清理。"
+        "en": "Manage archived sessions from a Settings page: restore or permanently delete them, plus a red delete item in the session context menu. Open sessions delete immediately; the leftover in-memory copy is hidden via an archive-set tombstone until the next restart.",
+        "zh-CN": "在设置页管理已归档会话：恢复或彻底删除，另附会话菜单红色删除项。已打开的会话也能立即删除，残留的内存副本以归档集墓碑隐藏、重启后自动清理。"
       }
     }
   ]
