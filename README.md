@@ -145,6 +145,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-preset-flash-director](https://github.com/zhaoyilun/dsh-preset-flash-director) — A token-economical DSH agent preset that delegates deep reasoning to expert subagents.
 - [plugin-team-board](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-team-board) — A shared multi-agent task board backed by a Cordis service key.
 
+- [dsh-tasks](https://github.com/weibaohui/dsh-tasks) — Scheduled tasks: run a prompt on cron schedules, each run opens a new agent session to do the work, with workspace binding, manual run, session auto-naming, and a fullscreen task management page.
+
 ### Productivity & collaboration
 
 - [deepseek-manners](https://github.com/Moeblack/deepseek-manners) — Appends a thank-you line to every assistant reply.

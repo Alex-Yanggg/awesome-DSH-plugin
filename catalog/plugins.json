@@ -772,6 +772,12 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-tasks",
+      "url": "https://github.com/weibaohui/dsh-tasks",
+      "category": "agent-automation",
+      "description": {"en": "Scheduled tasks: run a prompt on cron schedules, each run opens a new agent session to do the work, with workspace binding, manual run, session auto-naming, and a fullscreen task management page.", "zh-CN": "定时任务：用 cron 表达式定时执行提示词，到点自动开一个新 agent 会话替你干活，支持绑定工作区、手动立即执行与会话自动命名。"}
     }
   ]
 }
