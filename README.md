@@ -114,6 +114,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-turn-index](https://github.com/Simon314620/dsh-turn-index) — A turn-index sidebar listing every user turn, with click-to-jump navigation and scroll-spy highlighting.
 
+- [dsh-ui-appearance (kiligzzz fork)](https://github.com/kiligzzz/dsh-ui-appearance) — A customized fork of TQSY114514/dsh-ui-appearance for theme palettes, wallpapers, and glassmorphism, with a layout fix for duplicate blank space alongside better-sidebar 0.18.0.
+
 - [dsh-ui-progress](https://github.com/lhh010/dsh-ui-progress) — Shows persistent conversation progress, live token generation speed, interruption state, and todo reminders in the Web UI.
 
 - [dsh-ui-whale](https://github.com/lhh010/dsh-ui-whale) — A hand-drawn pixel whale companion for the DSH Web UI that reacts to agent activity.

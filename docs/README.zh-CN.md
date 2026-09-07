@@ -132,6 +132,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-turn-index](https://github.com/Simon314620/dsh-turn-index) — 轮次索引侧边栏：列出每一轮用户提问，点击跳转到对应位置，滚动时自动高亮当前轮次。
 
+- [dsh-ui-appearance (kiligzzz fork)](https://github.com/kiligzzz/dsh-ui-appearance) — 基于 TQSY114514/dsh-ui-appearance 的定制 fork，提供主题调色、壁纸与毛玻璃，并修复与 better-sidebar 0.18.0 共用时的重复留白。
+
 - [dsh-ui-progress](https://github.com/lhh010/dsh-ui-progress) — 在 Web UI 中常驻显示会话进度、实时 token 生成速率、中断状态和待办提醒。
 
 - [dsh-ui-whale](https://github.com/lhh010/dsh-ui-whale) — 为 DSH Web UI 提供会随智能体活动作出反应的手绘像素鲸鱼伙伴。

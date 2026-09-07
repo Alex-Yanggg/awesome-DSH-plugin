@@ -768,6 +768,17 @@
       "description": {"en": "A DSH Web GUI theme studio with built-in presets, customizable palettes, and instant theme switching.", "zh-CN": "DSH Web GUI 主题工作室，提供内置预设、可自定义配色和即时主题切换。"}
     },
     {
+      "name": "dsh-ui-appearance (kiligzzz fork)",
+      "url": "https://github.com/kiligzzz/dsh-ui-appearance",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "A customized fork of TQSY114514/dsh-ui-appearance for theme palettes, wallpapers, and glassmorphism, with a layout fix for duplicate blank space alongside better-sidebar 0.18.0.",
+        "zh-CN": "基于 TQSY114514/dsh-ui-appearance 的定制 fork，提供主题调色、壁纸与毛玻璃，并修复与 better-sidebar 0.18.0 共用时的重复留白。"
+      },
+      "status": "active",
+      "source": "community"
+    },
+    {
       "name": "dsh-opencodego-usage",
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
