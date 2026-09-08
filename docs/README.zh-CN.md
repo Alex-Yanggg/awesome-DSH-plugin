@@ -172,6 +172,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-share](https://github.com/hellodigua/dsh-share) — 一键分享 DeepSeek Harness 对话。
 
+- [dsh-smart-title](https://github.com/weibaohui/dsh-smart-title) — 会话智能标题：每轮对话结束后用一次独立的辅助 LLM 调用对「用户消息+助手回答」的完整转写做总结，标题跟随会话真实主题而不是复述第一句话；首条消息即时生成标题、内置标题失败在后续轮次自动重试、用户手动改名绝不被覆盖、自动跳过子代理与 fork 会话。
+
 - [plugin-notify](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-notify) — 在回合完成、出错或需要审批时发送 IM webhook 和本地通知。
 
 - [plugin-session-export](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-session-export) — 将只追加会话日志导出为可读的 Markdown 或 HTML。

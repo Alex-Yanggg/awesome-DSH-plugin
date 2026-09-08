@@ -160,6 +160,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-lark-meeting-notifier](https://github.com/yeruizhi/dsh-lark-meeting-notifier) — A Feishu meeting reminder panel with today/tomorrow views and flashing alarms.
 - [dsh-im-hub](https://github.com/ThreeBody6666/dsh-im-hub) — A multi-platform IM gateway for Feishu, WeCom, and Telegram with per-chat agent sessions.
 
+- [dsh-smart-title](https://github.com/weibaohui/dsh-smart-title) — Smart session titles for DSH: after each conversation turn an independent auxiliary LLM call summarizes the full user+assistant transcript into a title that follows the session's real topic instead of echoing the first message; the first message is titled instantly, failed built-in titles auto-retry on later turns, manual renames are never overwritten, and subagent/fork sessions are skipped.
+
 ### Data, research & knowledge
 
 - [context-doctor](https://github.com/Zhenyu98/dsh-context-doctor) — See exactly what every request carries: token cost of the AGENTS.md chain, skill catalog and tool schemas, with duplicate/conflict detection and actionable pruning tips (Web UI gauge + context_audit tool, read-only).
