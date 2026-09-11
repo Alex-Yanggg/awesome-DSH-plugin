@@ -772,6 +772,15 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "odai-dsh-plugin",
+      "url": "https://github.com/orziz/odai/tree/main/dsh/plugin",
+      "category": "agent-automation",
+      "description": {
+        "en": "A profile-wide DSH governance and routing bundle with a Web Control Center for responsibility and evidence inspection, plus compaction, scoped semantic memory, safety continuity, and verified delivery; compatible with DSH 0.1.5-rc.1.",
+        "zh-CN": "面向整个 DSH profile 的治理与路由 bundle，提供用于职责与证据检查的 Web Control Center，以及压缩、本地作用域语义记忆、安全连续性与真实验收；兼容 DSH 0.1.5-rc.1。"
+      }
     }
   ]
 }
