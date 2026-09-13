@@ -144,6 +144,16 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 ### 智能体编排与自动化
 
+- [Auto Review](https://github.com/PerryLink/dsh-auto-review) — 审批链上的第二模型自动审查：只读 reviewer 子代理给出 allow/deny 结构化判定，默认 fail-closed，全程会话日志可审计。
+
+- [Autotier](https://github.com/PerryLink/dsh-autotier) — 强/便宜模型分档路由：意图门控落档、计划模式交接（强档规划便宜档执行）、工具/执行前高危守卫、TTL 回退。
+
+- [Background Agents](https://github.com/PerryLink/dsh-background-agents) — 后台持久子代理：结构化任务板、进度监控、随时消息与中断控制。
+
+- [Defend](https://github.com/PerryLink/dsh-defend) — 提示注入、越狱与密钥泄露防御：Aho-Corasick 检测 + allow/ask/block 拦截 + 递归删除执行前门。
+
+- [DoubleCheck](https://github.com/PerryLink/dsh-doublecheck) — 交付质量门：动笔前审讯需求、红绿测试证据、交付后对抗评审，最终给出 deliverable/rework 放行判定。
+
 - [dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate) — DSH 风险门控自动审批：安全操作自动批准，风险操作转人工审批。
 
 - [dsh-evolve](https://github.com/william-jin-cmu/dsh-evolve) — 让智能体在会话中现场编写、热挂载并可逆卸载自己的 cordis 插件，新工具、提示词规则和事件钩子重启后自动恢复。
@@ -155,6 +165,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 - [dsh-preset-flash-director](https://github.com/zhaoyilun/dsh-preset-flash-director) — 一个节省 token 的 DeepSeek Harness 智能体预设，将深度思考任务委派给专家子智能体。
 
 - [mstar-harness](https://github.com/btspoony/mstar-harness) — 面向结构化 Harness 循环工程的技能驱动工作流智能体 Plugin。
+
+- [Permission Rules](https://github.com/PerryLink/dsh-permission-rules) — 声明式有序 allow/deny/ask 权限规则：匹配工具名、参数（glob/正则）、工作区路径与网络目标（域名/IP/端口/协议），外加 Codex 风格进程级网络策略。
 
 - [plugin-team-board](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-team-board) — 由 Cordis 服务键支持的共享多智能体任务板。
 

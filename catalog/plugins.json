@@ -772,6 +772,60 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "Auto Review",
+      "url": "https://github.com/PerryLink/dsh-auto-review",
+      "category": "agent-automation",
+      "description": {
+        "en": "Second-model AI auto-review on the approval chain: allow/deny verdicts with reasons, fail-closed by default.",
+        "zh-CN": "审批链上的第二模型自动审查：只读 reviewer 子代理给出 allow/deny 结构化判定，默认 fail-closed，全程会话日志可审计。"
+      }
+    },
+    {
+      "name": "Permission Rules",
+      "url": "https://github.com/PerryLink/dsh-permission-rules",
+      "category": "agent-automation",
+      "description": {
+        "en": "Declarative ordered allow/deny/ask permission rules for tools, paths, and network targets.",
+        "zh-CN": "声明式有序 allow/deny/ask 权限规则：匹配工具名、参数（glob/正则）、工作区路径与网络目标（域名/IP/端口/协议），外加 Codex 风格进程级网络策略。"
+      }
+    },
+    {
+      "name": "Defend",
+      "url": "https://github.com/PerryLink/dsh-defend",
+      "category": "agent-automation",
+      "description": {
+        "en": "Prompt-injection, jailbreak, and secret-leak defense with allow/ask/block interception.",
+        "zh-CN": "提示注入、越狱与密钥泄露防御：Aho-Corasick 检测 + allow/ask/block 拦截 + 递归删除执行前门。"
+      }
+    },
+    {
+      "name": "Background Agents",
+      "url": "https://github.com/PerryLink/dsh-background-agents",
+      "category": "agent-automation",
+      "description": {
+        "en": "Durable background child agents with a structured task board, progress monitoring, and approval controls.",
+        "zh-CN": "后台持久子代理：结构化任务板、进度监控、随时消息与中断控制。"
+      }
+    },
+    {
+      "name": "DoubleCheck",
+      "url": "https://github.com/PerryLink/dsh-doublecheck",
+      "category": "agent-automation",
+      "description": {
+        "en": "Delivery quality gate: grill the requirements, test the implementation, prove the delivery, and gate the handoff.",
+        "zh-CN": "交付质量门：动笔前审讯需求、红绿测试证据、交付后对抗评审，最终给出 deliverable/rework 放行判定。"
+      }
+    },
+    {
+      "name": "Autotier",
+      "url": "https://github.com/PerryLink/dsh-autotier",
+      "category": "agent-automation",
+      "description": {
+        "en": "Automatic strong/cheap model-tier routing with plan-mode handoff, high-risk guards, and failure escalation.",
+        "zh-CN": "强/便宜模型分档路由：意图门控落档、计划模式交接（强档规划便宜档执行）、工具/执行前高危守卫、TTL 回退。"
+      }
     }
   ]
 }

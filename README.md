@@ -145,6 +145,13 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-preset-flash-director](https://github.com/zhaoyilun/dsh-preset-flash-director) — A token-economical DSH agent preset that delegates deep reasoning to expert subagents.
 - [plugin-team-board](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-team-board) — A shared multi-agent task board backed by a Cordis service key.
 
+- [Auto Review](https://github.com/PerryLink/dsh-auto-review) — Second-model AI auto-review on the approval chain: allow/deny verdicts with reasons, fail-closed by default.
+- [Autotier](https://github.com/PerryLink/dsh-autotier) — Automatic strong/cheap model-tier routing with plan-mode handoff, high-risk guards, and failure escalation.
+- [Background Agents](https://github.com/PerryLink/dsh-background-agents) — Durable background child agents with a structured task board, progress monitoring, and approval controls.
+- [Defend](https://github.com/PerryLink/dsh-defend) — Prompt-injection, jailbreak, and secret-leak defense with allow/ask/block interception.
+- [DoubleCheck](https://github.com/PerryLink/dsh-doublecheck) — Delivery quality gate: grill the requirements, test the implementation, prove the delivery, and gate the handoff.
+- [Permission Rules](https://github.com/PerryLink/dsh-permission-rules) — Declarative ordered allow/deny/ask permission rules for tools, paths, and network targets.
+
 ### Productivity & collaboration
 
 - [deepseek-manners](https://github.com/Moeblack/deepseek-manners) — Appends a thank-you line to every assistant reply.
