@@ -179,6 +179,12 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-session-search](https://github.com/dsh-external/dsh-session-search) — Provides full-text search across DSH, Codex, Claude Code, pi, and OpenCode sessions.
 
+- [Data Quality](https://github.com/PerryLink/dsh-data-quality) — Deterministic data profiling, cleaning, and verification: DAMA scorecard, content-hash dedupe, and drift checks.
+- [Fund Research](https://github.com/PerryLink/dsh-fund-research) — Analyze funds with returns, holdings, and performance decomposition.
+- [Industry Research](https://github.com/PerryLink/dsh-industry-research) — Structured company/industry research with source capture and auditable research trails.
+- [Library](https://github.com/PerryLink/dsh-library) — Local document knowledge base with hybrid semantic plus keyword search, citation-aware injection, and a SQLite index.
+- [Research Report](https://github.com/PerryLink/dsh-research-report) — Evidence-linked research reports whose content hash seals the directory of sources.
+
 ### Cloud, DevOps & observability
 
 - [dsh-harness-ops](https://github.com/fakechris/dsh-harness-ops) — Operations toolkit with A/B snapshot upgrades, automatic recovery, rollback, and a diagnostic self-healing command.

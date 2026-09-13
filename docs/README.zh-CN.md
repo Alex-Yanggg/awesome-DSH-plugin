@@ -182,6 +182,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [cross-harness-cite](https://github.com/dsh-external/cross-harness-cite) — 让 DeepSeek Harness 引用 Codex 与 Claude Code 中相关的历史对话。
 
+- [Data Quality](https://github.com/PerryLink/dsh-data-quality) — 确定性数据画像、清洗与核验：DAMA 记分卡、内容哈希去重、指标期望与漂移检查。
+
 - [dsh-artifact-library](https://github.com/wyq183/dsh-artifact-library) — DeepSeek Harness 本地优先的产物与资料库：自动采集 AI 产出、AI 整理分类（摘要/标签）、跨会话全文检索、项目级总览。
 
 - [dsh-data-agent](https://github.com/dsh-external/dsh-data-agent) — 帮助智能体连接数据库并编写 SQL 以完成数据任务。
@@ -195,6 +197,14 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 - [dsh-openbiliclaw](https://github.com/whiteguo233/dsh-openbiliclaw) — 将本地 OpenBiliClaw 内容推荐智能体接入 DSH，提供常驻界面和 22 个 Agent Bridge 工具。
 
 - [dsh-session-search](https://github.com/dsh-external/dsh-session-search) — 支持跨 DSH、Codex、Claude Code、pi 与 OpenCode 会话的全文搜索。
+
+- [Fund Research](https://github.com/PerryLink/dsh-fund-research) — 基金分析：收益、持仓与绩效归因。
+
+- [Industry Research](https://github.com/PerryLink/dsh-industry-research) — 结构化公司/行业深研：来源捕获 + 可审计研究轨迹。
+
+- [Library](https://github.com/PerryLink/dsh-library) — 本地文档知识库：语义+关键词混合检索、引用感知注入、SQLite 索引、本地嵌入零模型下载。
+
+- [Research Report](https://github.com/PerryLink/dsh-research-report) — 证据链研究报告：内容哈希封印来源目录，报告与来源不可分。
 
 ### 云、DevOps 与可观测性
 

@@ -772,6 +772,51 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "Industry Research",
+      "url": "https://github.com/PerryLink/dsh-industry-research",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Structured company/industry research with source capture and auditable research trails.",
+        "zh-CN": "结构化公司/行业深研：来源捕获 + 可审计研究轨迹。"
+      }
+    },
+    {
+      "name": "Research Report",
+      "url": "https://github.com/PerryLink/dsh-research-report",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Evidence-linked research reports whose content hash seals the directory of sources.",
+        "zh-CN": "证据链研究报告：内容哈希封印来源目录，报告与来源不可分。"
+      }
+    },
+    {
+      "name": "Fund Research",
+      "url": "https://github.com/PerryLink/dsh-fund-research",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Analyze funds with returns, holdings, and performance decomposition.",
+        "zh-CN": "基金分析：收益、持仓与绩效归因。"
+      }
+    },
+    {
+      "name": "Library",
+      "url": "https://github.com/PerryLink/dsh-library",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Local document knowledge base with hybrid semantic plus keyword search, citation-aware injection, and a SQLite index.",
+        "zh-CN": "本地文档知识库：语义+关键词混合检索、引用感知注入、SQLite 索引、本地嵌入零模型下载。"
+      }
+    },
+    {
+      "name": "Data Quality",
+      "url": "https://github.com/PerryLink/dsh-data-quality",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Deterministic data profiling, cleaning, and verification: DAMA scorecard, content-hash dedupe, and drift checks.",
+        "zh-CN": "确定性数据画像、清洗与核验：DAMA 记分卡、内容哈希去重、指标期望与漂移检查。"
+      }
     }
   ]
 }
