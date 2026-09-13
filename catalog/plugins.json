@@ -772,6 +772,60 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "Plugin Guide",
+      "url": "https://github.com/PerryLink/dsh-plugin-guide",
+      "category": "developer-tools",
+      "description": {
+        "en": "The DSH plugin development guide as an installable skill: packaging, contracts, checks, and a pack verifier.",
+        "zh-CN": "可安装的 DSH 插件开发指南技能：打包、契约、检查与构建校验器。"
+      }
+    },
+    {
+      "name": "Plugin Kit",
+      "url": "https://github.com/PerryLink/dsh-plugin-kit",
+      "category": "developer-tools",
+      "description": {
+        "en": "Plugin engineering kit: scaffolding, ecosystem registry, and peer-range sync/validation tooling.",
+        "zh-CN": "插件工程工具箱：脚手架、生态名册、peer-range 同步与校验。"
+      }
+    },
+    {
+      "name": "Score",
+      "url": "https://github.com/PerryLink/dsh-score",
+      "category": "developer-tools",
+      "description": {
+        "en": "Plugin quality scoring for the DSH ecosystem: evidence-backed compliance reports.",
+        "zh-CN": "插件质量评分：按检查项评估插件并产出证据化合规报告。"
+      }
+    },
+    {
+      "name": "Test Drive",
+      "url": "https://github.com/PerryLink/dsh-test-drive",
+      "category": "developer-tools",
+      "description": {
+        "en": "Run plugins in a disposable sandbox (temporary DSH_HOME) and score the results as JSON/Markdown.",
+        "zh-CN": "在一次性沙箱环境（临时 DSH_HOME）试跑插件并输出 JSON/Markdown 评分。"
+      }
+    },
+    {
+      "name": "Plugin Upgrade 0.1.5",
+      "url": "https://github.com/PerryLink/dsh-plugin-upgrade-015",
+      "category": "developer-tools",
+      "description": {
+        "en": "Version-locked upgrade skill for the 0.1.5-alpha.1 to 0.1.5-rc.1 corridor with an 11-seam scanner CLI.",
+        "zh-CN": "0.1.5-alpha.1 → 0.1.5-rc.1 走廊的版本锁定升级技能：版本卡片 + 11 缝零依赖扫描器（npx CLI）。"
+      }
+    },
+    {
+      "name": "LSP Actions",
+      "url": "https://github.com/PerryLink/dsh-lsp-actions",
+      "category": "developer-tools",
+      "description": {
+        "en": "Exposes language-server diagnostics, definitions, references, and fixes to the agent.",
+        "zh-CN": "语言服务器能力暴露给 agent：诊断、定义、引用、补全、code actions 与整仓重命名。"
+      }
     }
   ]
 }

@@ -76,9 +76,21 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-suite](https://github.com/whyihaveyou/dsh-suite) — DSH 插件活目录，提供兼容性 CI、可搜索目录和内置插件商店。
 
+- [LSP Actions](https://github.com/PerryLink/dsh-lsp-actions) — 语言服务器能力暴露给 agent：诊断、定义、引用、补全、code actions 与整仓重命名。
+
+- [Plugin Guide](https://github.com/PerryLink/dsh-plugin-guide) — 可安装的 DSH 插件开发指南技能：打包、契约、检查与构建校验器。
+
+- [Plugin Kit](https://github.com/PerryLink/dsh-plugin-kit) — 插件工程工具箱：脚手架、生态名册、peer-range 同步与校验。
+
+- [Plugin Upgrade 0.1.5](https://github.com/PerryLink/dsh-plugin-upgrade-015) — 0.1.5-alpha.1 → 0.1.5-rc.1 走廊的版本锁定升级技能：版本卡片 + 11 缝零依赖扫描器（npx CLI）。
+
 - [plugin-manager](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-manager) — DSH Web UI 内置插件商店，支持浏览、搜索、安装、兼容徽章和已装列表。
 
 - [plugin-registry](https://github.com/vlln/plugin-registry) — 基于浏览器的 Plugin 管理控制台，并提供官方 DSH Plugin 开发引导。
+
+- [Score](https://github.com/PerryLink/dsh-score) — 插件质量评分：按检查项评估插件并产出证据化合规报告。
+
+- [Test Drive](https://github.com/PerryLink/dsh-test-drive) — 在一次性沙箱环境（临时 DSH_HOME）试跑插件并输出 JSON/Markdown 评分。
 
 ### 界面与用户体验
 

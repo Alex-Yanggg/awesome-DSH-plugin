@@ -72,6 +72,13 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-settings-plus](https://github.com/oneinitAI/dsh-settings-plus) — Advanced form- and file-level settings management with a plugin settings registration SDK.
 - [dsh-opencodego-usage](https://github.com/BeiZi6/dsh-opencodego-usage) — An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.
 
+- [LSP Actions](https://github.com/PerryLink/dsh-lsp-actions) — Exposes language-server diagnostics, definitions, references, and fixes to the agent.
+- [Plugin Guide](https://github.com/PerryLink/dsh-plugin-guide) — The DSH plugin development guide as an installable skill: packaging, contracts, checks, and a pack verifier.
+- [Plugin Kit](https://github.com/PerryLink/dsh-plugin-kit) — Plugin engineering kit: scaffolding, ecosystem registry, and peer-range sync/validation tooling.
+- [Plugin Upgrade 0.1.5](https://github.com/PerryLink/dsh-plugin-upgrade-015) — Version-locked upgrade skill for the 0.1.5-alpha.1 to 0.1.5-rc.1 corridor with an 11-seam scanner CLI.
+- [Score](https://github.com/PerryLink/dsh-score) — Plugin quality scoring for the DSH ecosystem: evidence-backed compliance reports.
+- [Test Drive](https://github.com/PerryLink/dsh-test-drive) — Run plugins in a disposable sandbox (temporary DSH_HOME) and score the results as JSON/Markdown.
+
 ### UI & user experience
 
 - [deepseek-harness-tui](https://github.com/openma-ai/deepseek-harness-tui) — A Rust terminal client that speaks the DSH SDK JSON-RPC protocol directly and runs standalone or as a profile bundle.
