@@ -772,6 +772,78 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-auto-review",
+      "url": "https://github.com/PerryLink/dsh-auto-review",
+      "category": "agent-automation",
+      "description": {
+        "en": "Second-model AI auto-review for DeepSeek Harness approval requests: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default and fully auditable from the session log.",
+        "zh-CN": "面向 DeepSeek Harness 审批请求的第二模型 AI 自动审查：只读审查子代理返回带理由的结构化 allow/deny 裁决，默认失败即拒绝，全过程可在会话日志中审计。"
+      }
+    },
+    {
+      "name": "dsh-cert-mcp",
+      "url": "https://github.com/PerryLink/dsh-cert-mcp",
+      "category": "developer-tools",
+      "description": {
+        "en": "Read-only MCP server over the dsh-plugin-certification registry, so any MCP client can query a plugin certification grade, its five-dimension evidence and the specification itself.",
+        "zh-CN": "面向 dsh-plugin-certification 注册表的只读 MCP 服务器，任何 MCP 客户端都可查询插件认证等级、五维证据与认证规范本身。"
+      }
+    },
+    {
+      "name": "dsh-github",
+      "url": "https://github.com/PerryLink/dsh-github",
+      "category": "developer-tools",
+      "description": {
+        "en": "GitHub integration for DeepSeek Harness: pull request, issue, repository and file tools, a review bot with idempotent inline comments and a status gate, and a composite GitHub Action, with every write gated by human approval.",
+        "zh-CN": "DeepSeek Harness 的 GitHub 集成：PR/Issue/仓库/文件工具、带幂等行内评论与状态门禁的审查机器人、可复用的 GitHub Action，所有写操作均需人工审批。"
+      }
+    },
+    {
+      "name": "dsh-library",
+      "url": "https://github.com/PerryLink/dsh-library",
+      "category": "data-research-knowledge",
+      "description": {
+        "en": "Local document knowledge base for DeepSeek Harness: add, list and search a workspace library with hybrid semantic and keyword retrieval, diversity re-ranking, citation-aware injection and integrity checks, backed by a local SQLite index.",
+        "zh-CN": "DeepSeek Harness 的本地文档知识库：在工作区内添加、列出与检索资料，混合语义与关键词召回、多样性重排、带引用注入与完整性校验，由本地 SQLite 索引支撑。"
+      }
+    },
+    {
+      "name": "dsh-mcp-panel",
+      "url": "https://github.com/PerryLink/dsh-mcp-panel",
+      "category": "developer-tools",
+      "description": {
+        "en": "Management console for the official DeepSeek Harness MCP client: a /mcp command with health diagnostics, a Settings tab with approval-gated server CRUD and automatic backups, and a trial console over the official tool pipeline.",
+        "zh-CN": "官方 DeepSeek Harness MCP 客户端的管理控制台：/mcp 命令提供健康诊断，设置页支持审批门禁的服务器增删改与自动备份，并在官方工具管线上提供试调台。"
+      }
+    },
+    {
+      "name": "dsh-plugin-doctor",
+      "url": "https://github.com/PerryLink/dsh-plugin-doctor",
+      "category": "developer-tools",
+      "description": {
+        "en": "Zero-dependency detector for DeepSeek Harness plugins: package-structure checks, cordis contract scanning, a keyless headless sandbox smoke run and ecosystem-listing verification in one pass.",
+        "zh-CN": "DeepSeek Harness 插件的零依赖检测器：一次运行覆盖包结构检查、cordis 契约扫描、无密钥无头沙箱冒烟与生态收录校验。"
+      }
+    },
+    {
+      "name": "dsh-plugin-upgrade",
+      "url": "https://github.com/PerryLink/dsh-plugin-upgrade",
+      "category": "developer-tools",
+      "description": {
+        "en": "Upgrade skill for DeepSeek Harness plugin authors: one package carries one corridor index that detects the caller peer band and routes it to the matching closed corridor card, plus a zero-dependency seam scanner.",
+        "zh-CN": "面向 DeepSeek Harness 插件作者的升级技能：一个包内只放一份走廊索引，自动识别调用方 peer 区间并路由到对应已封版升级卡片，附带零依赖接缝扫描器。"
+      }
+    },
+    {
+      "name": "dsh-ticktick",
+      "url": "https://github.com/PerryLink/dsh-ticktick",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "TickTick (Dida365) task bridge for DeepSeek Harness: a session-header task panel with filtering, search and drag reordering, eleven curated agent tools and a settings card, over the official TickTick MCP endpoint.",
+        "zh-CN": "DeepSeek Harness 的 TickTick（滴答清单）任务桥：会话头部任务面板支持筛选、搜索与拖拽排序，附带十一个精选代理工具与设置卡片，走官方 TickTick MCP 端点。"
+      }
     }
   ]
 }

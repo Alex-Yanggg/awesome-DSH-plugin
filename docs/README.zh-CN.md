@@ -56,17 +56,27 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-billing](https://github.com/TheTianzz/dsh-billing) — 以会话头部双胶囊、斜杠命令和智能体工具展示 DeepSeek 账户余额与本会话费用，单价可配置并每 12 小时自动同步官方价格。
 
+- [dsh-cert-mcp](https://github.com/PerryLink/dsh-cert-mcp) — 面向 dsh-plugin-certification 注册表的只读 MCP 服务器，任何 MCP 客户端都可查询插件认证等级、五维证据与认证规范本身。
+
 - [dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) — 将编码智能体的对话历史导入为可恢复的 DeepSeek Harness 会话，并支持导出和同步到 Claude Code。
 
 - [dsh-custom-tool](https://github.com/FSMargoo/dsh-custom-tool) — 通过 Monaco 编辑器及模型驱动的生命周期创建和管理沙箱化 JavaScript 工具。
 
 - [dsh-git-identity](https://github.com/LoserFox/dsh-git-identity) — 将 Git 提交作者身份固定为当前环境身份，并优先使用已登录的 GitHub CLI 账号。
 
+- [dsh-github](https://github.com/PerryLink/dsh-github) — DeepSeek Harness 的 GitHub 集成：PR/Issue/仓库/文件工具、带幂等行内评论与状态门禁的审查机器人、可复用的 GitHub Action，所有写操作均需人工审批。
+
 - [dsh-github-login](https://github.com/Noob-stupid/dsh-github-login) — 一个将令牌同步到 gh CLI 配置的可视化 GitHub 设备码登录工具。
+
+- [dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) — 官方 DeepSeek Harness MCP 客户端的管理控制台：/mcp 命令提供健康诊断，设置页支持审批门禁的服务器增删改与自动备份，并在官方工具管线上提供试调台。
 
 - [dsh-open-in-vscode](https://github.com/FSMargoo/dsh-open-in-vscode) — 可从 DeepSeek Harness Web 界面直接在 VS Code 中打开工作区目录。
 
 - [dsh-opencodego-usage](https://github.com/BeiZi6/dsh-opencodego-usage) — DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。
+
+- [dsh-plugin-doctor](https://github.com/PerryLink/dsh-plugin-doctor) — DeepSeek Harness 插件的零依赖检测器：一次运行覆盖包结构检查、cordis 契约扫描、无密钥无头沙箱冒烟与生态收录校验。
+
+- [dsh-plugin-upgrade](https://github.com/PerryLink/dsh-plugin-upgrade) — 面向 DeepSeek Harness 插件作者的升级技能：一个包内只放一份走廊索引，自动识别调用方 peer 区间并路由到对应已封版升级卡片，附带零依赖接缝扫描器。
 
 - [dsh-recommend](https://github.com/zp-home/dsh-recommend) — DSH 插件透明排行与推荐：每日自动抓取 dsh-plugin 话题生态、公开评分模型，提供榜单/搜索/推荐工具与设置页排行榜。
 
@@ -146,6 +156,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate) — DSH 风险门控自动审批：安全操作自动批准，风险操作转人工审批。
 
+- [dsh-auto-review](https://github.com/PerryLink/dsh-auto-review) — 面向 DeepSeek Harness 审批请求的第二模型 AI 自动审查：只读审查子代理返回带理由的结构化 allow/deny 裁决，默认失败即拒绝，全过程可在会话日志中审计。
+
 - [dsh-evolve](https://github.com/william-jin-cmu/dsh-evolve) — 让智能体在会话中现场编写、热挂载并可逆卸载自己的 cordis 插件，新工具、提示词规则和事件钩子重启后自动恢复。
 
 - [dsh-harness-mcp-server](https://github.com/chushixixin/dsh-harness-mcp-server) — 把 DeepSeek Harness 的 agent 能力暴露为 MCP server，让任意 MCP 客户端（如 Hermes）驱动 Harness 执行编码任务。
@@ -172,6 +184,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-share](https://github.com/hellodigua/dsh-share) — 一键分享 DeepSeek Harness 对话。
 
+- [dsh-ticktick](https://github.com/PerryLink/dsh-ticktick) — DeepSeek Harness 的 TickTick（滴答清单）任务桥：会话头部任务面板支持筛选、搜索与拖拽排序，附带十一个精选代理工具与设置卡片，走官方 TickTick MCP 端点。
+
 - [plugin-notify](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-notify) — 在回合完成、出错或需要审批时发送 IM webhook 和本地通知。
 
 - [plugin-session-export](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-session-export) — 将只追加会话日志导出为可读的 Markdown 或 HTML。
@@ -185,6 +199,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 - [dsh-artifact-library](https://github.com/wyq183/dsh-artifact-library) — DeepSeek Harness 本地优先的产物与资料库：自动采集 AI 产出、AI 整理分类（摘要/标签）、跨会话全文检索、项目级总览。
 
 - [dsh-data-agent](https://github.com/dsh-external/dsh-data-agent) — 帮助智能体连接数据库并编写 SQL 以完成数据任务。
+
+- [dsh-library](https://github.com/PerryLink/dsh-library) — DeepSeek Harness 的本地文档知识库：在工作区内添加、列出与检索资料，混合语义与关键词召回、多样性重排、带引用注入与完整性校验，由本地 SQLite 索引支撑。
 
 - [dsh-memory-evolve](https://github.com/dsh-external/dsh-memory-evolve) — 提供带 Git 分支感知和后台技能进化能力的跨会话长期记忆。
 

@@ -72,6 +72,16 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-settings-plus](https://github.com/oneinitAI/dsh-settings-plus) — Advanced form- and file-level settings management with a plugin settings registration SDK.
 - [dsh-opencodego-usage](https://github.com/BeiZi6/dsh-opencodego-usage) — An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.
 
+- [dsh-cert-mcp](https://github.com/PerryLink/dsh-cert-mcp) — Read-only MCP server over the dsh-plugin-certification registry, so any MCP client can query a plugin certification grade, its five-dimension evidence and the specification itself.
+
+- [dsh-github](https://github.com/PerryLink/dsh-github) — GitHub integration for DeepSeek Harness: pull request, issue, repository and file tools, a review bot with idempotent inline comments and a status gate, and a composite GitHub Action, with every write gated by human approval.
+
+- [dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) — Management console for the official DeepSeek Harness MCP client: a /mcp command with health diagnostics, a Settings tab with approval-gated server CRUD and automatic backups, and a trial console over the official tool pipeline.
+
+- [dsh-plugin-doctor](https://github.com/PerryLink/dsh-plugin-doctor) — Zero-dependency detector for DeepSeek Harness plugins: package-structure checks, cordis contract scanning, a keyless headless sandbox smoke run and ecosystem-listing verification in one pass.
+
+- [dsh-plugin-upgrade](https://github.com/PerryLink/dsh-plugin-upgrade) — Upgrade skill for DeepSeek Harness plugin authors: one package carries one corridor index that detects the caller peer band and routes it to the matching closed corridor card, plus a zero-dependency seam scanner.
+
 ### UI & user experience
 
 - [deepseek-harness-tui](https://github.com/openma-ai/deepseek-harness-tui) — A Rust terminal client that speaks the DSH SDK JSON-RPC protocol directly and runs standalone or as a profile bundle.
@@ -145,6 +155,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-preset-flash-director](https://github.com/zhaoyilun/dsh-preset-flash-director) — A token-economical DSH agent preset that delegates deep reasoning to expert subagents.
 - [plugin-team-board](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-team-board) — A shared multi-agent task board backed by a Cordis service key.
 
+- [dsh-auto-review](https://github.com/PerryLink/dsh-auto-review) — Second-model AI auto-review for DeepSeek Harness approval requests: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default and fully auditable from the session log.
+
 ### Productivity & collaboration
 
 - [deepseek-manners](https://github.com/Moeblack/deepseek-manners) — Appends a thank-you line to every assistant reply.
@@ -159,6 +171,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [plugin-session-export](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-session-export) — Exports append-only session logs as Markdown or HTML.
 - [dsh-lark-meeting-notifier](https://github.com/yeruizhi/dsh-lark-meeting-notifier) — A Feishu meeting reminder panel with today/tomorrow views and flashing alarms.
 - [dsh-im-hub](https://github.com/ThreeBody6666/dsh-im-hub) — A multi-platform IM gateway for Feishu, WeCom, and Telegram with per-chat agent sessions.
+
+- [dsh-ticktick](https://github.com/PerryLink/dsh-ticktick) — TickTick (Dida365) task bridge for DeepSeek Harness: a session-header task panel with filtering, search and drag reordering, eleven curated agent tools and a settings card, over the official TickTick MCP endpoint.
 
 ### Data, research & knowledge
 
@@ -178,6 +192,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-openbiliclaw](https://github.com/whiteguo233/dsh-openbiliclaw) — Brings the local OpenBiliClaw content-recommendation agent into DSH with a persistent UI and 22 agent-bridge tools.
 
 - [dsh-session-search](https://github.com/dsh-external/dsh-session-search) — Provides full-text search across DSH, Codex, Claude Code, pi, and OpenCode sessions.
+
+- [dsh-library](https://github.com/PerryLink/dsh-library) — Local document knowledge base for DeepSeek Harness: add, list and search a workspace library with hybrid semantic and keyword retrieval, diversity re-ranking, citation-aware injection and integrity checks, backed by a local SQLite index.
 
 ### Cloud, DevOps & observability
 
