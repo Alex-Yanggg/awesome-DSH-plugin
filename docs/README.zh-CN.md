@@ -104,6 +104,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-input-history](https://github.com/lhh010/dsh-input-history) — 提供终端风格的 Ctrl+Up / Ctrl+Down 已发送消息导航，并保留最新未发送草稿。
 
+- [dsh-matrix](https://github.com/weibaohui/dsh-matrix) — 黑客帝国数字雨：对话窗口铺上经典的绿色字符雨背景——雨柱倾泻而下、白炽雨头绿身拖尾，agent 正在生成的 token 原文实时掺进雨里；透明度/速度/密度/字号/配色全部可调，雨势跟随 agent 活跃度起伏。
+
 - [dsh-message-edit](https://github.com/Moeblack/dsh-message-edit) — 为 DeepSeek Harness 对话提供基于分支的消息编辑、重新生成、重试和版本时间线。
 
 - [dsh-minigames](https://github.com/lhh010/dsh-minigames) — 为 DSH Web UI 添加可扩展的 18 款离线小游戏面板，适合等待智能体工作时休息。
