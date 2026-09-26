@@ -98,6 +98,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-desktop](https://github.com/howlma/dsh-desktop) — Windows 桌面客户端：打开即拉起或复用 Harness 网关，窗口内嵌官方 Web 界面；托盘常驻，可选开机自启。
 
+- [dsh-gaokao](https://github.com/weibaohui/dsh-gaokao) — 梦回高三：桌面小黑板高考倒计时（双击收成竖条），AI 干活时随机抽背知识点卡；Markdown 开放知识卡框架——按学科/分类放 md 即自动加载，支持关联跳转/收藏/重点学科/导入自己的知识库。
+
 - [dsh-genui](https://github.com/omdsh-dev/dsh-genui) — 在助手回复中内联渲染可交互 UI 组件，支持图表、表单、测验、Mermaid 图、3D 场景和模型动作事件。
 
 - [dsh-grok-tui](https://github.com/chen-001/dsh-grok-tui) — 借用grok-build tui使用dsh

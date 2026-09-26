@@ -131,6 +131,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-plugin-hub](https://github.com/Noob-stupid/dsh-plugin-hub) — A plugin manager and GitHub dsh-plugin marketplace for the DSH Web UI.
 - [dsh-theme-plugin](https://github.com/BeiZi6/dsh-theme-plugin) — A DSH Web GUI theme studio with presets, custom palettes, and instant theme switching.
 
+- [dsh-gaokao](https://github.com/weibaohui/dsh-gaokao) — Gaokao countdown blackboard: desktop blackboard widget counting down days to the gaokao (double-click to collapse into a slim bar), with random knowledge-card quizzes while the agent works; open Markdown knowledge-card framework — drop .md files under subject/category folders to auto-load, with cross-links, favorites, priority subjects and importing your own knowledge base.
+
 ### Agent orchestration & automation
 
 - [dsh-evolve](https://github.com/william-jin-cmu/dsh-evolve) — Lets the agent write, hot-mount, and reversibly remove its own cordis plugins mid-session, growing new tools, prompt rules, and event hooks that persist across restarts.

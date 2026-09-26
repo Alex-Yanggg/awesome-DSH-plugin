@@ -768,6 +768,12 @@
       "description": {"en": "A DSH Web GUI theme studio with built-in presets, customizable palettes, and instant theme switching.", "zh-CN": "DSH Web GUI 主题工作室，提供内置预设、可自定义配色和即时主题切换。"}
     },
     {
+      "name": "dsh-gaokao",
+      "url": "https://github.com/weibaohui/dsh-gaokao",
+      "category": "ui-user-experience",
+      "description": {"en": "Gaokao countdown blackboard: desktop blackboard widget counting down days to the gaokao (double-click to collapse into a slim bar), with random knowledge-card quizzes while the agent works; open Markdown knowledge-card framework, drop .md files under subject/category folders to auto-load, with cross-links, favorites, priority subjects and importing your own knowledge base.", "zh-CN": "梦回高三：桌面小黑板高考倒计时（双击收成竖条），AI 干活时随机抽背知识点卡；Markdown 开放知识卡框架——按学科/分类放 md 即自动加载，支持关联跳转/收藏/重点学科/导入自己的知识库。"}
+    },
+    {
       "name": "dsh-opencodego-usage",
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
