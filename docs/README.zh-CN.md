@@ -60,6 +60,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-custom-tool](https://github.com/FSMargoo/dsh-custom-tool) — 通过 Monaco 编辑器及模型驱动的生命周期创建和管理沙箱化 JavaScript 工具。
 
+- [dsh-gemini-pool](https://github.com/qikairo7/dsh-gemini-pool) — 多账号 Google Gemini 提供商：按剩余额度挑选账号，遇 429 指数退避切换，后台探活已禁用账号。
+
 - [dsh-git-identity](https://github.com/LoserFox/dsh-git-identity) — 将 Git 提交作者身份固定为当前环境身份，并优先使用已登录的 GitHub CLI 账号。
 
 - [dsh-github-login](https://github.com/Noob-stupid/dsh-github-login) — 一个将令牌同步到 gh CLI 配置的可视化 GitHub 设备码登录工具。
