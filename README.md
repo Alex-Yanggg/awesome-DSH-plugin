@@ -71,6 +71,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [plugin-manager](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-manager) — An in-app DSH Web UI plugin store with browsing, search, installation, compatibility badges, and an installed list.
 - [dsh-settings-plus](https://github.com/oneinitAI/dsh-settings-plus) — Advanced form- and file-level settings management with a plugin settings registration SDK.
 - [dsh-opencodego-usage](https://github.com/BeiZi6/dsh-opencodego-usage) — An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.
+- [dsh-gemini-pool](https://github.com/qikairo7/dsh-gemini-pool) — Multi-account Google Gemini provider for DSH: picks accounts by remaining quota, backs off exponentially on 429, and probes disabled accounts in the background.
 
 ### UI & user experience
 
