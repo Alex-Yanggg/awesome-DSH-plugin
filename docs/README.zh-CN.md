@@ -148,6 +148,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-evolve](https://github.com/william-jin-cmu/dsh-evolve) — 让智能体在会话中现场编写、热挂载并可逆卸载自己的 cordis 插件，新工具、提示词规则和事件钩子重启后自动恢复。
 
+- [dsh-flow](https://github.com/weibaohui/dsh-flow) — 执行流程图：把当前会话的执行过程画成一条纵向节点流（回合/用户/助手/工具/审批/重试/压缩），SSE 实时追加——会话执行到哪，图就画到哪，自动跟随滚动。
+
 - [dsh-harness-mcp-server](https://github.com/chushixixin/dsh-harness-mcp-server) — 把 DeepSeek Harness 的 agent 能力暴露为 MCP server，让任意 MCP 客户端（如 Hermes）驱动 Harness 执行编码任务。
 
 - [dsh-loop](https://github.com/vlln/dsh-loop) — 通过 /loop 命令、loop 工具和活动状态条提供定时循环能力。
