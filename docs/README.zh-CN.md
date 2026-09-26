@@ -98,6 +98,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-desktop](https://github.com/howlma/dsh-desktop) — Windows 桌面客户端：打开即拉起或复用 Harness 网关，窗口内嵌官方 Web 界面；托盘常驻，可选开机自启。
 
+- [dsh-fireworks](https://github.com/weibaohui/dsh-fireworks) — 烟花庆祝引擎：agent 编程时漂浮在对话窗口上空放烟花——开场迎宾、回合礼花、工具星花、里程碑大礼、收工终场、失败哑炮，每类事件一张烟花属性卡组，组内多变种随机抽取，token 用量决定烟花的大小、高度与绚烂程度。
+
 - [dsh-genui](https://github.com/omdsh-dev/dsh-genui) — 在助手回复中内联渲染可交互 UI 组件，支持图表、表单、测验、Mermaid 图、3D 场景和模型动作事件。
 
 - [dsh-grok-tui](https://github.com/chen-001/dsh-grok-tui) — 借用grok-build tui使用dsh
