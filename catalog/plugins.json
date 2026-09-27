@@ -772,6 +772,12 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-config-manager",
+      "url": "https://github.com/xiajiajun516/dsh-config-manager",
+      "category": "cloud-devops-observability",
+      "description": {"en": "Backup, restore, export, import, migrate and sync a DSH configuration - settings, providers, plugins, MCP servers, skills, agent presets and workspaces - with a dry-run preview, per-item conflict decisions, rollback on failure, cross-machine path remapping and Git / WebDAV sync.", "zh-CN": "DSH 配置的备份、恢复、导出、导入、迁移与同步：覆盖设置、Provider、插件、MCP、技能、Agent 预设与工作区；写盘前先 dry-run 预览、冲突逐项决策、失败自动回滚，跨机自动重映射路径，支持 Git / WebDAV 同步与内置配置市场。"}
     }
   ]
 }

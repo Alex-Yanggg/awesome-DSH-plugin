@@ -198,6 +198,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 ### 云、DevOps 与可观测性
 
+- [dsh-config-manager](https://github.com/xiajiajun516/dsh-config-manager) — DSH 配置的备份、恢复、导出、导入、迁移与同步：覆盖设置、Provider、插件、MCP、技能、Agent 预设与工作区；写盘前先 dry-run 预览、冲突逐项决策、失败自动回滚，跨机自动重映射路径，支持 Git / WebDAV 同步与内置配置市场。
+
 - [dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) — DeepSeek Harness 会话与当日 API 费用、预算与官方余额统计插件：历史看板、峰谷计价与官方价格一键同步。
 
 - [dsh-harness-ops](https://github.com/fakechris/dsh-harness-ops) — 运维工具箱，提供 A/B 快照升级、自动恢复、回滚和诊断式自愈命令。
