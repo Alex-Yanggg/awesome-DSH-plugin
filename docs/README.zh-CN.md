@@ -50,6 +50,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-artifact](https://github.com/william-jin-cmu/dsh-artifact) — 提供 send_artifact 工具，校验模型产出的文件并通过 dsh 标准事件流交付结构化描述子，任何客户端都可按需呈现。
 
+- [dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) — 一条命令备份与恢复整个 DSH 工作区：定时备份、带校验和并在失败时自动回滚的恢复、从良好归档定点修复会话日志，以及 dsh 起不来时也能用的进程外救援台。
+
 - [dsh-balance-meter](https://github.com/Ghost011118/dsh-balance-meter) — 在 DSH Web 输入框下方实时显示 DeepSeek 账户余额与本场会话花费，自动抓取官方价格并支持峰谷计价。
 
 - [dsh-bash-encoding](https://github.com/lhh010/dsh-bash-encoding) — 自动识别并解码 UTF-16LE、UTF-8、GBK 等 Bash 输出编码，修复 Windows 与 WSL 下的乱码。

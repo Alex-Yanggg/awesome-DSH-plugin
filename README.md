@@ -45,6 +45,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-artifact](https://github.com/william-jin-cmu/dsh-artifact) — A send_artifact tool that validates model-produced files and delivers structured descriptors through the standard dsh event stream for any client to render.
 
+- [dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) — One-command backup and restore for the whole DSH workspace, covering scheduled backups, checksum-verified restore with rollback, session-log repair from a good archive, and a rescue console that works when dsh will not boot.
+
 - [dsh-bash-encoding](https://github.com/lhh010/dsh-bash-encoding) — Automatically detects and decodes Bash output encodings including UTF-16LE, UTF-8, and GBK for Windows and WSL.
 
 - [dsh-custom-tool](https://github.com/FSMargoo/dsh-custom-tool) — Create and manage sandboxed JavaScript tools with a Monaco editor and a model-driven lifecycle.
