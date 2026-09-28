@@ -130,6 +130,15 @@
       }
     },
     {
+      "name": "dsh-backup",
+      "url": "https://github.com/xiaoyuyu6420/dsh-backup",
+      "category": "developer-tools",
+      "description": {
+        "en": "One-command backup and restore for the whole DSH workspace, covering scheduled backups, checksum-verified restore with rollback, session-log repair from a good archive, and a rescue console that works when dsh will not boot.",
+        "zh-CN": "一条命令备份与恢复整个 DSH 工作区：定时备份、带校验和并在失败时自动回滚的恢复、从良好归档定点修复会话日志，以及 dsh 起不来时也能用的进程外救援台。"
+      }
+    },
+    {
       "name": "Prompt Studio",
       "url": "https://github.com/Moeblack/dsh-prompt-studio",
       "category": "ui-user-experience",
