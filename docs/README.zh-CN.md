@@ -138,6 +138,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-web-review](https://github.com/CanglongCl/dsh-web-review) — 在 DSH Web 中嵌入隔离网页预览，通过元素批注和可视化调整指导源码修改。
 
+- [dsh-workspace-mover](https://github.com/PianoPrince/dsh-workspace-mover) — 跨工作区真原位迁移会话——拖拽迁移、批量与整组移动、孤儿救援面板、工作区搬家向导、可还原回收站、字节级备份与逐步回滚加迁移后校验，并提供带审批门的 dsh-tools Agent 工具。
+
 - [Prompt Studio](https://github.com/Moeblack/dsh-prompt-studio) — 编辑用户与内置系统提示词段落，支持实时预览。
 
 - [whale-girl](https://github.com/vlln/whale-girl) — DSH Web GUI 的可拖拽互动桌面宠物伙伴，支持投喂和玩耍等交互。

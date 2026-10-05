@@ -88,6 +88,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-genui](https://github.com/omdsh-dev/dsh-genui) — Renders interactive UI components inline in assistant replies, including charts, forms, quizzes, Mermaid diagrams, 3D scenes, and model action events.
 
+- [dsh-workspace-mover](https://github.com/PianoPrince/dsh-workspace-mover) — Moves sessions across workspaces with true in-place migration: drag-and-drop, bulk and whole-group moves, orphan rescue, recycle bin, byte-level backup with rollback, and dsh-tools agent tools.
+
 - [dsh-grok-tui](https://github.com/chen-001/dsh-grok-tui) — Use dsh via grok-build's tui.
 
 - [dsh-input-history](https://github.com/lhh010/dsh-input-history) — Adds terminal-style Ctrl+Up and Ctrl+Down navigation through sent messages while preserving the latest unsent draft.
