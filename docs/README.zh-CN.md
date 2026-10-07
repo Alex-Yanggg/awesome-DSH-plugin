@@ -223,6 +223,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 ### 生活、设备与物理世界
 
 - [dsh-adb](https://github.com/SamXiaBing/dsh-adb) — DSH 的 ADB 设备与台架操作：设备发现、logcat 流、APK 安装、文件传输和性能快照。
+
+- [dsh-ambient](https://github.com/weibaohui/dsh-ambient) — 白噪音播放器：AI 编程时铺一层背景音（雨声、溪流、篝火、咖啡馆……），帮助进入心流状态、集中精力、高效思考，让你写代码又快又好。支持顺序/随机/单曲循环/间歇等多种播放模式。支持 AI 自动下载背景音乐。
 <!-- CATALOG:END -->
 
 ## 提交 Plugin

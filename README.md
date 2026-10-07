@@ -205,6 +205,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-adb](https://github.com/SamXiaBing/dsh-adb) — ADB device and bench operations for DeepSeek Harness, including logcat, APK, file, and performance tools.
 
+- [dsh-ambient](https://github.com/weibaohui/dsh-ambient) — White noise player: lays a layer of background sound (rain, streams, campfire, café…) while AI codes, helping you enter flow, stay focused and think efficiently, so you write code fast and well. Supports multiple playback modes (sequential / shuffle / single-loop / intermittent) and AI automatic background music download.
+
 ## Add a plugin
 
 Additions are welcome. Please read [the contribution guide](CONTRIBUTING.md). The English catalog in this README is maintained by hand. Add matching bilingual metadata to [`catalog/plugins.json`](catalog/plugins.json) to update the Simplified Chinese mirror, then run:
