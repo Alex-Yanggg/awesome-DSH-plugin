@@ -80,6 +80,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [plugin-registry](https://github.com/vlln/plugin-registry) — 基于浏览器的 Plugin 管理控制台，并提供官方 DSH Plugin 开发引导。
 
+- [sofagent](https://github.com/KongFangXun/sofagent) — 面向 DeepSeek Harness 及任意 AI 编程 agent 的提交时审计 harness：28 条 git diff 规则（密钥泄漏、越界改动、提示注入）、HMAC 签名审计链、快照回滚、完整工具面的 MCP server，以及把这套护栏引入 DSH 的 cordis 插件家族。
+
 ### 界面与用户体验
 
 - [deepseek-harness-tui](https://github.com/openma-ai/deepseek-harness-tui) — Rust 终端客户端，直接使用 DSH SDK JSON-RPC 协议，支持独立运行或作为 profile bundle 加载。
