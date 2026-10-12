@@ -120,6 +120,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-web-review](https://github.com/CanglongCl/dsh-web-review) — Embeds isolated web page previews in DSH Web for element annotations and visual adjustments that guide source edits.
 
+- [DSH_Mobile](https://github.com/jayantTang/DSH_Mobile) — Native iOS client for the DSH sessions running on your own computer, connected through a host-side plugin and a self-hostable WSS relay so the phone works over 4G/5G without a public IP.
+
 - [Prompt Studio](https://github.com/Moeblack/dsh-prompt-studio) — Edit user and built-in system-prompt sections with live preview.
 
 - [whale-girl](https://github.com/vlln/whale-girl) — A draggable, interactive desktop pet companion for the DSH Web GUI with feeding and play interactions.

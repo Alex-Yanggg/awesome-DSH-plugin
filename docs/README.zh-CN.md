@@ -138,6 +138,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-web-review](https://github.com/CanglongCl/dsh-web-review) — 在 DSH Web 中嵌入隔离网页预览，通过元素批注和可视化调整指导源码修改。
 
+- [DSH_Mobile](https://github.com/jayantTang/DSH_Mobile) — 在 iPhone 上远程使用自己电脑上 DSH 会话的原生客户端：通过电脑侧插件与可自建的公网 WSS 中转连接，手机在 4G/5G 下无需公网 IP 即可使用。
+
 - [Prompt Studio](https://github.com/Moeblack/dsh-prompt-studio) — 编辑用户与内置系统提示词段落，支持实时预览。
 
 - [whale-girl](https://github.com/vlln/whale-girl) — DSH Web GUI 的可拖拽互动桌面宠物伙伴，支持投喂和玩耍等交互。
