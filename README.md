@@ -71,6 +71,9 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [plugin-manager](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-manager) — An in-app DSH Web UI plugin store with browsing, search, installation, compatibility badges, and an installed list.
 - [dsh-settings-plus](https://github.com/oneinitAI/dsh-settings-plus) — Advanced form- and file-level settings management with a plugin settings registration SDK.
 - [dsh-opencodego-usage](https://github.com/BeiZi6/dsh-opencodego-usage) — An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.
+- [dsh-plugin-index](https://github.com/ymck-x/dsh-plugin-index) — In-DSH plugin index: lists over 10,000 third-party plugins checked against the `dsh.bundle` manifest in their `package.json`, with one-click install and a companion website.
+- [dsh-session-continuity](https://github.com/ymck-x/dsh-session-continuity) — Injects a small continuity pointer at the start of a new session, naming the previous session and any handoff file, and reuses DSH's own compaction summary when there is no handoff file.
+- [dsh-skill-starter](https://github.com/ymck-x/dsh-skill-starter) — Skill manager with 6 built-in skills and a 20-skill Chinese engineering pack (requirements grilling, ticketing, TDD, two-axis code review, retro), grouped by the situation you are in; upgrading a pack never overwrites files you edited.
 
 ### UI & user experience
 

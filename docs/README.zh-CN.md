@@ -68,9 +68,15 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-opencodego-usage](https://github.com/BeiZi6/dsh-opencodego-usage) — DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。
 
+- [dsh-plugin-index](https://github.com/ymck-x/dsh-plugin-index) — DSH 内的插件索引：收录 1 万余个按 package.json 里 dsh.bundle 声明校验过的插件，不按星数判定，支持一键安装，另有配套网站。
+
 - [dsh-recommend](https://github.com/zp-home/dsh-recommend) — DSH 插件透明排行与推荐：每日自动抓取 dsh-plugin 话题生态、公开评分模型，提供榜单/搜索/推荐工具与设置页排行榜。
 
+- [dsh-session-continuity](https://github.com/ymck-x/dsh-session-continuity) — 新会话开始时注入一条很小的接续指针：上一个会话是谁、工作区有没有交接文档；没有交接文档时复用 DSH 已有的压缩摘要，不调用模型。
+
 - [dsh-settings-plus](https://github.com/oneinitAI/dsh-settings-plus) — DeepSeek Harness 高级设置管理器，支持表单级和文件级配置编辑及插件设置 SDK。
+
+- [dsh-skill-starter](https://github.com/ymck-x/dsh-skill-starter) — 技能管理器：自带 6 个基础技能与 20 个中文工程流程技能包（拷问需求、拆票、TDD、双轴代码审查、复盘），按「你遇到的问题」分组展示；升级技能包不会覆盖你改过的文件。
 
 - [dsh-spend](https://github.com/nonewind/dsh-spend) — DSH Web 的用量与预计花费统计，支持按模型、日期和会话查看。
 
