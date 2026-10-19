@@ -170,6 +170,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-notification](https://github.com/FSMargoo/dsh-notification) — 在 DeepSeek Harness 回合完成时发送桌面通知，并支持按结果和关键词制定规则。
 
+- [dsh-notify-me](https://github.com/chromoany/dsh-notify-me) — 为 DSH Web 与 Desktop 的待处理交互和后台回复完成提供系统通知、提示音与标题标记，并支持可选的 Webhook 转发。
+
 - [dsh-share](https://github.com/hellodigua/dsh-share) — 一键分享 DeepSeek Harness 对话。
 
 - [plugin-notify](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-notify) — 在回合完成、出错或需要审批时发送 IM webhook 和本地通知。

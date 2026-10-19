@@ -772,6 +772,17 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-notify-me",
+      "url": "https://github.com/chromoany/dsh-notify-me",
+      "category": "productivity-collaboration",
+      "description": {
+        "en": "Desktop notifications, sounds, and title markers for action requests and background replies in DSH Web and Desktop, with optional webhook forwarding.",
+        "zh-CN": "为 DSH Web 与 Desktop 的待处理交互和后台回复完成提供系统通知、提示音与标题标记，并支持可选的 Webhook 转发。"
+      },
+      "status": "active",
+      "source": "community"
     }
   ]
 }

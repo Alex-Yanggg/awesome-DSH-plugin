@@ -147,6 +147,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 ### Productivity & collaboration
 
+- [dsh-notify-me](https://github.com/chromoany/dsh-notify-me) — Desktop notifications, sounds, and title markers for action requests and background replies in DSH Web and Desktop, with optional webhook forwarding.
+
 - [deepseek-manners](https://github.com/Moeblack/deepseek-manners) — Appends a thank-you line to every assistant reply.
 
 - [dsh-companion](https://github.com/william-jin-cmu/dsh-companion) — A DeepSeek Harness distribution of the Cetus macOS desktop agent: a resident chat companion with global hotkey, screen context, scheduled tasks, and file hand-off.
