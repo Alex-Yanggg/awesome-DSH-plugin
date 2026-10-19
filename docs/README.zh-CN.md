@@ -144,6 +144,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 ### 智能体编排与自动化
 
+- [dsh-advisor](https://github.com/wweir/dsh-advisor) — 自动二审：受限子会话用只读工具复核 agent 最近的工作，最多记录一条有证据支撑的提醒，没有问题则保持沉默。
+
 - [dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate) — DSH 风险门控自动审批：安全操作自动批准，风险操作转人工审批。
 
 - [dsh-evolve](https://github.com/william-jin-cmu/dsh-evolve) — 让智能体在会话中现场编写、热挂载并可逆卸载自己的 cordis 插件，新工具、提示词规则和事件钩子重启后自动恢复。
