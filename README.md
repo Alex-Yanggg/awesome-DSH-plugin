@@ -133,6 +133,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 ### Agent orchestration & automation
 
+- [dsh-advisor](https://github.com/wweir/dsh-advisor) — Automatic second-opinion review: a restricted child session re-reads the agent's recent work with read-only tools and records at most one evidence-backed note, or stays silent.
+
 - [dsh-evolve](https://github.com/william-jin-cmu/dsh-evolve) — Lets the agent write, hot-mount, and reversibly remove its own cordis plugins mid-session, growing new tools, prompt rules, and event hooks that persist across restarts.
 
 - [dsh-harness-mcp-server](https://github.com/chushixixin/dsh-harness-mcp-server) — Expose DeepSeek Harness agent capabilities as an MCP server, letting any MCP client (e.g. Hermes) drive Harness to execute coding tasks.
