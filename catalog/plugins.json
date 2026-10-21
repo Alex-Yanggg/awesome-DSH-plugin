@@ -772,6 +772,18 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-coding-sound",
+      "url": "https://github.com/mhlywxl/dsh-coding-sound",
+      "category": "productivity-collaboration",
+      "description": {"en": "Generative background music while the model streams, plus completion and waiting chimes, with per-phase thinking/answer/tool sounds.", "zh-CN": "模型输出时演奏生成式背景音乐，完成与等待操作各有提示音，思考/回答/工具执行可分别调节。"}
+    },
+    {
+      "name": "dsh-split-workspace",
+      "url": "https://github.com/mhlywxl/dsh-split-workspace",
+      "category": "ui-user-experience",
+      "description": {"en": "Splits the DSH conversation area into unlimited native panes — side by side, stacked, 2x2 and an automatic grid — each a real session.", "zh-CN": "把 DSH 对话区拆成任意数量的原生窗格：左右、上下、田字 2x2 与自动网格，每个窗格都是独立会话。"}
     }
   ]
 }

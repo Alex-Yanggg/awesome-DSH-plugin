@@ -104,6 +104,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-skin](https://github.com/KinGao294/dsh-skin) — Codex-style skin switcher + custom wallpaper for the DSH Web UI: curated --dsw-alias-* palettes, translucent main canvas/sidebar (overrideTokens) with opacity and blur controls.
 
+- [dsh-split-workspace](https://github.com/mhlywxl/dsh-split-workspace) — Splits the DSH conversation area into unlimited native panes — side by side, stacked, 2x2 and an automatic grid — each a real session.
+
 - [dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) — A shared sticker catalog serving the Web UI picker, a /sticker command, and an agent send_sticker tool, with two character variants and workflow-reaction stickers.
 
 - [dsh-sticky-disclosure](https://github.com/Han-1413141/dsh-sticky-disclosure) — One-click collapse of every expanded section in the DSH Web UI (Think rows, tool cards) with a live-count pill and a customizable hotkey.
@@ -148,6 +150,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 ### Productivity & collaboration
 
 - [deepseek-manners](https://github.com/Moeblack/deepseek-manners) — Appends a thank-you line to every assistant reply.
+
+- [dsh-coding-sound](https://github.com/mhlywxl/dsh-coding-sound) — Generative background music while the model streams, plus completion and waiting chimes, with per-phase thinking/answer/tool sounds.
 
 - [dsh-companion](https://github.com/william-jin-cmu/dsh-companion) — A DeepSeek Harness distribution of the Cetus macOS desktop agent: a resident chat companion with global hotkey, screen context, scheduled tasks, and file hand-off.
 
