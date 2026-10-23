@@ -772,6 +772,15 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-provider-proxy",
+      "url": "https://github.com/apolenkov/dsh-provider-proxy",
+      "category": "developer-tools",
+      "description": {
+        "en": "Per-provider and per-model outbound proxy routing for model calls, configured from a Settings page.",
+        "zh-CN": "按提供商主机或模型 ID 将模型请求分流到指定代理，可在设置页配置。"
+      }
     }
   ]
 }
