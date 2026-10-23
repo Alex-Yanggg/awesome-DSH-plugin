@@ -772,6 +772,17 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-hold-to-dictate",
+      "url": "https://github.com/jryang1997/dsh-hold-to-dictate",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Hold-to-talk dictation in the composer that reuses the official voice-input bundle's speech service: long-press the input box, release to write the transcript into the draft, and it never sends.",
+        "zh-CN": "输入框长按听写，复用官方语音输入模块已挂载的语音服务：长按输入框，松开后把转写写入草稿，不会自动发送。"
+      },
+      "status": "active",
+      "source": "community"
     }
   ]
 }
