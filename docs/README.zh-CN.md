@@ -64,6 +64,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-github-login](https://github.com/Noob-stupid/dsh-github-login) — 一个将令牌同步到 gh CLI 配置的可视化 GitHub 设备码登录工具。
 
+- [dsh-mcp-tools](https://github.com/hxlog/dsh-mcp-tools) — DSH 设置内的 MCP 服务器与工具管理器：添加 streamable-http 或 stdio 服务器，像 Postman 一样逐行填写请求头，测试连通性，并按工具开关——停用的工具不会注册进模型。
+
 - [dsh-open-in-vscode](https://github.com/FSMargoo/dsh-open-in-vscode) — 可从 DeepSeek Harness Web 界面直接在 VS Code 中打开工作区目录。
 
 - [dsh-opencodego-usage](https://github.com/BeiZi6/dsh-opencodego-usage) — DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。
