@@ -88,6 +88,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) — 提供 Codex 风格文本批注：选中文字、将批注附加到下一条消息，并获得逐条对应的回复。
 
+- [dsh-ascii-whales](https://github.com/jryang1997/dsh-ascii-whales) — 海面正上方俯视的对话背景，支持用自定义文字或 ASCII 组成五种鲸类，含彩色字格、内容框毛玻璃、输入框避让、独立下潜、喷水、尾拍涟漪、风纹与云影。
+
 - [dsh-at-file](https://github.com/FSMargoo/dsh-at-file) — 提供 Codex 风格的 @file 引用，可搜索工作区文件并将内容附加到提示词。
 
 - [dsh-browser-panel](https://github.com/dsh-external/dsh-browser-panel) — 在 DSH Web UI 中嵌入有头浏览器，让智能体操作真实浏览器并向用户展示每一步。

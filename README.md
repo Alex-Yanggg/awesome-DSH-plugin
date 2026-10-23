@@ -80,6 +80,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) — Adds Codex-style text annotations: select text, attach a note to the next message, and receive annotation-aware replies.
 
+- [dsh-ascii-whales](https://github.com/jryang1997/dsh-ascii-whales) — Overhead conversation background with five whale species formed from custom text or ASCII, shaded cells, frosted content cards, input-box avoidance, independent dives, spouts, ripples, wind, and cloud shadows.
+
 - [dsh-at-file](https://github.com/FSMargoo/dsh-at-file) — Adds Codex-style @file mentions to search workspace files and attach their contents to prompts.
 
 - [dsh-browser-panel](https://github.com/dsh-external/dsh-browser-panel) — Embeds a headed browser in the DSH Web UI so agents can operate a real browser with visible steps.

@@ -772,6 +772,17 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-ascii-whales",
+      "url": "https://github.com/jryang1997/dsh-ascii-whales",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "Overhead conversation background with five whale species formed from custom text or ASCII, shaded cells, frosted content cards, input-box avoidance, independent dives, spouts, ripples, wind, and cloud shadows.",
+        "zh-CN": "海面正上方俯视的对话背景，支持用自定义文字或 ASCII 组成五种鲸类，含彩色字格、内容框毛玻璃、输入框避让、独立下潜、喷水、尾拍涟漪、风纹与云影。"
+      },
+      "status": "active",
+      "source": "community"
     }
   ]
 }
