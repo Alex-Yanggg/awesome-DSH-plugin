@@ -140,6 +140,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [Prompt Studio](https://github.com/Moeblack/dsh-prompt-studio) — 编辑用户与内置系统提示词段落，支持实时预览。
 
+- [ui-muyu](https://github.com/TongY1n/ui-muyu) — DSH Web UI 的赛博木鱼悬浮小摆件：点击敲击累积功德，可随意拖拽，刷新页面不丢进度。
+
 - [whale-girl](https://github.com/vlln/whale-girl) — DSH Web GUI 的可拖拽互动桌面宠物伙伴，支持投喂和玩耍等交互。
 
 ### 智能体编排与自动化

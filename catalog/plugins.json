@@ -247,6 +247,15 @@
       }
     },
     {
+      "name": "ui-muyu",
+      "url": "https://github.com/TongY1n/ui-muyu",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "A floating cyber wooden fish widget for the DSH Web UI: tap it to strike and accumulate merit, drag it anywhere, and progress survives reloads.",
+        "zh-CN": "DSH Web UI 的赛博木鱼悬浮小摆件：点击敲击累积功德，可随意拖拽，刷新页面不丢进度。"
+      }
+    },
+    {
       "name": "dsh-emoji",
       "url": "https://github.com/hellodigua/dsh-emoji",
       "category": "ai-design-media",
