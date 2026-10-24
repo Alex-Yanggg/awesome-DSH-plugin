@@ -124,6 +124,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [whale-girl](https://github.com/vlln/whale-girl) — A draggable, interactive desktop pet companion for the DSH Web GUI with feeding and play interactions.
 
+- [ui-muyu](https://github.com/TongY1n/ui-muyu) — A floating cyber wooden fish widget for the DSH Web UI: tap it to strike and accumulate merit, drag it anywhere, and progress survives reloads.
+
 - [dsh-plugin-wallpaper](https://github.com/Tree-Summer/dsh-plugin-wallpaper) — Set your own background image as the DSH Web UI wallpaper, with per-region visibility controls for the main interface, sidebar, input, and bubbles (data URI / URL / local file path).
 
 - [dsh-desktop](https://github.com/howlma/dsh-desktop) — A Windows desktop client that boots or reuses the Harness gateway and embeds the official Web UI.
