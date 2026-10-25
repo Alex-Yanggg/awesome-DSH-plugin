@@ -768,6 +768,17 @@
       "description": {"en": "A DSH Web GUI theme studio with built-in presets, customizable palettes, and instant theme switching.", "zh-CN": "DSH Web GUI 主题工作室，提供内置预设、可自定义配色和即时主题切换。"}
     },
     {
+      "name": "dsh-usage-chart",
+      "url": "https://github.com/Max-Samson/dsh-usage-chart",
+      "category": "ui-user-experience",
+      "description": {
+        "en": "A DeepSeek Harness Web dashboard for real-time token usage, estimated costs, per-round charts, and DeepSeek API balance.",
+        "zh-CN": "DeepSeek Harness Web 用量仪表盘，展示实时 Token 用量、费用估算、逐轮图表和 DeepSeek API 余额。"
+      },
+      "status": "active",
+      "source": "community"
+    },
+    {
       "name": "dsh-opencodego-usage",
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
