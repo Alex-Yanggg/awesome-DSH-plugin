@@ -771,7 +771,12 @@
       "name": "dsh-opencodego-usage",
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
-      "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+      "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}    },
+    {
+      "name": "dsh-sidebar-density",
+      "url": "https://github.com/LUgABeEEE/dsh-sidebar-density",
+      "category": "ui-user-experience",
+      "description": {"en": "Lightweight sidebar UI for DeepSeek Harness: five fold switches, three density presets and three width presets, served from one footer row plus a settings section, with no dependencies and no background service.", "zh-CN": "轻量级侧栏 UI：五个折叠开关、三档密度预设与三档宽度预设，入口收在底部一行与设置分区；无依赖、无后台服务。"}
     }
   ]
 }

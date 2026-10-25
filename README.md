@@ -102,6 +102,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-qq2006](https://github.com/LaplaceYoung/dsh-qq2006) — A switchable QQ2006 skin for the DeepSeek Harness Web UI with a coral-blue theme and retro assets.
 
+- [dsh-sidebar-density](https://github.com/LUgABeEEE/dsh-sidebar-density) — Lightweight sidebar UI for DeepSeek Harness: five fold switches, three density presets and three width presets, served from one footer row plus a settings section, with no dependencies and no background service.
+
 - [dsh-skin](https://github.com/KinGao294/dsh-skin) — Codex-style skin switcher + custom wallpaper for the DSH Web UI: curated --dsw-alias-* palettes, translucent main canvas/sidebar (overrideTokens) with opacity and blur controls.
 
 - [dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) — A shared sticker catalog serving the Web UI picker, a /sticker command, and an agent send_sticker tool, with two character variants and workflow-reaction stickers.
