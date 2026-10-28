@@ -671,6 +671,7 @@
       "category": "ai-design-media",
       "description": {"en": "Vision toolkit for DeepSeek Harness with a vision_understand tool bridging text-only DeepSeek models to OpenAI-compatible vision APIs.", "zh-CN": "DeepSeek Harness 视觉工具包：通过 vision_understand 将纯文本 DeepSeek 模型桥接到 OpenAI 兼容视觉 API。"}
     },
+    { "name": "PromptReel", "url": "https://github.com/Thanksgiver233/PromptReel", "category": "ai-design-media", "description": {"en": "Video prompt hub DSH plugin: one idea rewritten per AI video model's own syntax across 15 platforms, with storyboard scripts; 1 Skill and 5 native tools, zero dependencies.", "zh-CN": "视频提示词中枢 DSH 插件：同一个创意按 15 个视频模型的各自写法重排并生成分镜脚本，含 1 个 Skill 与 5 个原生工具，零依赖。"}, "status": "active", "source": "community" },
     {
       "name": "dsh-approval-gate",
       "url": "https://github.com/moon09300731/dsh-approval-gate",

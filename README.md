@@ -196,6 +196,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) — Adds image Q&A, long-screenshot OCR, UI restoration, visual grounding, pixel diffs, and artifacts.
 
 - [dsh-vision-tools](https://github.com/moon09300731/dsh-vision-tools) — A vision toolkit that bridges text-only DeepSeek models to OpenAI-compatible vision APIs.
+  
+- [PromptReel](https://github.com/Thanksgiver233/PromptReel) — Video prompt hub DSH plugin: one idea rewritten per AI video model's own syntax across 15 platforms, with storyboard scripts; 1 Skill and 5 native tools, zero dependencies.
 
 ### Business, finance & commerce
 
