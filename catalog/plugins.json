@@ -63,6 +63,13 @@
         "en": "Life, devices & the physical world",
         "zh-CN": "生活、设备与物理世界"
       }
+    },
+    {
+      "id": "resources",
+      "title": {
+        "en": "Resources",
+        "zh-CN": "资源"
+      }
     }
   ],
   "plugins": [
@@ -772,6 +779,12 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "DeepSeekDSH",
+      "url": "https://deepseekdsh.com/",
+      "category": "resources",
+      "description": {"en": "Free independent DeepSeek Harness guides — install, configure, plugins, MCP and troubleshooting, in English and Chinese.", "zh-CN": "免费独立的 DeepSeek Harness 指南站——安装、配置、插件、MCP 与排错，中英文。"}
     }
   ]
 }

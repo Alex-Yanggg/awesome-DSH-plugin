@@ -22,6 +22,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
   - [AI, design & media](#ai-design--media)
   - [Business, finance & commerce](#business-finance--commerce)
   - [Life, devices & the physical world](#life-devices--the-physical-world)
+  - [Resources](#resources)
 - [Add a plugin](#add-a-plugin)
 - [Catalog rules](#catalog-rules)
 
@@ -204,6 +205,10 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 ### Life, devices & the physical world
 
 - [dsh-adb](https://github.com/SamXiaBing/dsh-adb) — ADB device and bench operations for DeepSeek Harness, including logcat, APK, file, and performance tools.
+
+### Resources
+
+- [DeepSeekDSH](https://deepseekdsh.com/) — Free independent DeepSeek Harness guides — install, configure, plugins, MCP and troubleshooting, in English and Chinese.
 
 ## Add a plugin
 
