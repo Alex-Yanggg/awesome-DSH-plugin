@@ -179,6 +179,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-session-search](https://github.com/dsh-external/dsh-session-search) — Provides full-text search across DSH, Codex, Claude Code, pi, and OpenCode sessions.
 
+- [dsh-study-mode](https://github.com/waspqj/dsh-study-mode) — Learning-mode agent preset plus a sidebar knowledge-base panel: answers retrieve topic library → global topics → model knowledge → web in that order, citing the source on a hit and marking unverified misses; cards are grouped by source file and linked to related cards.
+
 ### Cloud, DevOps & observability
 
 - [dsh-harness-ops](https://github.com/fakechris/dsh-harness-ops) — Operations toolkit with A/B snapshot upgrades, automatic recovery, rollback, and a diagnostic self-healing command.
