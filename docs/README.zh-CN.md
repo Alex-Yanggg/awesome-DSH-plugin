@@ -196,6 +196,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-session-search](https://github.com/dsh-external/dsh-session-search) — 支持跨 DSH、Codex、Claude Code、pi 与 OpenCode 会话的全文搜索。
 
+- [dsh-study-mode](https://github.com/waspqj/dsh-study-mode) — 学习模式 agent 预设 + 侧边栏知识库面板：回答按 主题库 → 全局主题 → 模型知识 → 网络 四级检索，命中标出处、查不到标未验证；面板卡片按出处文件分组，并互链到相关卡片。
+
 ### 云、DevOps 与可观测性
 
 - [dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) — DeepSeek Harness 会话与当日 API 费用、预算与官方余额统计插件：历史看板、峰谷计价与官方价格一键同步。
