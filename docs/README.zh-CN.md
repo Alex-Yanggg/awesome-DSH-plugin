@@ -38,6 +38,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 <!-- CATALOG:START -->
 ### 开发工具
 
+- [ai-context-doctor](https://github.com/WJDdidi-1/ai-context-doctor) — 给仓库与过往会话的实际读取打分，在淹没上下文窗口之前提醒，并写出挡住最糟那部分的 `.aiignore` 规则；侧栏面板跟随当前对话。
+
 - [billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) — 面向 DeepSeek Harness 的模型驱动上下文压缩（ACP），移植自 billion-context-pi——由模型决定何时压缩、压缩什么。
 
 - [Code2Skill](https://github.com/leechen298/Code2Skill) — 从用户授权的源码生成 Function、MCP 工具、工作流 Skill 与离线测试包。
@@ -67,6 +69,10 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 - [dsh-open-in-vscode](https://github.com/FSMargoo/dsh-open-in-vscode) — 可从 DeepSeek Harness Web 界面直接在 VS Code 中打开工作区目录。
 
 - [dsh-opencodego-usage](https://github.com/BeiZi6/dsh-opencodego-usage) — DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。
+
+- [dsh-plugin-example](https://github.com/WJDdidi-1/dsh-plugin-example) — 约 70 行、可直接抄的插件示例：一个侧栏标签、宿主半、bundle 清单和能过的安装前检查。
+
+- [dsh-plugin-toolkit](https://github.com/WJDdidi-1/dsh-plugin-toolkit) — 插件作者的安装前检查：按 npm 的方式打包、安装 tarball、import 加载器真正会 import 的根导出并挂载面板，发布前就能发现宿主会丢掉的插件；另含 `init`、`dev`、`release`。
 
 - [dsh-recommend](https://github.com/zp-home/dsh-recommend) — DSH 插件透明排行与推荐：每日自动抓取 dsh-plugin 话题生态、公开评分模型，提供榜单/搜索/推荐工具与设置页排行榜。
 
