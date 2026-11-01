@@ -72,6 +72,12 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-settings-plus](https://github.com/oneinitAI/dsh-settings-plus) — Advanced form- and file-level settings management with a plugin settings registration SDK.
 - [dsh-opencodego-usage](https://github.com/BeiZi6/dsh-opencodego-usage) — An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.
 
+- [ai-context-doctor](https://github.com/WJDdidi-1/ai-context-doctor) — Grades what a repository or a past session actually read, warns before it floods the context window, and writes the `.aiignore` rules that stop the worst of it; the sidebar panel follows the current conversation.
+
+- [dsh-plugin-toolkit](https://github.com/WJDdidi-1/dsh-plugin-toolkit) — Preflight for plugin authors: packs the plugin the way npm would, installs the tarball, imports the root export the loader mounts and mounts the panel, so a plugin the host would drop fails before release; also `init`, `dev` and `release`.
+
+- [dsh-plugin-example](https://github.com/WJDdidi-1/dsh-plugin-example) — A ~70-line plugin to copy from: one sidebar tab, a host half, a bundle manifest and a passing preflight.
+
 ### UI & user experience
 
 - [deepseek-harness-tui](https://github.com/openma-ai/deepseek-harness-tui) — A Rust terminal client that speaks the DSH SDK JSON-RPC protocol directly and runs standalone or as a profile bundle.
