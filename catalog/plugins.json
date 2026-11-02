@@ -772,6 +772,12 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-plugin-upgrader",
+      "url": "https://github.com/zuwenyin/dsh-plugin-upgrader",
+      "category": "developer-tools",
+      "description": {"en": "A Versions tab for the DSH Plugins page: upgrades every upgradable plugin or a multi-selected subset in place without uninstalling, and lists a plugin's published versions so you can switch to any of them.", "zh-CN": "DSH 插件页的「版本」标签：一次升级全部可升级插件或勾选的子集，原地替换、不卸载；展开任意插件可看全部已发布版本，并一键切到其中任一版。"}
     }
   ]
 }
