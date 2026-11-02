@@ -223,6 +223,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 ### 生活、设备与物理世界
 
 - [dsh-adb](https://github.com/SamXiaBing/dsh-adb) — DSH 的 ADB 设备与台架操作：设备发现、logcat 流、APK 安装、文件传输和性能快照。
+
+- [dsh-game-market](https://github.com/heswy/dsh-game-market) — DSH 游戏市场与运行时：Agent 跑长任务时游戏铺满主工作区，右下角小鲸鱼显示状态，进度自动保存可续；内置 5 款游戏，附游戏 SDK/CLI 与社区目录。
 <!-- CATALOG:END -->
 
 ## 提交 Plugin
