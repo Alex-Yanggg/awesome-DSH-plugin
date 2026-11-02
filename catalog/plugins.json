@@ -772,6 +772,12 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-game-market",
+      "url": "https://github.com/heswy/dsh-game-market",
+      "category": "life-devices-physical-world",
+      "description": {"en": "DSH game market and runtime: games fill the main workspace while the agent runs long tasks, a whale in the corner shows agent status, and progress auto-saves and resumes; 5 built-in games with a game SDK/CLI and community catalog.", "zh-CN": "DSH 游戏市场与运行时：Agent 跑长任务时游戏铺满主工作区，右下角小鲸鱼显示状态，进度自动保存可续；内置 5 款游戏，附游戏 SDK/CLI 与社区目录。"}
     }
   ]
 }
