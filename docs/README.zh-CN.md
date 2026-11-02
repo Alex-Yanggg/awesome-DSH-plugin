@@ -68,6 +68,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-opencodego-usage](https://github.com/BeiZi6/dsh-opencodego-usage) — DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。
 
+- [dsh-plugin-upgrader](https://github.com/zuwenyin/dsh-plugin-upgrader) — DSH 插件页的「版本」标签：一次升级全部可升级插件或勾选的子集，原地替换、不卸载；展开任意插件可看全部已发布版本，并一键切到其中任一版。
+
 - [dsh-recommend](https://github.com/zp-home/dsh-recommend) — DSH 插件透明排行与推荐：每日自动抓取 dsh-plugin 话题生态、公开评分模型，提供榜单/搜索/推荐工具与设置页排行榜。
 
 - [dsh-settings-plus](https://github.com/oneinitAI/dsh-settings-plus) — DeepSeek Harness 高级设置管理器，支持表单级和文件级配置编辑及插件设置 SDK。
