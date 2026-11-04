@@ -772,6 +772,14 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-skills-tools",
+      "url": "https://github.com/hxlog/dsh-skills-tools",
+      "category": "developer-tools",
+      "description": {"en": "Skills manager for DeepSeek Harness settings: import Agent Skills from Git repositories, group them by repository, toggle each skill on or off, and expand SKILL.md content; disabled skills never reach the model.", "zh-CN": "DeepSeek Harness 设置内的 Skills 管理器：从 Git 仓库导入 Agent Skills，按仓库分组，逐项启用或停用，展开查看 SKILL.md 正文；停用的技能不会注册进模型。"},
+      "status": "active",
+      "source": "community"
     }
   ]
 }
