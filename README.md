@@ -205,6 +205,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-adb](https://github.com/SamXiaBing/dsh-adb) — ADB device and bench operations for DeepSeek Harness, including logcat, APK, file, and performance tools.
 
+- [DocsMint](https://github.com/HiAi-gg/dsh-docsmint) - DocsMint workspace panel and agent tools for document search, reading, creation and updates through Cloud OAuth or self-hosted API keys.
+
 ## Add a plugin
 
 Additions are welcome. Please read [the contribution guide](CONTRIBUTING.md). The English catalog in this README is maintained by hand. Add matching bilingual metadata to [`catalog/plugins.json`](catalog/plugins.json) to update the Simplified Chinese mirror, then run:
