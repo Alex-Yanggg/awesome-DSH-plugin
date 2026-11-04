@@ -72,6 +72,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-settings-plus](https://github.com/oneinitAI/dsh-settings-plus) — DeepSeek Harness 高级设置管理器，支持表单级和文件级配置编辑及插件设置 SDK。
 
+- [dsh-skills-tools](https://github.com/hxlog/dsh-skills-tools) — DeepSeek Harness 设置内的 Skills 管理器：从 Git 仓库导入 Agent Skills，按仓库分组，逐项启用或停用，展开查看 SKILL.md 正文；停用的技能不会注册进模型。
+
 - [dsh-spend](https://github.com/nonewind/dsh-spend) — DSH Web 的用量与预计花费统计，支持按模型、日期和会话查看。
 
 - [dsh-suite](https://github.com/whyihaveyou/dsh-suite) — DSH 插件活目录，提供兼容性 CI、可搜索目录和内置插件商店。
