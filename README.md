@@ -36,6 +36,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 ## Plugin catalog
 
 ### Developer tools
+- [dsh-policy-validator](https://github.com/huanlin-labs/dsh-policy-validator) — Offline pre-flight for dsh-superagent policy configs: 62 diagnostic codes, 47 fixtures, 85 tests; installed as a DSH Skill.
 
 - [billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) — Model-driven context compression (ACP) for DeepSeek Harness, ported from billion-context-pi — the model decides when and what to compress.
 
