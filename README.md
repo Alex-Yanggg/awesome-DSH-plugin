@@ -37,6 +37,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 ### Developer tools
 
+- [dsh-superagent-win-startstop](https://github.com/huanlin-labs/dsh-superagent-win-startstop) — Windows start/stop wrapper for dsh-superagent: status, start, stop, and restart with the upstream four exit codes; packaged as a DSH Skill, not a Cordis plugin.
+
 - [billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) — Model-driven context compression (ACP) for DeepSeek Harness, ported from billion-context-pi — the model decides when and what to compress.
 
 - [Code2Skill](https://github.com/leechen298/Code2Skill) — Generate Functions, MCP tools, workflow Skills, and offline test packages from user-authorized source code.
