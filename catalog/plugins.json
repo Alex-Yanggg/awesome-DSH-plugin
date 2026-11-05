@@ -772,6 +772,12 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-rightbar-quicknav",
+      "url": "https://github.com/zuoyunlai/dsh-rightbar-quicknav",
+      "category": "ui-user-experience",
+      "description": {"en": "Vertical icon rail under the right-sidebar toggle: collapsed it shows three icons, hovering expands every right-sidebar tab, and clicking one opens that tab.", "zh-CN": "右侧栏快捷导航：在「打开右侧边栏」图标下方常驻一条竖排图标轨，悬停展开全部标签，点击一步直达。"}
     }
   ]
 }

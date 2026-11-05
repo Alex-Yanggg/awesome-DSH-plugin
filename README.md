@@ -131,6 +131,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-plugin-hub](https://github.com/Noob-stupid/dsh-plugin-hub) — A plugin manager and GitHub dsh-plugin marketplace for the DSH Web UI.
 - [dsh-theme-plugin](https://github.com/BeiZi6/dsh-theme-plugin) — A DSH Web GUI theme studio with presets, custom palettes, and instant theme switching.
 
+- [dsh-rightbar-quicknav](https://github.com/zuoyunlai/dsh-rightbar-quicknav) — Vertical icon rail under the right-sidebar toggle: collapsed it shows three icons, hovering expands every right-sidebar tab, and clicking one opens that tab.
+
 ### Agent orchestration & automation
 
 - [dsh-evolve](https://github.com/william-jin-cmu/dsh-evolve) — Lets the agent write, hot-mount, and reversibly remove its own cordis plugins mid-session, growing new tools, prompt rules, and event hooks that persist across restarts.
