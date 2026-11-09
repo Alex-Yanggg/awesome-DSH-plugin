@@ -74,6 +74,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 ### UI & user experience
 
+- [dsh-nav-tidy](https://github.com/AD199-gif/dsh-nav-tidy) — Hide chosen sidebar panel entries without disabling the plugins behind them: a checkbox panel under the sidebar's More menu, plus a console API.
+
 - [deepseek-harness-tui](https://github.com/openma-ai/deepseek-harness-tui) — A Rust terminal client that speaks the DSH SDK JSON-RPC protocol directly and runs standalone or as a profile bundle.
 
 - [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) — A sidebar workbench with extensible tabs, file viewing and editing, terminal, Git, and sub-agent tools.
