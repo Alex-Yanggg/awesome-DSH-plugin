@@ -144,6 +144,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate) — Risk-gated approval automation that routes irreversible operations to human approval.
 - [dsh-preset-flash-director](https://github.com/zhaoyilun/dsh-preset-flash-director) — A token-economical DSH agent preset that delegates deep reasoning to expert subagents.
 - [plugin-team-board](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-team-board) — A shared multi-agent task board backed by a Cordis service key.
+- [better-ego-browser](https://github.com/cyrus-xc/better-ego-browser) — Connects DSH to the installed Windows ego lite app over authenticated loopback HTTP for navigation, clicks, form input and screenshots.
 
 ### Productivity & collaboration
 

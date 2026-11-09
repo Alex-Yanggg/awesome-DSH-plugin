@@ -772,6 +772,17 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "better-ego-browser",
+      "url": "https://github.com/cyrus-xc/better-ego-browser",
+      "category": "agent-automation",
+      "description": {
+        "en": "Connects DSH to the installed Windows ego lite app over authenticated loopback HTTP for navigation, clicks, form input and screenshots.",
+        "zh-CN": "通过带认证的本机 HTTP 连接 Windows 已安装的 ego lite，在 DSH 中导航网页、点击、填写表单和截图。"
+      },
+      "status": "active",
+      "source": "community"
     }
   ]
 }
