@@ -772,6 +772,11 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
-    }
-  ]
+    },
+    {
+      "name": "dsh-nav-tidy",
+      "url": "https://github.com/AD199-gif/dsh-nav-tidy",
+      "category": "ui-user-experience",
+      "description": {"en": "Hide chosen sidebar panel entries without disabling the plugins behind them: a checkbox panel under the sidebar's More menu, plus a console API.", "zh-CN": "在侧栏「更多 → 侧栏入口」里勾选隐藏任意面板入口，插件照常运行；另带控制台 API。"}
+    }  ]
 }
