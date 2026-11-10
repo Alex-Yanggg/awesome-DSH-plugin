@@ -223,6 +223,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 ### 生活、设备与物理世界
 
 - [dsh-adb](https://github.com/SamXiaBing/dsh-adb) — DSH 的 ADB 设备与台架操作：设备发现、logcat 流、APK 安装、文件传输和性能快照。
+
+- [dsh-lanya](https://github.com/bamboosir1109/dsh-lanya) — Windows QQ 角色集成包，连接双 QQ 后端、B站、本地语音和可塑记忆；配套服务需单独配置。 (beta)
 <!-- CATALOG:END -->
 
 ## 提交 Plugin
