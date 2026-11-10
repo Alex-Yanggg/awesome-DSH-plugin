@@ -37,6 +37,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 ### Developer tools
 
+- [DSH Code Report](https://github.com/f-e-n-g-0531/dsh-code-report) — Compare Git and SVN versions across repositories and export Chinese Markdown release reports. Non-commercial source-available license; commercial use requires written authorization.
+
 - [billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) — Model-driven context compression (ACP) for DeepSeek Harness, ported from billion-context-pi — the model decides when and what to compress.
 
 - [Code2Skill](https://github.com/leechen298/Code2Skill) — Generate Functions, MCP tools, workflow Skills, and offline test packages from user-authorized source code.
