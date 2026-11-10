@@ -203,6 +203,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 ### Life, devices & the physical world
 
+- [dsh-lanya](https://github.com/bamboosir1109/dsh-lanya) — Windows QQ character integration kit with two QQ backends, Bilibili, local voice and revisable memory; companion services need separate setup. (beta)
+
 - [dsh-adb](https://github.com/SamXiaBing/dsh-adb) — ADB device and bench operations for DeepSeek Harness, including logcat, APK, file, and performance tools.
 
 ## Add a plugin
