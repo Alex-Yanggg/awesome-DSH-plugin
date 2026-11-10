@@ -88,6 +88,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) — 提供 Codex 风格文本批注：选中文字、将批注附加到下一条消息，并获得逐条对应的回复。
 
+- [dsh-artifacts](https://github.com/modusensus/dsh-artifacts) — 侧边栏产物架：把会话交付过的图片、视频、文件和链接收进一处，按内容哈希去重，带分类标签与计数、搜索、视频缩略图、灯箱与手动收藏。
+
 - [dsh-at-file](https://github.com/FSMargoo/dsh-at-file) — 提供 Codex 风格的 @file 引用，可搜索工作区文件并将内容附加到提示词。
 
 - [dsh-browser-panel](https://github.com/dsh-external/dsh-browser-panel) — 在 DSH Web UI 中嵌入有头浏览器，让智能体操作真实浏览器并向用户展示每一步。

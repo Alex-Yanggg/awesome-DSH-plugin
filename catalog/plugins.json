@@ -768,6 +768,12 @@
       "description": {"en": "A DSH Web GUI theme studio with built-in presets, customizable palettes, and instant theme switching.", "zh-CN": "DSH Web GUI 主题工作室，提供内置预设、可自定义配色和即时主题切换。"}
     },
     {
+      "name": "dsh-artifacts",
+      "url": "https://github.com/modusensus/dsh-artifacts",
+      "category": "ui-user-experience",
+      "description": {"en": "A sidebar artifact shelf that collects the images, videos, files, and links a session delivers, deduplicated by content hash, with filter tabs and counts, search, video thumbnails, a lightbox, and manual saving.", "zh-CN": "侧边栏产物架：把会话交付过的图片、视频、文件和链接收进一处，按内容哈希去重，带分类标签与计数、搜索、视频缩略图、灯箱与手动收藏。"}
+    },
+    {
       "name": "dsh-opencodego-usage",
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",

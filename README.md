@@ -79,6 +79,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [DSH Better Sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) — A sidebar workbench with extensible tabs, file viewing and editing, terminal, Git, and sub-agent tools.
 
 - [dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) — Adds Codex-style text annotations: select text, attach a note to the next message, and receive annotation-aware replies.
+- [dsh-artifacts](https://github.com/modusensus/dsh-artifacts) — A sidebar artifact shelf that collects the images, videos, files, and links a session delivers, deduplicated by content hash, with filter tabs and counts, search, video thumbnails, a lightbox, and manual saving.
 
 - [dsh-at-file](https://github.com/FSMargoo/dsh-at-file) — Adds Codex-style @file mentions to search workspace files and attach their contents to prompts.
 
