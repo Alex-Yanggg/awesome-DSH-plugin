@@ -90,6 +90,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-grok-tui](https://github.com/chen-001/dsh-grok-tui) — Use dsh via grok-build's tui.
 
+- [dsh-icon-library](https://github.com/brickhu/dsh-plugins/tree/main/icon-studio) — Project-level icon library in `.icons.json` with a right-sidebar panel and four agent tools, fed by pasted SVG, Iconify/IconMCP imports, a workspace scan or AI generation; one edit rewrites every code reference.
+
 - [dsh-input-history](https://github.com/lhh010/dsh-input-history) — Adds terminal-style Ctrl+Up and Ctrl+Down navigation through sent messages while preserving the latest unsent draft.
 
 - [dsh-message-edit](https://github.com/Moeblack/dsh-message-edit) — Branch-based message editing with reroll, retry, and a version timeline for DeepSeek Harness conversations.
