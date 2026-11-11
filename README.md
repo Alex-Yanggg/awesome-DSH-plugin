@@ -71,6 +71,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [plugin-manager](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-manager) — An in-app DSH Web UI plugin store with browsing, search, installation, compatibility badges, and an installed list.
 - [dsh-settings-plus](https://github.com/oneinitAI/dsh-settings-plus) — Advanced form- and file-level settings management with a plugin settings registration SDK.
 - [dsh-opencodego-usage](https://github.com/BeiZi6/dsh-opencodego-usage) — An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.
+- [dsh-plugin-airlock](https://github.com/gabrielbav/dsh-plugin-airlock) — A pre-install security gate that quarantines each plugin, skill, and subagent bundle, scans it with Cisco Skill Scanner, SkillScan, Cisco MCP Scanner, OSV-Scanner, Trivy, Gitleaks, and an optional LLM judge, then passes, asks for review, or blocks it; needs the install-gate hook proposed in deepseek-ai/deepseek-harness#12999.
 
 ### UI & user experience
 

@@ -772,6 +772,12 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-plugin-airlock",
+      "url": "https://github.com/gabrielbav/dsh-plugin-airlock",
+      "category": "developer-tools",
+      "description": {"en": "A pre-install security gate that quarantines each plugin, skill, and subagent bundle, scans it with Cisco Skill Scanner, SkillScan, Cisco MCP Scanner, OSV-Scanner, Trivy, Gitleaks, and an optional LLM judge, then passes, asks for review, or blocks it; needs the install-gate hook proposed in deepseek-ai/deepseek-harness#12999.", "zh-CN": "一个安装前安全闸门：在隔离区中检查每个插件、技能和子代理组合包，用 Cisco Skill Scanner、SkillScan、Cisco MCP Scanner、OSV-Scanner、Trivy、Gitleaks 与可选的 LLM 判定扫描，然后放行、要求审查或阻止；需要 deepseek-ai/deepseek-harness#12999 中提议的 install-gate 钩子。"}
     }
   ]
 }
