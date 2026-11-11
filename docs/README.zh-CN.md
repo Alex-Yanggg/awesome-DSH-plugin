@@ -102,6 +102,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-grok-tui](https://github.com/chen-001/dsh-grok-tui) — 借用grok-build tui使用dsh
 
+- [dsh-icon-library](https://github.com/brickhu/dsh-plugins/tree/main/icon-studio) — 项目级图标库 `.icons.json`：右栏面板 + 四个 agent 工具，支持粘贴 SVG、Iconify / IconMCP 导入、工作区扫描与 AI 生成；改一次图形，代码里的引用一起更新。
+
 - [dsh-input-history](https://github.com/lhh010/dsh-input-history) — 提供终端风格的 Ctrl+Up / Ctrl+Down 已发送消息导航，并保留最新未发送草稿。
 
 - [dsh-message-edit](https://github.com/Moeblack/dsh-message-edit) — 为 DeepSeek Harness 对话提供基于分支的消息编辑、重新生成、重试和版本时间线。
