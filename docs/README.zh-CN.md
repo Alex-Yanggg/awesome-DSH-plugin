@@ -68,6 +68,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-opencodego-usage](https://github.com/BeiZi6/dsh-opencodego-usage) — DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。
 
+- [dsh-plugin-airlock](https://github.com/gabrielbav/dsh-plugin-airlock) — 一个安装前安全闸门：在隔离区中检查每个插件、技能和子代理组合包，用 Cisco Skill Scanner、SkillScan、Cisco MCP Scanner、OSV-Scanner、Trivy、Gitleaks 与可选的 LLM 判定扫描，然后放行、要求审查或阻止；需要 deepseek-ai/deepseek-harness#12999 中提议的 install-gate 钩子。
+
 - [dsh-recommend](https://github.com/zp-home/dsh-recommend) — DSH 插件透明排行与推荐：每日自动抓取 dsh-plugin 话题生态、公开评分模型，提供榜单/搜索/推荐工具与设置页排行榜。
 
 - [dsh-settings-plus](https://github.com/oneinitAI/dsh-settings-plus) — DeepSeek Harness 高级设置管理器，支持表单级和文件级配置编辑及插件设置 SDK。
