@@ -772,6 +772,12 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "travel-story-dsh",
+      "url": "https://github.com/wang-bool/travel-story-dsh",
+      "category": "agent-automation",
+      "description": {"en": "Bundles the full Travel Story app (map, timeline, playback) into DSH as a travel-planning agent mode: full-page takeover with chat as a floating panel, 18 agent tools for place search, weather, routing and itinerary editing, with live UI-context injection.", "zh-CN": "把完整 Travel Story 应用（地图、时间线、播放）打包进 DSH，成为旅行规划 agent 模式：整页接管、对话变浮窗，18 个 agent 工具覆盖地点搜索、天气、路线与行程编辑，并注入实时界面上下文。"}
     }
   ]
 }

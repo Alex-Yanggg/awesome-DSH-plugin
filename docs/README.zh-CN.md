@@ -158,6 +158,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [plugin-team-board](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-team-board) — 由 Cordis 服务键支持的共享多智能体任务板。
 
+- [travel-story-dsh](https://github.com/wang-bool/travel-story-dsh) — 把完整 Travel Story 应用（地图、时间线、播放）打包进 DSH，成为旅行规划 agent 模式：整页接管、对话变浮窗，18 个 agent 工具覆盖地点搜索、天气、路线与行程编辑，并注入实时界面上下文。
+
 ### 效率与协作
 
 - [deepseek-manners](https://github.com/Moeblack/deepseek-manners) — 给每次助手回复追加一句感谢语。
