@@ -772,6 +772,12 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-connectors",
+      "url": "https://github.com/gabrielbav/dsh-connectors",
+      "category": "productivity-collaboration",
+      "description": {"en": "Adds a Connectors page to Settings that connects remote MCP servers with OAuth or a token: Granola, Linear, Jira & Confluence, Trello, GitHub, GitLab and Azure DevOps built in, plus custom MCP URLs and connector packages from other plugins; tokens stay in the DSH credential store.", "zh-CN": "在设置中新增“连接器”页面，通过 OAuth 或令牌连接远程 MCP 服务器：内置 Granola、Linear、Jira 与 Confluence、Trello、GitHub、GitLab 和 Azure DevOps，并支持自定义 MCP 地址和其他插件提供的连接器包；令牌保存在 DSH 凭据存储中。"}
     }
   ]
 }

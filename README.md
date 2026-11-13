@@ -159,6 +159,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [plugin-session-export](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-session-export) — Exports append-only session logs as Markdown or HTML.
 - [dsh-lark-meeting-notifier](https://github.com/yeruizhi/dsh-lark-meeting-notifier) — A Feishu meeting reminder panel with today/tomorrow views and flashing alarms.
 - [dsh-im-hub](https://github.com/ThreeBody6666/dsh-im-hub) — A multi-platform IM gateway for Feishu, WeCom, and Telegram with per-chat agent sessions.
+- [dsh-connectors](https://github.com/gabrielbav/dsh-connectors) — Adds a Connectors page to Settings that connects remote MCP servers with OAuth or a token: Granola, Linear, Jira & Confluence, Trello, GitHub, GitLab and Azure DevOps built in, plus custom MCP URLs and connector packages from other plugins; tokens stay in the DSH credential store.
 
 ### Data, research & knowledge
 
