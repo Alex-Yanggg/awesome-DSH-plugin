@@ -772,6 +772,12 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "dsh-mishu",
+      "url": "https://github.com/AIcivilization/dsh-mishu",
+      "category": "productivity-collaboration",
+      "description": {"en": "Triages your unread GitHub notifications by their current state and closes the resolved ones, and remembers the dated things you tell it until they are due.", "zh-CN": "按当前状态分诊 GitHub 未读通知并替你关掉已解决的，也记住你交代的到期与周期事项，到点提醒。"}
     }
   ]
 }

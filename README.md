@@ -158,6 +158,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [plugin-notify](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-notify) — Sends IM webhook and local notifications on turn completion, errors, or approval requests.
 - [plugin-session-export](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-session-export) — Exports append-only session logs as Markdown or HTML.
 - [dsh-lark-meeting-notifier](https://github.com/yeruizhi/dsh-lark-meeting-notifier) — A Feishu meeting reminder panel with today/tomorrow views and flashing alarms.
+- [dsh-mishu](https://github.com/AIcivilization/dsh-mishu) — Triages your unread GitHub notifications by their current state and closes the resolved ones, and remembers the dated things you tell it until they are due.
 - [dsh-im-hub](https://github.com/ThreeBody6666/dsh-im-hub) — A multi-platform IM gateway for Feishu, WeCom, and Telegram with per-chat agent sessions.
 
 ### Data, research & knowledge

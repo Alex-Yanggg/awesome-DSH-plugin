@@ -168,6 +168,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-lark-meeting-notifier](https://github.com/yeruizhi/dsh-lark-meeting-notifier) — 飞书会议提醒面板，提供今天/明天视图和多闹钟闪烁提醒。
 
+- [dsh-mishu](https://github.com/AIcivilization/dsh-mishu) — 按当前状态分诊 GitHub 未读通知并替你关掉已解决的，也记住你交代的到期与周期事项，到点提醒。
+
 - [dsh-notification](https://github.com/FSMargoo/dsh-notification) — 在 DeepSeek Harness 回合完成时发送桌面通知，并支持按结果和关键词制定规则。
 
 - [dsh-share](https://github.com/hellodigua/dsh-share) — 一键分享 DeepSeek Harness 对话。
