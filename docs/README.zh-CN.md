@@ -70,6 +70,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-recommend](https://github.com/zp-home/dsh-recommend) — DSH 插件透明排行与推荐：每日自动抓取 dsh-plugin 话题生态、公开评分模型，提供榜单/搜索/推荐工具与设置页排行榜。
 
+- [dsh-remote](https://github.com/flymysql/dsh-remote) — SSH 远程开发工作区，支持可选三栏 IDE、高亮编辑、递归搜索、远程终端、Git 差异及 Agent 远程编辑与构建。
+
 - [dsh-settings-plus](https://github.com/oneinitAI/dsh-settings-plus) — DeepSeek Harness 高级设置管理器，支持表单级和文件级配置编辑及插件设置 SDK。
 
 - [dsh-spend](https://github.com/nonewind/dsh-spend) — DSH Web 的用量与预计花费统计，支持按模型、日期和会话查看。
