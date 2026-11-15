@@ -182,6 +182,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 ### Cloud, DevOps & observability
 
 - [dsh-harness-ops](https://github.com/fakechris/dsh-harness-ops) — Operations toolkit with A/B snapshot upgrades, automatic recovery, rollback, and a diagnostic self-healing command.
+- [dsh-plugin-aws](https://github.com/gabrielbav/dsh-workspace/tree/main/Plugins/dsh-plugin-aws) — Turn on any of AWS's 59 official MCP servers from a Settings page, by group or one at a time: version-pinned and read-only where supported.
 
 ### AI, design & media
 
