@@ -114,7 +114,7 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-plugin-hub](https://github.com/Noob-stupid/dsh-plugin-hub) — DSH Web UI 插件管理器，支持一键控制和 GitHub dsh-plugin 市场。
 
-- [dsh-plugin-session-delete](https://github.com/gabrielbav/dsh-plugin-session-delete) — 为 DSH 会话和工作区提供永久删除（DSH 本身只能归档）；运行中的会话绝不会被删除。
+- [dsh-plugin-session-delete](https://github.com/gabrielbav/dsh-workspace/tree/main/Plugins/dsh-plugin-session-delete) — 为 DSH 会话和工作区提供永久删除（DSH 本身只能归档）；运行中的会话绝不会被删除。
 
 - [dsh-plugin-wallpaper](https://github.com/Tree-Summer/dsh-plugin-wallpaper) — 为 DSH Web UI 设置自定义壁纸，并控制主界面、侧边栏、输入区和气泡的显示。
 

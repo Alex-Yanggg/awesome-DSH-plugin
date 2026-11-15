@@ -775,7 +775,7 @@
     },
     {
       "name": "dsh-plugin-session-delete",
-      "url": "https://github.com/gabrielbav/dsh-plugin-session-delete",
+      "url": "https://github.com/gabrielbav/dsh-workspace/tree/main/Plugins/dsh-plugin-session-delete",
       "category": "ui-user-experience",
       "description": {"en": "Permanent delete for DSH sessions and workspaces, which DSH can only archive; running sessions are never touched.", "zh-CN": "为 DSH 会话和工作区提供永久删除（DSH 本身只能归档）；运行中的会话绝不会被删除。"}
     }
