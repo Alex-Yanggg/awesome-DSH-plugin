@@ -775,7 +775,7 @@
     },
     {
       "name": "dsh-plugin-aws",
-      "url": "https://github.com/gabrielbav/dsh-plugin-aws",
+      "url": "https://github.com/gabrielbav/dsh-workspace/tree/main/Plugins/dsh-plugin-aws",
       "category": "cloud-devops-observability",
       "description": {"en": "Turn on any of AWS's 59 official MCP servers from a Settings page, by group or one at a time: version-pinned and read-only where supported.", "zh-CN": "在设置页面中开启 AWS 官方的 59 个 MCP 服务器，可按组或逐个开启：版本固定，支持时默认只读。"}
     }
