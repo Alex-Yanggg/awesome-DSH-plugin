@@ -775,7 +775,7 @@
     },
     {
       "name": "dsh-connectors",
-      "url": "https://github.com/gabrielbav/dsh-connectors",
+      "url": "https://github.com/gabrielbav/dsh-workspace/tree/main/Plugins/dsh-connectors",
       "category": "productivity-collaboration",
       "description": {"en": "Connect Linear, Jira, GitHub, GitLab, Trello, Granola and Azure DevOps to every DSH session from one Settings page, with OAuth or a token, plus any MCP URL.", "zh-CN": "在一个设置页面中，用 OAuth 或令牌将 Linear、Jira、GitHub、GitLab、Trello、Granola 和 Azure DevOps 接入每个 DSH 会话，并支持任意 MCP 地址。"}
     }

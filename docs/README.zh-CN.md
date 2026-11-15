@@ -164,7 +164,7 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-companion](https://github.com/william-jin-cmu/dsh-companion) — Cetus macOS 桌面智能体的 DeepSeek Harness 发行版：常驻桌面聊天伙伴，支持全局快捷键、屏幕上下文、定时任务和文件递送。
 
-- [dsh-connectors](https://github.com/gabrielbav/dsh-connectors) — 在一个设置页面中，用 OAuth 或令牌将 Linear、Jira、GitHub、GitLab、Trello、Granola 和 Azure DevOps 接入每个 DSH 会话，并支持任意 MCP 地址。
+- [dsh-connectors](https://github.com/gabrielbav/dsh-workspace/tree/main/Plugins/dsh-connectors) — 在一个设置页面中，用 OAuth 或令牌将 Linear、Jira、GitHub、GitLab、Trello、Granola 和 Azure DevOps 接入每个 DSH 会话，并支持任意 MCP 地址。
 
 - [dsh-im-hub](https://github.com/ThreeBody6666/dsh-im-hub) — DeepSeek Harness 多平台 IM 网关，集成飞书、企业微信和 Telegram，并提供每聊天独立智能体会话。
 
