@@ -777,7 +777,7 @@
       "name": "dsh-plugin-airlock",
       "url": "https://github.com/gabrielbav/dsh-plugin-airlock",
       "category": "developer-tools",
-      "description": {"en": "A pre-install security gate that quarantines each plugin, skill, and subagent bundle, scans it with Cisco Skill Scanner, SkillScan, Cisco MCP Scanner, OSV-Scanner, Trivy, Gitleaks, and an optional LLM judge, then passes, asks for review, or blocks it; needs the install-gate hook proposed in deepseek-ai/deepseek-harness#12999.", "zh-CN": "一个安装前安全闸门：在隔离区中检查每个插件、技能和子代理组合包，用 Cisco Skill Scanner、SkillScan、Cisco MCP Scanner、OSV-Scanner、Trivy、Gitleaks 与可选的 LLM 判定扫描，然后放行、要求审查或阻止；需要 deepseek-ai/deepseek-harness#12999 中提议的 install-gate 钩子。"}
+      "description": {"en": "6 security scanners and an optional LLM judge check each plugin, skill and subagent in a quarantine, then pass, ask you, or block it; works on stock DSH.", "zh-CN": "6 个安全扫描器和可选的 LLM 判定在隔离区中检查每个插件、技能和子代理，然后放行、询问你或阻止；可在原版 DSH 上运行。"}
     }
   ]
 }
