@@ -58,7 +58,7 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) — 将编码智能体的对话历史导入为可恢复的 DeepSeek Harness 会话，并支持导出和同步到 Claude Code。
 
-- [dsh-code](https://github.com/gabrielbav/dsh-code) — DSH 的代码模式：每个会话在 gVisor 沙箱中拥有独立的仓库检出和分支，带出站白名单和实时应用预览，可运行在本机或你自己的虚拟机上。
+- [dsh-code](https://github.com/gabrielbav/dsh-workspace/tree/main/Plugins/dsh-code) — DSH 的代码模式：每个会话在 gVisor 沙箱中拥有独立的仓库检出和分支，带出站白名单和实时应用预览，可运行在本机或你自己的虚拟机上。
 
 - [dsh-custom-tool](https://github.com/FSMargoo/dsh-custom-tool) — 通过 Monaco 编辑器及模型驱动的生命周期创建和管理沙箱化 JavaScript 工具。
 
