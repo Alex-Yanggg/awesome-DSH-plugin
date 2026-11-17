@@ -51,6 +51,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-git-identity](https://github.com/LoserFox/dsh-git-identity) — Pins Git commit authorship to the active environment identity, prioritizing the signed-in GitHub CLI account.
 
+- [dsh-healthkit](https://github.com/zuoyunlai/dsh-healthkit) — Read-only health check for DeepSeek Harness: a 0–10 score across seven weighted dimensions, findings with fix hints, cross-restart verification of whether past findings were fixed, and a baseline CI gate that only fails on new problems.
 - [dsh-open-in-vscode](https://github.com/FSMargoo/dsh-open-in-vscode) — Open DeepSeek Harness workspace directories in VS Code from the web interface.
 
 - [dsh-recommend](https://github.com/zp-home/dsh-recommend) — Transparent rankings and recommendations for the DSH plugin ecosystem: daily auto-fetched topic data, an open scoring model, and rank/search/recommend tools with a settings-page leaderboard.
@@ -102,6 +103,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-qq2006](https://github.com/LaplaceYoung/dsh-qq2006) — A switchable QQ2006 skin for the DeepSeek Harness Web UI with a coral-blue theme and retro assets.
 
+- [dsh-rightbar-quicknav](https://github.com/zuoyunlai/dsh-rightbar-quicknav) — Vertical icon rail under the right-sidebar toggle: collapsed it shows three icons, hovering expands every right-sidebar tab, and clicking one opens that tab.
 - [dsh-skin](https://github.com/KinGao294/dsh-skin) — Codex-style skin switcher + custom wallpaper for the DSH Web UI: curated --dsw-alias-* palettes, translucent main canvas/sidebar (overrideTokens) with opacity and blur controls.
 
 - [dsh-stickers](https://github.com/william-jin-cmu/dsh-stickers) — A shared sticker catalog serving the Web UI picker, a /sticker command, and an agent send_sticker tool, with two character variants and workflow-reaction stickers.
@@ -110,6 +112,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-task-status](https://github.com/vlln/dsh-task-status) — Displays background-task progress and a live output tail on the DSH conversation page.
 
+- [dsh-theme-palette](https://github.com/zuoyunlai/dsh-theme-palette) — Five palettes for DeepSeek Harness — mono, warm sand, indigo, moss and a custom three-colour palette — each rebuilt in OKLCH for light and dark, with text and surface contrast solved per palette. Includes config export/import codes and a high-contrast mode.
 - [dsh-track](https://github.com/fakechris/dsh-track) — An embedded task-management engine with decision points, an idea-capture wall, and Linear-style issue storage.
 
 - [dsh-turn-index](https://github.com/Simon314620/dsh-turn-index) — A turn-index sidebar listing every user turn, with click-to-jump navigation and scroll-spy highlighting.
@@ -139,6 +142,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-loop](https://github.com/vlln/dsh-loop) — Adds scheduled loops through a /loop command, a loop tool, and an activity status bar.
 
+- [lunheng-article-pipeline-dsh](https://github.com/zuoyunlai/lunheng-article-pipeline-dsh) — DeepSeek Harness bundle registering one skill that turns long-form production (academic papers, industry analysis, business commentary) into a 9-role pipeline across 6 phases with triangular evidence verification, a 26-check M-gate and 4 human checkpoints.
 - [mstar-harness](https://github.com/btspoony/mstar-harness) — A skill-driven workflow agent plugin for structured harness-loop engineering.
 
 - [dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate) — Risk-gated approval automation that routes irreversible operations to human approval.
@@ -166,6 +170,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [cross-harness-cite](https://github.com/dsh-external/cross-harness-cite) — Lets DeepSeek Harness cite relevant conversation history from Codex and Claude Code.
 
+- [dsh-chronicle](https://github.com/zuoyunlai/dsh-chronicle) — Daily chronicle for DeepSeek Harness: collects session events, closes the previous day into a Markdown week file, and extracts durable facts — decisions, conventions, pitfalls — that merge across days and can be superseded. 10 tools, a read-only sidebar panel, rule export, and a standalone Obsidian vault; zero third-party dependencies.
 - [dsh-data-agent](https://github.com/dsh-external/dsh-data-agent) — Helps agents connect to databases and write SQL for data tasks.
 
 - [dsh-artifact-library](https://github.com/wyq183/dsh-artifact-library) — Local-first artifact & reference library: auto-collects AI outputs, AI-organizes them with summaries and tags, full-text search across sessions, and per-project overview.
@@ -191,6 +196,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-attachment-vision](https://github.com/endlass/dsh-attachment-vision) — GUI image attachments auto-transcribed to local paths plus a view_image bridge to any OpenAI-compatible VLM — end-to-end vision for text-only DeepSeek models.
 
+- [dsh-pet-plugin](https://github.com/zuoyunlai/dsh-pet-plugin) — A photo-real desk pet for the DSH window: five personas with five expression sprites each, whose dance, hair-flip and walk actions play as 24 fps VP9 alpha video clips; proactive lines with an optional edge-tts neural voice, a right-click menu and a /dsh-pet command, plus a small chat box that answers through a one-shot host model call without writing to your session.
 - [dsh-vision](https://github.com/william-jin-cmu/dsh-vision) — Adds a view_image bridge from text-only DeepSeek models to OpenAI-compatible vision-language models.
 
 - [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) — Adds image Q&A, long-screenshot OCR, UI restoration, visual grounding, pixel diffs, and artifacts.
