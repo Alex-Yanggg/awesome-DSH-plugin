@@ -53,6 +53,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-open-in-vscode](https://github.com/FSMargoo/dsh-open-in-vscode) — Open DeepSeek Harness workspace directories in VS Code from the web interface.
 
+- [dsh-plugin-mcp-guard](https://github.com/SSHOOTING/dsh-plugin-mcp-guard) — Read-only command that audits configured MCP servers for risky settings.
 - [dsh-recommend](https://github.com/zp-home/dsh-recommend) — Transparent rankings and recommendations for the DSH plugin ecosystem: daily auto-fetched topic data, an open scoring model, and rank/search/recommend tools with a settings-page leaderboard.
 
 - [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) — A DeepSeek Harness Cordis plugin that routes an 85-skill pack for reverse engineering and authorized security research.
@@ -153,6 +154,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-notification](https://github.com/FSMargoo/dsh-notification) — Sends desktop notifications when a DeepSeek Harness turn completes, with outcome and keyword rules.
 
+- [dsh-plugin-session-archive](https://github.com/SSHOOTING/dsh-plugin-session-archive) — Read-only command that exports the current session as redacted Markdown or JSON.
 - [dsh-share](https://github.com/hellodigua/dsh-share) — Share DeepSeek Harness conversations with a single action.
 
 - [plugin-notify](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-notify) — Sends IM webhook and local notifications on turn completion, errors, or approval requests.
@@ -183,6 +185,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 - [dsh-harness-ops](https://github.com/fakechris/dsh-harness-ops) — Operations toolkit with A/B snapshot upgrades, automatic recovery, rollback, and a diagnostic self-healing command.
 
+- [dsh-plugin-safe-route](https://github.com/SSHOOTING/dsh-plugin-safe-route) — Read-only command that audits model routes against a configurable allowlist.
+- [dsh-plugin-token-budget](https://github.com/SSHOOTING/dsh-plugin-token-budget) — Read-only command that scores session token usage against a configurable budget.
 ### AI, design & media
 
 - [DSH OpenPencil](https://github.com/ZSeven-W/dsh-openpencil) — Connects DeepSeek Harness to OpenPencil so agents can create, edit, preview, and validate interactive, multi-page design canvases.
