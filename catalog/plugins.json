@@ -838,8 +838,8 @@
       "url": "https://github.com/ECCVIK/LMTAgent",
       "category": "agent-automation",
       "description": {
-        "en": "Multi-agent software engineering orchestrator (dsh-lmtagent v1.0.0) for DSH: 1:1 session isolation, 12 lean lmt_* tools (11.6KB schema), 12 engineering skills, experimental speculative 4-Wave DAG dispatch, ShardLock + Git scope rollback, workspace budget guard, PG/SQLite WAL fact store, and a full bilingual web console (coexists cleanly with dsh-redteam-mode).",
-        "zh-CN": "DSH 多智能体软件研发编排工作台（dsh-lmtagent v1.0.0）：内置 8 个角色预设、1:1 会话隔离、12 个精简 lmt_* 工具与 12 项工程技能、实验性推测 DAG 调度、Git 越界回滚、预算熔断、PG/SQLite WAL 事实库及全双语 Web 控制台（独立命名空间零冲突共存）。"
+        "en": "Multi-agent full-stack dev workbench for DSH (v1.1.0): turns feature wishes into parallel file-disjoint coding shards with detached standalone OS window, 8 role presets, 1-click Git scope rollback, budget guard, and a live bilingual DAG console.",
+        "zh-CN": "多智能体全栈研发编排工作台（dsh-lmtagent v1.1.0）：一句话需求自动拆解为并行开发分片，支持脱离 DSH 的独立弹出窗口、8 角色协同、防并发覆盖、越界一键 Git 回滚与预算熔断，内置全双语可视化控制台。"
       }
     }
   ]

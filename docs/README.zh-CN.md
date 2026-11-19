@@ -154,7 +154,7 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-preset-flash-director](https://github.com/zhaoyilun/dsh-preset-flash-director) — 一个节省 token 的 DeepSeek Harness 智能体预设，将深度思考任务委派给专家子智能体。
 
-- [LMTAgent (dsh-lmtagent)](https://github.com/ECCVIK/LMTAgent) — DSH 多智能体软件研发编排工作台（v1.0.0）：内置 8 个角色预设、1:1 会话隔离、12 个精简 lmt_* 工具与 12 项纯净工程技能、实验性推测 DAG 调度、Git 越界回滚、预算熔断及全双语 Web 控制台。
+- [LMTAgent (dsh-lmtagent)](https://github.com/ECCVIK/LMTAgent) — 多智能体全栈研发编排工作台（v1.1.0）：一句话拆解并行开发分片，支持独立弹出窗口、8 角色协同、越界一键 Git 回滚、预算熔断与全双语 DAG 控制台。
 
 - [mstar-harness](https://github.com/btspoony/mstar-harness) — 面向结构化 Harness 循环工程的技能驱动工作流智能体 Plugin。
 
