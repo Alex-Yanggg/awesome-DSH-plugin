@@ -773,5 +773,10 @@
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
     }
-  ]
+  
+    {"url":"https://github.com/SSHOOTING/dsh-plugin-safe-route","status":"active","description":{"en":"Read-only command that audits model routes used in a session against a configurable allowlist.","zh-CN":"只读命令，按可配置白名单审计会话使用的模型路由。"},"name":"dsh-plugin-safe-route","category":"cloud-devops-observability","source":"community"},
+    {"url":"https://github.com/SSHOOTING/dsh-plugin-session-archive","status":"active","description":{"en":"Read-only command that exports the current session as redacted Markdown or JSON.","zh-CN":"只读命令，把当前会话导出为脱敏的 Markdown 或 JSON。"},"name":"dsh-plugin-session-archive","category":"productivity-collaboration","source":"community"},
+    {"url":"https://github.com/SSHOOTING/dsh-plugin-token-budget","status":"active","description":{"en":"Read-only command that scores session token usage against a configurable budget.","zh-CN":"只读命令，按可配置预算为会话 token 用量评分。"},"name":"dsh-plugin-token-budget","category":"cloud-devops-observability","source":"community"},
+    {"url":"https://github.com/SSHOOTING/dsh-plugin-mcp-guard","status":"active","description":{"en":"Read-only command that audits configured MCP servers for risky settings without connecting to them.","zh-CN":"只读命令，审计已配置 MCP 服务器的风险设置，不建立连接。"},"name":"dsh-plugin-mcp-guard","category":"developer-tools","source":"community"},
+    {"url":"https://github.com/SSHOOTING/dsh-plugin-free-model-advisor","status":"active","description":{"en":"Read-only command that lists explicitly free models and recommends a safe default.","zh-CN":"只读命令，列出明确免费的模型并推荐安全默认值。"},"name":"dsh-plugin-free-model-advisor","category":"developer-tools","source":"community"}]
 }
