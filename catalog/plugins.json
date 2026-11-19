@@ -834,12 +834,12 @@
       }
     },
     {
-      "name": "LMTAgent (dsh-redteam-mode)",
+      "name": "LMTAgent (dsh-lmtagent)",
       "url": "https://github.com/ECCVIK/LMTAgent",
       "category": "agent-automation",
       "description": {
-        "en": "Multi-agent software engineering & security audit orchestrator (v0.23.2) for DSH: 1:1 session-isolated workspaces, AI wish clarification & file-disjoint sharding, 4-Wave DAG concurrent dispatch with auto-advance, PG/SQLite WAL fact store, post-write scope audit, 29 skills, and a docked web console.",
-        "zh-CN": "DSH 多智能体软件研发与安全审计编排工作台（v0.23.2）：内置 8 个角色预设、1:1 会话工作区隔离、AI 需求澄清与无交集分片拆解、4-Wave DAG 并发派发与自动接力、PG/SQLite WAL 事实库、写后越界审计、29 个技能及右侧常驻 Web 控制台。"
+        "en": "Multi-agent software engineering orchestrator (dsh-lmtagent v1.0.0) for DSH: 1:1 session isolation, 12 lean lmt_* tools (11.6KB schema), 12 engineering skills, experimental speculative 4-Wave DAG dispatch, ShardLock + Git scope rollback, workspace budget guard, PG/SQLite WAL fact store, and a full bilingual web console (coexists cleanly with dsh-redteam-mode).",
+        "zh-CN": "DSH 多智能体软件研发编排工作台（dsh-lmtagent v1.0.0）：内置 8 个角色预设、1:1 会话隔离、12 个精简 lmt_* 工具与 12 项工程技能、实验性推测 DAG 调度、Git 越界回滚、预算熔断、PG/SQLite WAL 事实库及全双语 Web 控制台（独立命名空间零冲突共存）。"
       }
     }
   ]
