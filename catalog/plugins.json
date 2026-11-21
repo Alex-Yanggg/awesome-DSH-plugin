@@ -772,6 +772,22 @@
       "url": "https://github.com/BeiZi6/dsh-opencodego-usage",
       "category": "developer-tools",
       "description": {"en": "An OpenCodeGo quota monitor for the DSH Web GUI with rolling, weekly, and monthly usage views.", "zh-CN": "DSH Web GUI 的 OpenCodeGo 额度监视器，提供滚动、周和月度用量视图。"}
+    },
+    {
+      "name": "Archerkattri/dsh-qwen4-effort",
+      "url": "https://github.com/Archerkattri/dsh-qwen4-effort",
+      "category": "developer-tools",
+      "description": {"en": "Fills the official Qwen4 effort levels (low/medium/xhigh for Max Preview, low/high/xhigh for Max) into Qwen4 models on existing Qwen Token Plan routes, preserving other providers and existing declarations.", "zh-CN": "为已有 Qwen Token Plan 路由上的 Qwen4 模型补齐官方推理等级（Max Preview 为 low/medium/xhigh，Max 为 low/high/xhigh），并保留其他提供商与已有声明。"},
+      "status": "active",
+      "source": "community"
+    },
+    {
+      "name": "Archerkattri/dsh-qwen-websearch",
+      "url": "https://github.com/Archerkattri/dsh-qwen-websearch",
+      "category": "data-research-knowledge",
+      "description": {"en": "Qwen Token Plan web search provider that runs web_search on Token Plan credits through the Responses API web_search tool, summarizing with Qwen3.8 Flash and returning source URLs.", "zh-CN": "通过 Responses API 的 web_search 工具让 web_search 走 Qwen Token Plan 额度，由 Qwen3.8 Flash 总结并返回来源链接。"},
+      "status": "active",
+      "source": "community"
     }
   ]
 }

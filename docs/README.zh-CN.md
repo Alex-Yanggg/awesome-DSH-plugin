@@ -38,6 +38,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 <!-- CATALOG:START -->
 ### 开发工具
 
+- [Archerkattri/dsh-qwen4-effort](https://github.com/Archerkattri/dsh-qwen4-effort) — 为已有 Qwen Token Plan 路由上的 Qwen4 模型补齐官方推理等级（Max Preview 为 low/medium/xhigh，Max 为 low/high/xhigh），并保留其他提供商与已有声明。
+
 - [billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) — 面向 DeepSeek Harness 的模型驱动上下文压缩（ACP），移植自 billion-context-pi——由模型决定何时压缩、压缩什么。
 
 - [Code2Skill](https://github.com/leechen298/Code2Skill) — 从用户授权的源码生成 Function、MCP 工具、工作流 Skill 与离线测试包。
@@ -177,6 +179,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 - [plugin-session-export](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-session-export) — 将只追加会话日志导出为可读的 Markdown 或 HTML。
 
 ### 数据、研究与知识
+
+- [Archerkattri/dsh-qwen-websearch](https://github.com/Archerkattri/dsh-qwen-websearch) — 通过 Responses API 的 web_search 工具让 web_search 走 Qwen Token Plan 额度，由 Qwen3.8 Flash 总结并返回来源链接。
 
 - [context-doctor](https://github.com/Zhenyu98/dsh-context-doctor) — 看清模型每个请求到底背着多少上下文：指令链/技能目录/工具 schema 的 token 成本逐项量化，自动检测重复与冲突，给出可执行裁剪建议（Web 圆环面板 + context_audit 工具，全程只读）。
 
