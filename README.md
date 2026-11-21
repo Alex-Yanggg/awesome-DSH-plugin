@@ -37,6 +37,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 
 ### Developer tools
 
+- [Archerkattri/dsh-qwen4-effort](https://github.com/Archerkattri/dsh-qwen4-effort) — Fills the official Qwen4 effort levels (low/medium/xhigh for Max Preview, low/high/xhigh for Max) into Qwen4 models on existing Qwen Token Plan routes, preserving other providers and existing declarations.
+
 - [billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) — Model-driven context compression (ACP) for DeepSeek Harness, ported from billion-context-pi — the model decides when and what to compress.
 
 - [Code2Skill](https://github.com/leechen298/Code2Skill) — Generate Functions, MCP tools, workflow Skills, and offline test packages from user-authorized source code.
@@ -161,6 +163,8 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-im-hub](https://github.com/ThreeBody6666/dsh-im-hub) — A multi-platform IM gateway for Feishu, WeCom, and Telegram with per-chat agent sessions.
 
 ### Data, research & knowledge
+
+- [Archerkattri/dsh-qwen-websearch](https://github.com/Archerkattri/dsh-qwen-websearch) — Qwen Token Plan web search provider that runs web_search on Token Plan credits through the Responses API web_search tool, summarizing with Qwen3.8 Flash and returning source URLs.
 
 - [context-doctor](https://github.com/Zhenyu98/dsh-context-doctor) — See exactly what every request carries: token cost of the AGENTS.md chain, skill catalog and tool schemas, with duplicate/conflict detection and actionable pruning tips (Web UI gauge + context_audit tool, read-only).
 
