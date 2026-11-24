@@ -130,6 +130,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-deepseek-quota](https://github.com/yingjunnan/dsh-deepseek-quota) — Displays remaining DeepSeek API balance in an auto-refreshing DSH Web floating card.
 - [dsh-plugin-hub](https://github.com/Noob-stupid/dsh-plugin-hub) — A plugin manager and GitHub dsh-plugin marketplace for the DSH Web UI.
 - [dsh-theme-plugin](https://github.com/BeiZi6/dsh-theme-plugin) — A DSH Web GUI theme studio with presets, custom palettes, and instant theme switching.
+- [dsh-zhuoer-theme](https://github.com/zuoyunlai/dsh-zhuoer-theme) — Eleven built-in color themes plus a custom theme editor with eight color anchors, style presets and screenshot color picking; applies design tokens locally through the host theme API.
 
 ### Agent orchestration & automation
 
