@@ -162,6 +162,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [deepseek-manners](https://github.com/Moeblack/deepseek-manners) — 给每次助手回复追加一句感谢语。
 
+- [DSH Science Review](https://github.com/SPYfighting/dsh-science-review) — 可在选定的 DSH 回答下方查看审查报告，逐项对照主张原文、工具记录和修正建议。
+
 - [dsh-companion](https://github.com/william-jin-cmu/dsh-companion) — Cetus macOS 桌面智能体的 DeepSeek Harness 发行版：常驻桌面聊天伙伴，支持全局快捷键、屏幕上下文、定时任务和文件递送。
 
 - [dsh-im-hub](https://github.com/ThreeBody6666/dsh-im-hub) — DeepSeek Harness 多平台 IM 网关，集成飞书、企业微信和 Telegram，并提供每聊天独立智能体会话。
@@ -181,6 +183,8 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 - [context-doctor](https://github.com/Zhenyu98/dsh-context-doctor) — 看清模型每个请求到底背着多少上下文：指令链/技能目录/工具 schema 的 token 成本逐项量化，自动检测重复与冲突，给出可执行裁剪建议（Web 圆环面板 + context_audit 工具，全程只读）。
 
 - [cross-harness-cite](https://github.com/dsh-external/cross-harness-cite) — 让 DeepSeek Harness 引用 Codex 与 Claude Code 中相关的历史对话。
+
+- [DSH Science Workbench](https://github.com/SPYfighting/dsh-science-plugin) — 九种研究角色在同一个工作台协作规划论文、跟踪实验任务，并整理引用和图表。
 
 - [dsh-artifact-library](https://github.com/wyq183/dsh-artifact-library) — DeepSeek Harness 本地优先的产物与资料库：自动采集 AI 产出、AI 整理分类（摘要/标签）、跨会话全文检索、项目级总览。
 

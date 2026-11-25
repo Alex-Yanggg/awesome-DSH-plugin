@@ -159,6 +159,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [plugin-session-export](https://github.com/whyihaveyou/dsh-suite/tree/main/packages/plugins/plugin-session-export) — Exports append-only session logs as Markdown or HTML.
 - [dsh-lark-meeting-notifier](https://github.com/yeruizhi/dsh-lark-meeting-notifier) — A Feishu meeting reminder panel with today/tomorrow views and flashing alarms.
 - [dsh-im-hub](https://github.com/ThreeBody6666/dsh-im-hub) — A multi-platform IM gateway for Feishu, WeCom, and Telegram with per-chat agent sessions.
+- [DSH Science Review](https://github.com/SPYfighting/dsh-science-review) — Displays a review beneath each requested DSH reply with quoted claims, supporting tool records, and suggested corrections.
 
 ### Data, research & knowledge
 
@@ -178,6 +179,7 @@ DeepSeek Harness plugins can connect an agent to tools, services, devices, and r
 - [dsh-openbiliclaw](https://github.com/whiteguo233/dsh-openbiliclaw) — Brings the local OpenBiliClaw content-recommendation agent into DSH with a persistent UI and 22 agent-bridge tools.
 
 - [dsh-session-search](https://github.com/dsh-external/dsh-session-search) — Provides full-text search across DSH, Codex, Claude Code, pi, and OpenCode sessions.
+- [DSH Science Workbench](https://github.com/SPYfighting/dsh-science-plugin) — Coordinates nine research roles around paper plans, experiment tasks, citations, and figures in a shared workspace.
 
 ### Cloud, DevOps & observability
 
